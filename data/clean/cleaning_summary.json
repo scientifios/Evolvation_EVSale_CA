@@ -1,0 +1,46 @@
+{
+  "county_rows_long": 6899,
+  "county_rows_wide": 3279,
+  "zip_rows_long": 137356,
+  "zip_rows_wide": 74412,
+  "period_start": "2008-Q3",
+  "period_end": "2025-Q4",
+  "fuel_types": [
+    "Electric",
+    "Hydrogen",
+    "PHEV"
+  ],
+  "outputs": [
+    "county_sales_long.csv",
+    "county_sales_wide.csv",
+    "county_sales_nested.json",
+    "zip_sales_long.csv",
+    "zip_sales_wide.csv",
+    "zip_sales_nested.json",
+    "timeline.json",
+    "county_charger_sales_scatter.csv",
+    "county_charger_sales_scatter.json"
+  ],
+  "scatter_rows": 986,
+  "scatter_period_start": "2020-Q2",
+  "scatter_period_end": "2025-Q3",
+  "scatter_periods": [
+    "2020-Q2",
+    "2020-Q3",
+    "2020-Q4",
+    "2021-Q1",
+    "2021-Q2",
+    "2021-Q3",
+    "2021-Q4",
+    "2022-Q1",
+    "2022-Q2",
+    "2022-Q3",
+    "2022-Q4",
+    "2023-Q2",
+    "2023-Q3",
+    "2023-Q4",
+    "2024-Q3",
+    "2025-Q1",
+    "2025-Q3"
+  ]
+}

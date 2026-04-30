@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>California EV Sales Explorer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">CSEN 377 Assignment 2</p>
+        <h1>California EV Sales Explorer</h1>
+        <p class="subtitle">Interactive county-to-ZIP drill-down map for Electric, Hydrogen, and PHEV sales from 2008 Q3 to 2025 Q4.</p>
+      </div>
+      <div class="legend" aria-label="Fuel type legend">
+        <span><i class="dot electric"></i>Electric</span>
+        <span><i class="dot hydrogen"></i>Hydrogen</span>
+        <span><i class="dot phev"></i>PHEV</span>
+      </div>
+    </header>
+
+    <section class="control-panel">
+      <button id="backButton" class="button hidden" type="button">Back to California</button>
+      <div class="period-control">
+        <label for="timeSlider">Quarter: <strong id="periodLabel">Loading...</strong></label>
+        <input id="timeSlider" type="range" min="0" max="0" value="0" step="1" />
+        <p class="hint">Drag the timeline or scroll over it. Circle area represents vehicle sales.</p>
+      </div>
+    </section>
+
+    <section class="chart-card">
+      <div id="statusMessage" class="status hidden"></div>
+      <svg id="map" role="img" aria-label="California EV sales map"></svg>
+      <div id="tooltip" class="tooltip hidden"></div>
+    </section>
+
+    <section class="scatter-section">
+      <div class="section-heading">
+        <div>
+          <h2>ZEV Chargers and EV Sales</h2>
+          <p>County-level relationship for charger inventory and EV sales, starting at the first charger reporting quarter in 2020 Q2.</p>
+        </div>
+        <label class="scatter-switch" for="scatterLogSwitch">
+          <span>Log scale</span>
+          <input id="scatterLogSwitch" type="checkbox" />
+          <i aria-hidden="true"></i>
+        </label>
+      </div>
+      <div class="scatter-card">
+        <svg id="scatterPlot" role="img" aria-label="County ZEV chargers and EV sales scatter plot"></svg>
+        <div id="scatterCountyReadout" class="scatter-county-readout">Hover a county</div>
+        <div id="scatterTooltip" class="tooltip hidden"></div>
+      </div>
+      <div class="scatter-control">
+        <label for="scatterTimeSlider">Quarter: <strong id="scatterPeriodLabel">Loading...</strong></label>
+        <input id="scatterTimeSlider" type="range" min="0" max="0" value="0" step="1" />
+        <p class="hint">Drag this timeline or scroll over it to change the scatter plot quarter.</p>
+      </div>
+    </section>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3"></script>
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

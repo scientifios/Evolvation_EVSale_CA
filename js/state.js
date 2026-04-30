@@ -1,0 +1,19 @@
+export const state = {
+  countySales: {},
+  zipSales: {},
+  timeline: [],
+  countyFeatures: [],
+  periodIndex: 0,
+  selectedCounty: null,
+  selectedCountyFeature: null,
+  currentView: "state",
+  projection: null,
+  path: null,
+  currentTransform: null,
+  scatterData: { timeline: [], counties: [], byPeriod: {} },
+  scatterPeriodIndex: 0,
+  scatterDomains: { maxChargers: 1, maxSales: 1 },
+  scatterUseLog: false,
+  countyZctaCache: new Map(),
+  ui: {}
+};

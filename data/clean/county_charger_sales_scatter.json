@@ -1,0 +1,5049 @@
+{
+  "timeline": [
+    "2020-Q2",
+    "2020-Q3",
+    "2020-Q4",
+    "2021-Q1",
+    "2021-Q2",
+    "2021-Q3",
+    "2021-Q4",
+    "2022-Q1",
+    "2022-Q2",
+    "2022-Q3",
+    "2022-Q4",
+    "2023-Q2",
+    "2023-Q3",
+    "2023-Q4",
+    "2024-Q3",
+    "2025-Q1",
+    "2025-Q3"
+  ],
+  "counties": [
+    "Alameda",
+    "Alpine",
+    "Amador",
+    "Butte",
+    "Calaveras",
+    "Colusa",
+    "Contra Costa",
+    "Del Norte",
+    "El Dorado",
+    "Fresno",
+    "Glenn",
+    "Humboldt",
+    "Imperial",
+    "Inyo",
+    "Kern",
+    "Kings",
+    "Lake",
+    "Lassen",
+    "Los Angeles",
+    "Madera",
+    "Marin",
+    "Mariposa",
+    "Mendocino",
+    "Merced",
+    "Modoc",
+    "Mono",
+    "Monterey",
+    "Napa",
+    "Nevada",
+    "Orange",
+    "Placer",
+    "Plumas",
+    "Riverside",
+    "Sacramento",
+    "San Benito",
+    "San Bernardino",
+    "San Diego",
+    "San Francisco",
+    "San Joaquin",
+    "San Luis Obispo",
+    "San Mateo",
+    "Santa Barbara",
+    "Santa Clara",
+    "Santa Cruz",
+    "Shasta",
+    "Sierra",
+    "Siskiyou",
+    "Solano",
+    "Sonoma",
+    "Stanislaus",
+    "Sutter",
+    "Tehama",
+    "Trinity",
+    "Tulare",
+    "Tuolumne",
+    "Ventura",
+    "Yolo",
+    "Yuba"
+  ],
+  "byPeriod": {
+    "2020-Q2": [
+      {
+        "county": "Alameda",
+        "chargers": 2990,
+        "zev_sales": 1101
+      },
+      {
+        "county": "Alpine",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Amador",
+        "chargers": 29,
+        "zev_sales": 5
+      },
+      {
+        "county": "Butte",
+        "chargers": 74,
+        "zev_sales": 30
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 7,
+        "zev_sales": 6
+      },
+      {
+        "county": "Colusa",
+        "chargers": 28,
+        "zev_sales": 2
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1068,
+        "zev_sales": 668
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 30,
+        "zev_sales": 0
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 150,
+        "zev_sales": 73
+      },
+      {
+        "county": "Fresno",
+        "chargers": 684,
+        "zev_sales": 142
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 1
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 105,
+        "zev_sales": 22
+      },
+      {
+        "county": "Imperial",
+        "chargers": 15,
+        "zev_sales": 10
+      },
+      {
+        "county": "Inyo",
+        "chargers": 23,
+        "zev_sales": 3
+      },
+      {
+        "county": "Kern",
+        "chargers": 241,
+        "zev_sales": 85
+      },
+      {
+        "county": "Kings",
+        "chargers": 122,
+        "zev_sales": 15
+      },
+      {
+        "county": "Lake",
+        "chargers": 10,
+        "zev_sales": 6
+      },
+      {
+        "county": "Lassen",
+        "chargers": 4,
+        "zev_sales": 1
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 16770,
+        "zev_sales": 4729
+      },
+      {
+        "county": "Madera",
+        "chargers": 84,
+        "zev_sales": 19
+      },
+      {
+        "county": "Marin",
+        "chargers": 629,
+        "zev_sales": 278
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 16,
+        "zev_sales": 1
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 110,
+        "zev_sales": 19
+      },
+      {
+        "county": "Merced",
+        "chargers": 94,
+        "zev_sales": 18
+      },
+      {
+        "county": "Modoc",
+        "chargers": 4,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 31,
+        "zev_sales": 4
+      },
+      {
+        "county": "Monterey",
+        "chargers": 348,
+        "zev_sales": 84
+      },
+      {
+        "county": "Napa",
+        "chargers": 316,
+        "zev_sales": 53
+      },
+      {
+        "county": "Nevada",
+        "chargers": 86,
+        "zev_sales": 22
+      },
+      {
+        "county": "Orange",
+        "chargers": 4799,
+        "zev_sales": 2173
+      },
+      {
+        "county": "Placer",
+        "chargers": 305,
+        "zev_sales": 155
+      },
+      {
+        "county": "Plumas",
+        "chargers": 5,
+        "zev_sales": 2
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1306,
+        "zev_sales": 603
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1438,
+        "zev_sales": 412
+      },
+      {
+        "county": "San Benito",
+        "chargers": 44,
+        "zev_sales": 13
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 999,
+        "zev_sales": 467
+      },
+      {
+        "county": "San Diego",
+        "chargers": 6073,
+        "zev_sales": 1235
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1264,
+        "zev_sales": 533
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 306,
+        "zev_sales": 147
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 442,
+        "zev_sales": 90
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 3617,
+        "zev_sales": 626
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 437,
+        "zev_sales": 168
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 14164,
+        "zev_sales": 1669
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 250,
+        "zev_sales": 122
+      },
+      {
+        "county": "Shasta",
+        "chargers": 57,
+        "zev_sales": 24
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 1
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 55,
+        "zev_sales": 3
+      },
+      {
+        "county": "Solano",
+        "chargers": 369,
+        "zev_sales": 123
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 670,
+        "zev_sales": 189
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 122,
+        "zev_sales": 65
+      },
+      {
+        "county": "Sutter",
+        "chargers": 20,
+        "zev_sales": 15
+      },
+      {
+        "county": "Tehama",
+        "chargers": 32,
+        "zev_sales": 4
+      },
+      {
+        "county": "Trinity",
+        "chargers": 4,
+        "zev_sales": 1
+      },
+      {
+        "county": "Tulare",
+        "chargers": 76,
+        "zev_sales": 27
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 45,
+        "zev_sales": 4
+      },
+      {
+        "county": "Ventura",
+        "chargers": 749,
+        "zev_sales": 343
+      },
+      {
+        "county": "Yolo",
+        "chargers": 264,
+        "zev_sales": 74
+      },
+      {
+        "county": "Yuba",
+        "chargers": 14,
+        "zev_sales": 1
+      }
+    ],
+    "2020-Q3": [
+      {
+        "county": "Alameda",
+        "chargers": 3082,
+        "zev_sales": 1635
+      },
+      {
+        "county": "Alpine",
+        "chargers": 13,
+        "zev_sales": 0
+      },
+      {
+        "county": "Amador",
+        "chargers": 30,
+        "zev_sales": 9
+      },
+      {
+        "county": "Butte",
+        "chargers": 76,
+        "zev_sales": 40
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 7,
+        "zev_sales": 13
+      },
+      {
+        "county": "Colusa",
+        "chargers": 28,
+        "zev_sales": 0
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1325,
+        "zev_sales": 1000
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 30,
+        "zev_sales": 4
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 160,
+        "zev_sales": 115
+      },
+      {
+        "county": "Fresno",
+        "chargers": 779,
+        "zev_sales": 263
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 6
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 114,
+        "zev_sales": 26
+      },
+      {
+        "county": "Imperial",
+        "chargers": 27,
+        "zev_sales": 11
+      },
+      {
+        "county": "Inyo",
+        "chargers": 23,
+        "zev_sales": 6
+      },
+      {
+        "county": "Kern",
+        "chargers": 279,
+        "zev_sales": 138
+      },
+      {
+        "county": "Kings",
+        "chargers": 140,
+        "zev_sales": 22
+      },
+      {
+        "county": "Lake",
+        "chargers": 15,
+        "zev_sales": 13
+      },
+      {
+        "county": "Lassen",
+        "chargers": 5,
+        "zev_sales": 0
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 18509,
+        "zev_sales": 7213
+      },
+      {
+        "county": "Madera",
+        "chargers": 89,
+        "zev_sales": 13
+      },
+      {
+        "county": "Marin",
+        "chargers": 684,
+        "zev_sales": 456
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 16,
+        "zev_sales": 2
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 129,
+        "zev_sales": 26
+      },
+      {
+        "county": "Merced",
+        "chargers": 114,
+        "zev_sales": 48
+      },
+      {
+        "county": "Modoc",
+        "chargers": 4,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 31,
+        "zev_sales": 8
+      },
+      {
+        "county": "Monterey",
+        "chargers": 360,
+        "zev_sales": 134
+      },
+      {
+        "county": "Napa",
+        "chargers": 348,
+        "zev_sales": 106
+      },
+      {
+        "county": "Nevada",
+        "chargers": 88,
+        "zev_sales": 65
+      },
+      {
+        "county": "Orange",
+        "chargers": 4886,
+        "zev_sales": 3835
+      },
+      {
+        "county": "Placer",
+        "chargers": 339,
+        "zev_sales": 297
+      },
+      {
+        "county": "Plumas",
+        "chargers": 5,
+        "zev_sales": 2
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1360,
+        "zev_sales": 978
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1765,
+        "zev_sales": 717
+      },
+      {
+        "county": "San Benito",
+        "chargers": 42,
+        "zev_sales": 28
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1297,
+        "zev_sales": 740
+      },
+      {
+        "county": "San Diego",
+        "chargers": 6760,
+        "zev_sales": 2373
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1384,
+        "zev_sales": 1072
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 326,
+        "zev_sales": 254
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 486,
+        "zev_sales": 143
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 3758,
+        "zev_sales": 977
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 461,
+        "zev_sales": 264
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 14913,
+        "zev_sales": 2455
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 262,
+        "zev_sales": 168
+      },
+      {
+        "county": "Shasta",
+        "chargers": 94,
+        "zev_sales": 31
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 1
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 63,
+        "zev_sales": 4
+      },
+      {
+        "county": "Solano",
+        "chargers": 362,
+        "zev_sales": 188
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 695,
+        "zev_sales": 348
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 145,
+        "zev_sales": 115
+      },
+      {
+        "county": "Sutter",
+        "chargers": 23,
+        "zev_sales": 16
+      },
+      {
+        "county": "Tehama",
+        "chargers": 32,
+        "zev_sales": 8
+      },
+      {
+        "county": "Trinity",
+        "chargers": 8,
+        "zev_sales": 2
+      },
+      {
+        "county": "Tulare",
+        "chargers": 85,
+        "zev_sales": 58
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 47,
+        "zev_sales": 9
+      },
+      {
+        "county": "Ventura",
+        "chargers": 868,
+        "zev_sales": 576
+      },
+      {
+        "county": "Yolo",
+        "chargers": 328,
+        "zev_sales": 105
+      },
+      {
+        "county": "Yuba",
+        "chargers": 16,
+        "zev_sales": 13
+      }
+    ],
+    "2020-Q4": [
+      {
+        "county": "Alameda",
+        "chargers": 3353,
+        "zev_sales": 2176
+      },
+      {
+        "county": "Alpine",
+        "chargers": 15,
+        "zev_sales": 1
+      },
+      {
+        "county": "Amador",
+        "chargers": 40,
+        "zev_sales": 8
+      },
+      {
+        "county": "Butte",
+        "chargers": 76,
+        "zev_sales": 63
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 7,
+        "zev_sales": 10
+      },
+      {
+        "county": "Colusa",
+        "chargers": 28,
+        "zev_sales": 1
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1355,
+        "zev_sales": 1457
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 30,
+        "zev_sales": 2
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 173,
+        "zev_sales": 144
+      },
+      {
+        "county": "Fresno",
+        "chargers": 921,
+        "zev_sales": 338
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 9
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 112,
+        "zev_sales": 33
+      },
+      {
+        "county": "Imperial",
+        "chargers": 27,
+        "zev_sales": 16
+      },
+      {
+        "county": "Inyo",
+        "chargers": 37,
+        "zev_sales": 8
+      },
+      {
+        "county": "Kern",
+        "chargers": 279,
+        "zev_sales": 203
+      },
+      {
+        "county": "Kings",
+        "chargers": 144,
+        "zev_sales": 21
+      },
+      {
+        "county": "Lake",
+        "chargers": 15,
+        "zev_sales": 6
+      },
+      {
+        "county": "Lassen",
+        "chargers": 5,
+        "zev_sales": 2
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 19236,
+        "zev_sales": 10037
+      },
+      {
+        "county": "Madera",
+        "chargers": 113,
+        "zev_sales": 34
+      },
+      {
+        "county": "Marin",
+        "chargers": 706,
+        "zev_sales": 606
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 16,
+        "zev_sales": 3
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 144,
+        "zev_sales": 29
+      },
+      {
+        "county": "Merced",
+        "chargers": 130,
+        "zev_sales": 42
+      },
+      {
+        "county": "Modoc",
+        "chargers": 4,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 32,
+        "zev_sales": 6
+      },
+      {
+        "county": "Monterey",
+        "chargers": 422,
+        "zev_sales": 201
+      },
+      {
+        "county": "Napa",
+        "chargers": 374,
+        "zev_sales": 132
+      },
+      {
+        "county": "Nevada",
+        "chargers": 93,
+        "zev_sales": 90
+      },
+      {
+        "county": "Orange",
+        "chargers": 5242,
+        "zev_sales": 5034
+      },
+      {
+        "county": "Placer",
+        "chargers": 351,
+        "zev_sales": 437
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 4
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1464,
+        "zev_sales": 1427
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1777,
+        "zev_sales": 851
+      },
+      {
+        "county": "San Benito",
+        "chargers": 50,
+        "zev_sales": 47
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1338,
+        "zev_sales": 1076
+      },
+      {
+        "county": "San Diego",
+        "chargers": 6874,
+        "zev_sales": 3276
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1505,
+        "zev_sales": 1425
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 389,
+        "zev_sales": 394
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 493,
+        "zev_sales": 228
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4070,
+        "zev_sales": 1282
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 494,
+        "zev_sales": 392
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 15406,
+        "zev_sales": 3086
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 281,
+        "zev_sales": 226
+      },
+      {
+        "county": "Shasta",
+        "chargers": 96,
+        "zev_sales": 52
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 0
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 63,
+        "zev_sales": 5
+      },
+      {
+        "county": "Solano",
+        "chargers": 372,
+        "zev_sales": 242
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 743,
+        "zev_sales": 421
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 145,
+        "zev_sales": 161
+      },
+      {
+        "county": "Sutter",
+        "chargers": 31,
+        "zev_sales": 22
+      },
+      {
+        "county": "Tehama",
+        "chargers": 32,
+        "zev_sales": 9
+      },
+      {
+        "county": "Trinity",
+        "chargers": 8,
+        "zev_sales": 3
+      },
+      {
+        "county": "Tulare",
+        "chargers": 103,
+        "zev_sales": 71
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 47,
+        "zev_sales": 12
+      },
+      {
+        "county": "Ventura",
+        "chargers": 845,
+        "zev_sales": 753
+      },
+      {
+        "county": "Yolo",
+        "chargers": 324,
+        "zev_sales": 126
+      },
+      {
+        "county": "Yuba",
+        "chargers": 16,
+        "zev_sales": 22
+      }
+    ],
+    "2021-Q1": [
+      {
+        "county": "Alameda",
+        "chargers": 3544,
+        "zev_sales": 2751
+      },
+      {
+        "county": "Alpine",
+        "chargers": 15,
+        "zev_sales": 3
+      },
+      {
+        "county": "Amador",
+        "chargers": 40,
+        "zev_sales": 9
+      },
+      {
+        "county": "Butte",
+        "chargers": 82,
+        "zev_sales": 65
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 19,
+        "zev_sales": 21
+      },
+      {
+        "county": "Colusa",
+        "chargers": 28,
+        "zev_sales": 4
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1455,
+        "zev_sales": 1647
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 25,
+        "zev_sales": 2
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 167,
+        "zev_sales": 164
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1092,
+        "zev_sales": 392
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 7
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 124,
+        "zev_sales": 49
+      },
+      {
+        "county": "Imperial",
+        "chargers": 33,
+        "zev_sales": 24
+      },
+      {
+        "county": "Inyo",
+        "chargers": 35,
+        "zev_sales": 6
+      },
+      {
+        "county": "Kern",
+        "chargers": 298,
+        "zev_sales": 267
+      },
+      {
+        "county": "Kings",
+        "chargers": 147,
+        "zev_sales": 35
+      },
+      {
+        "county": "Lake",
+        "chargers": 15,
+        "zev_sales": 10
+      },
+      {
+        "county": "Lassen",
+        "chargers": 6,
+        "zev_sales": 1
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 19872,
+        "zev_sales": 11801
+      },
+      {
+        "county": "Madera",
+        "chargers": 121,
+        "zev_sales": 43
+      },
+      {
+        "county": "Marin",
+        "chargers": 728,
+        "zev_sales": 719
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 16,
+        "zev_sales": 6
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 146,
+        "zev_sales": 31
+      },
+      {
+        "county": "Merced",
+        "chargers": 138,
+        "zev_sales": 69
+      },
+      {
+        "county": "Modoc",
+        "chargers": 4,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 32,
+        "zev_sales": 5
+      },
+      {
+        "county": "Monterey",
+        "chargers": 424,
+        "zev_sales": 219
+      },
+      {
+        "county": "Napa",
+        "chargers": 386,
+        "zev_sales": 196
+      },
+      {
+        "county": "Nevada",
+        "chargers": 88,
+        "zev_sales": 74
+      },
+      {
+        "county": "Orange",
+        "chargers": 5381,
+        "zev_sales": 5758
+      },
+      {
+        "county": "Placer",
+        "chargers": 361,
+        "zev_sales": 465
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 1
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1422,
+        "zev_sales": 1743
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1850,
+        "zev_sales": 1163
+      },
+      {
+        "county": "San Benito",
+        "chargers": 47,
+        "zev_sales": 37
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1395,
+        "zev_sales": 1318
+      },
+      {
+        "county": "San Diego",
+        "chargers": 7170,
+        "zev_sales": 3784
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1609,
+        "zev_sales": 1418
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 397,
+        "zev_sales": 451
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 493,
+        "zev_sales": 255
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4282,
+        "zev_sales": 1539
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 499,
+        "zev_sales": 384
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 16119,
+        "zev_sales": 3850
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 302,
+        "zev_sales": 298
+      },
+      {
+        "county": "Shasta",
+        "chargers": 93,
+        "zev_sales": 69
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 0
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 56,
+        "zev_sales": 3
+      },
+      {
+        "county": "Solano",
+        "chargers": 394,
+        "zev_sales": 385
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 789,
+        "zev_sales": 541
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 151,
+        "zev_sales": 177
+      },
+      {
+        "county": "Sutter",
+        "chargers": 31,
+        "zev_sales": 39
+      },
+      {
+        "county": "Tehama",
+        "chargers": 31,
+        "zev_sales": 11
+      },
+      {
+        "county": "Trinity",
+        "chargers": 6,
+        "zev_sales": 1
+      },
+      {
+        "county": "Tulare",
+        "chargers": 108,
+        "zev_sales": 109
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 50,
+        "zev_sales": 13
+      },
+      {
+        "county": "Ventura",
+        "chargers": 892,
+        "zev_sales": 937
+      },
+      {
+        "county": "Yolo",
+        "chargers": 386,
+        "zev_sales": 166
+      },
+      {
+        "county": "Yuba",
+        "chargers": 16,
+        "zev_sales": 16
+      }
+    ],
+    "2021-Q2": [
+      {
+        "county": "Alameda",
+        "chargers": 3560,
+        "zev_sales": 3246
+      },
+      {
+        "county": "Alpine",
+        "chargers": 15,
+        "zev_sales": 2
+      },
+      {
+        "county": "Amador",
+        "chargers": 40,
+        "zev_sales": 13
+      },
+      {
+        "county": "Butte",
+        "chargers": 91,
+        "zev_sales": 87
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 19,
+        "zev_sales": 16
+      },
+      {
+        "county": "Colusa",
+        "chargers": 30,
+        "zev_sales": 2
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1461,
+        "zev_sales": 2086
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 25,
+        "zev_sales": 2
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 177,
+        "zev_sales": 199
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1127,
+        "zev_sales": 582
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 3
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 134,
+        "zev_sales": 65
+      },
+      {
+        "county": "Imperial",
+        "chargers": 33,
+        "zev_sales": 59
+      },
+      {
+        "county": "Inyo",
+        "chargers": 39,
+        "zev_sales": 11
+      },
+      {
+        "county": "Kern",
+        "chargers": 306,
+        "zev_sales": 425
+      },
+      {
+        "county": "Kings",
+        "chargers": 147,
+        "zev_sales": 49
+      },
+      {
+        "county": "Lake",
+        "chargers": 17,
+        "zev_sales": 28
+      },
+      {
+        "county": "Lassen",
+        "chargers": 6,
+        "zev_sales": 1
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 20193,
+        "zev_sales": 15645
+      },
+      {
+        "county": "Madera",
+        "chargers": 121,
+        "zev_sales": 66
+      },
+      {
+        "county": "Marin",
+        "chargers": 730,
+        "zev_sales": 763
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 16,
+        "zev_sales": 6
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 158,
+        "zev_sales": 56
+      },
+      {
+        "county": "Merced",
+        "chargers": 142,
+        "zev_sales": 115
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 32,
+        "zev_sales": 10
+      },
+      {
+        "county": "Monterey",
+        "chargers": 431,
+        "zev_sales": 334
+      },
+      {
+        "county": "Napa",
+        "chargers": 388,
+        "zev_sales": 200
+      },
+      {
+        "county": "Nevada",
+        "chargers": 88,
+        "zev_sales": 89
+      },
+      {
+        "county": "Orange",
+        "chargers": 5477,
+        "zev_sales": 7288
+      },
+      {
+        "county": "Placer",
+        "chargers": 365,
+        "zev_sales": 569
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 5
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1441,
+        "zev_sales": 2537
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1852,
+        "zev_sales": 1460
+      },
+      {
+        "county": "San Benito",
+        "chargers": 47,
+        "zev_sales": 65
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1415,
+        "zev_sales": 1958
+      },
+      {
+        "county": "San Diego",
+        "chargers": 7199,
+        "zev_sales": 4497
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1671,
+        "zev_sales": 1579
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 402,
+        "zev_sales": 697
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 513,
+        "zev_sales": 352
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4459,
+        "zev_sales": 1714
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 492,
+        "zev_sales": 452
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 16202,
+        "zev_sales": 4967
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 300,
+        "zev_sales": 344
+      },
+      {
+        "county": "Shasta",
+        "chargers": 93,
+        "zev_sales": 100
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 0
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 67,
+        "zev_sales": 10
+      },
+      {
+        "county": "Solano",
+        "chargers": 421,
+        "zev_sales": 463
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 791,
+        "zev_sales": 649
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 150,
+        "zev_sales": 266
+      },
+      {
+        "county": "Sutter",
+        "chargers": 31,
+        "zev_sales": 46
+      },
+      {
+        "county": "Tehama",
+        "chargers": 30,
+        "zev_sales": 22
+      },
+      {
+        "county": "Trinity",
+        "chargers": 6,
+        "zev_sales": 0
+      },
+      {
+        "county": "Tulare",
+        "chargers": 119,
+        "zev_sales": 146
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 50,
+        "zev_sales": 24
+      },
+      {
+        "county": "Ventura",
+        "chargers": 893,
+        "zev_sales": 1194
+      },
+      {
+        "county": "Yolo",
+        "chargers": 386,
+        "zev_sales": 239
+      },
+      {
+        "county": "Yuba",
+        "chargers": 16,
+        "zev_sales": 35
+      }
+    ],
+    "2021-Q3": [
+      {
+        "county": "Alameda",
+        "chargers": 3625,
+        "zev_sales": 3293
+      },
+      {
+        "county": "Alpine",
+        "chargers": 15,
+        "zev_sales": 4
+      },
+      {
+        "county": "Amador",
+        "chargers": 40,
+        "zev_sales": 17
+      },
+      {
+        "county": "Butte",
+        "chargers": 92,
+        "zev_sales": 93
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 21,
+        "zev_sales": 26
+      },
+      {
+        "county": "Colusa",
+        "chargers": 34,
+        "zev_sales": 2
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1483,
+        "zev_sales": 2166
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 29,
+        "zev_sales": 2
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 181,
+        "zev_sales": 206
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1143,
+        "zev_sales": 557
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 5
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 142,
+        "zev_sales": 54
+      },
+      {
+        "county": "Imperial",
+        "chargers": 33,
+        "zev_sales": 67
+      },
+      {
+        "county": "Inyo",
+        "chargers": 39,
+        "zev_sales": 7
+      },
+      {
+        "county": "Kern",
+        "chargers": 359,
+        "zev_sales": 405
+      },
+      {
+        "county": "Kings",
+        "chargers": 148,
+        "zev_sales": 48
+      },
+      {
+        "county": "Lake",
+        "chargers": 17,
+        "zev_sales": 19
+      },
+      {
+        "county": "Lassen",
+        "chargers": 14,
+        "zev_sales": 1
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 20520,
+        "zev_sales": 15086
+      },
+      {
+        "county": "Madera",
+        "chargers": 122,
+        "zev_sales": 55
+      },
+      {
+        "county": "Marin",
+        "chargers": 734,
+        "zev_sales": 789
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 30,
+        "zev_sales": 9
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 158,
+        "zev_sales": 42
+      },
+      {
+        "county": "Merced",
+        "chargers": 142,
+        "zev_sales": 106
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 32,
+        "zev_sales": 3
+      },
+      {
+        "county": "Monterey",
+        "chargers": 425,
+        "zev_sales": 328
+      },
+      {
+        "county": "Napa",
+        "chargers": 390,
+        "zev_sales": 201
+      },
+      {
+        "county": "Nevada",
+        "chargers": 89,
+        "zev_sales": 82
+      },
+      {
+        "county": "Orange",
+        "chargers": 5657,
+        "zev_sales": 7053
+      },
+      {
+        "county": "Placer",
+        "chargers": 402,
+        "zev_sales": 661
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 8
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1495,
+        "zev_sales": 2766
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1836,
+        "zev_sales": 1358
+      },
+      {
+        "county": "San Benito",
+        "chargers": 49,
+        "zev_sales": 88
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1478,
+        "zev_sales": 2006
+      },
+      {
+        "county": "San Diego",
+        "chargers": 7278,
+        "zev_sales": 5359
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1840,
+        "zev_sales": 1475
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 407,
+        "zev_sales": 704
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 513,
+        "zev_sales": 294
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4701,
+        "zev_sales": 1693
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 522,
+        "zev_sales": 442
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 16498,
+        "zev_sales": 4767
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 306,
+        "zev_sales": 311
+      },
+      {
+        "county": "Shasta",
+        "chargers": 92,
+        "zev_sales": 86
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 1
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 68,
+        "zev_sales": 9
+      },
+      {
+        "county": "Solano",
+        "chargers": 421,
+        "zev_sales": 491
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 803,
+        "zev_sales": 602
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 158,
+        "zev_sales": 317
+      },
+      {
+        "county": "Sutter",
+        "chargers": 33,
+        "zev_sales": 53
+      },
+      {
+        "county": "Tehama",
+        "chargers": 31,
+        "zev_sales": 11
+      },
+      {
+        "county": "Trinity",
+        "chargers": 6,
+        "zev_sales": 3
+      },
+      {
+        "county": "Tulare",
+        "chargers": 124,
+        "zev_sales": 145
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 54,
+        "zev_sales": 22
+      },
+      {
+        "county": "Ventura",
+        "chargers": 894,
+        "zev_sales": 1200
+      },
+      {
+        "county": "Yolo",
+        "chargers": 388,
+        "zev_sales": 200
+      },
+      {
+        "county": "Yuba",
+        "chargers": 16,
+        "zev_sales": 22
+      }
+    ],
+    "2021-Q4": [
+      {
+        "county": "Alameda",
+        "chargers": 3697,
+        "zev_sales": 3364
+      },
+      {
+        "county": "Alpine",
+        "chargers": 14,
+        "zev_sales": 0
+      },
+      {
+        "county": "Amador",
+        "chargers": 39,
+        "zev_sales": 22
+      },
+      {
+        "county": "Butte",
+        "chargers": 94,
+        "zev_sales": 70
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 21,
+        "zev_sales": 20
+      },
+      {
+        "county": "Colusa",
+        "chargers": 38,
+        "zev_sales": 8
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1451,
+        "zev_sales": 2156
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 29,
+        "zev_sales": 6
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 179,
+        "zev_sales": 224
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1133,
+        "zev_sales": 568
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 9
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 150,
+        "zev_sales": 60
+      },
+      {
+        "county": "Imperial",
+        "chargers": 31,
+        "zev_sales": 48
+      },
+      {
+        "county": "Inyo",
+        "chargers": 42,
+        "zev_sales": 7
+      },
+      {
+        "county": "Kern",
+        "chargers": 416,
+        "zev_sales": 403
+      },
+      {
+        "county": "Kings",
+        "chargers": 204,
+        "zev_sales": 57
+      },
+      {
+        "county": "Lake",
+        "chargers": 14,
+        "zev_sales": 16
+      },
+      {
+        "county": "Lassen",
+        "chargers": 13,
+        "zev_sales": 1
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 20950,
+        "zev_sales": 16032
+      },
+      {
+        "county": "Madera",
+        "chargers": 130,
+        "zev_sales": 83
+      },
+      {
+        "county": "Marin",
+        "chargers": 739,
+        "zev_sales": 832
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 24,
+        "zev_sales": 3
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 160,
+        "zev_sales": 40
+      },
+      {
+        "county": "Merced",
+        "chargers": 125,
+        "zev_sales": 100
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 2
+      },
+      {
+        "county": "Mono",
+        "chargers": 32,
+        "zev_sales": 11
+      },
+      {
+        "county": "Monterey",
+        "chargers": 452,
+        "zev_sales": 321
+      },
+      {
+        "county": "Napa",
+        "chargers": 393,
+        "zev_sales": 198
+      },
+      {
+        "county": "Nevada",
+        "chargers": 116,
+        "zev_sales": 82
+      },
+      {
+        "county": "Orange",
+        "chargers": 5852,
+        "zev_sales": 7530
+      },
+      {
+        "county": "Placer",
+        "chargers": 419,
+        "zev_sales": 683
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 13
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1548,
+        "zev_sales": 2787
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1813,
+        "zev_sales": 1497
+      },
+      {
+        "county": "San Benito",
+        "chargers": 47,
+        "zev_sales": 67
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1367,
+        "zev_sales": 2072
+      },
+      {
+        "county": "San Diego",
+        "chargers": 10080,
+        "zev_sales": 5170
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1630,
+        "zev_sales": 1551
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 442,
+        "zev_sales": 762
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 566,
+        "zev_sales": 277
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4511,
+        "zev_sales": 2036
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 557,
+        "zev_sales": 457
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 15987,
+        "zev_sales": 5455
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 307,
+        "zev_sales": 335
+      },
+      {
+        "county": "Shasta",
+        "chargers": 86,
+        "zev_sales": 82
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 0
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 72,
+        "zev_sales": 12
+      },
+      {
+        "county": "Solano",
+        "chargers": 471,
+        "zev_sales": 502
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 794,
+        "zev_sales": 564
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 151,
+        "zev_sales": 283
+      },
+      {
+        "county": "Sutter",
+        "chargers": 27,
+        "zev_sales": 61
+      },
+      {
+        "county": "Tehama",
+        "chargers": 35,
+        "zev_sales": 16
+      },
+      {
+        "county": "Trinity",
+        "chargers": 6,
+        "zev_sales": 2
+      },
+      {
+        "county": "Tulare",
+        "chargers": 123,
+        "zev_sales": 130
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 78,
+        "zev_sales": 26
+      },
+      {
+        "county": "Ventura",
+        "chargers": 894,
+        "zev_sales": 1352
+      },
+      {
+        "county": "Yolo",
+        "chargers": 394,
+        "zev_sales": 224
+      },
+      {
+        "county": "Yuba",
+        "chargers": 32,
+        "zev_sales": 41
+      }
+    ],
+    "2022-Q1": [
+      {
+        "county": "Alameda",
+        "chargers": 5051,
+        "zev_sales": 4133
+      },
+      {
+        "county": "Alpine",
+        "chargers": 18,
+        "zev_sales": 0
+      },
+      {
+        "county": "Amador",
+        "chargers": 33,
+        "zev_sales": 21
+      },
+      {
+        "county": "Butte",
+        "chargers": 132,
+        "zev_sales": 90
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 21,
+        "zev_sales": 34
+      },
+      {
+        "county": "Colusa",
+        "chargers": 36,
+        "zev_sales": 2
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1715,
+        "zev_sales": 2476
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 32,
+        "zev_sales": 2
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 173,
+        "zev_sales": 234
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1311,
+        "zev_sales": 619
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 8
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 145,
+        "zev_sales": 58
+      },
+      {
+        "county": "Imperial",
+        "chargers": 35,
+        "zev_sales": 57
+      },
+      {
+        "county": "Inyo",
+        "chargers": 41,
+        "zev_sales": 9
+      },
+      {
+        "county": "Kern",
+        "chargers": 631,
+        "zev_sales": 440
+      },
+      {
+        "county": "Kings",
+        "chargers": 160,
+        "zev_sales": 50
+      },
+      {
+        "county": "Lake",
+        "chargers": 14,
+        "zev_sales": 21
+      },
+      {
+        "county": "Lassen",
+        "chargers": 13,
+        "zev_sales": 0
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 23903,
+        "zev_sales": 18066
+      },
+      {
+        "county": "Madera",
+        "chargers": 147,
+        "zev_sales": 50
+      },
+      {
+        "county": "Marin",
+        "chargers": 1037,
+        "zev_sales": 814
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 35,
+        "zev_sales": 4
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 158,
+        "zev_sales": 37
+      },
+      {
+        "county": "Merced",
+        "chargers": 139,
+        "zev_sales": 115
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 37,
+        "zev_sales": 5
+      },
+      {
+        "county": "Monterey",
+        "chargers": 383,
+        "zev_sales": 373
+      },
+      {
+        "county": "Napa",
+        "chargers": 393,
+        "zev_sales": 230
+      },
+      {
+        "county": "Nevada",
+        "chargers": 152,
+        "zev_sales": 87
+      },
+      {
+        "county": "Orange",
+        "chargers": 5003,
+        "zev_sales": 9230
+      },
+      {
+        "county": "Placer",
+        "chargers": 424,
+        "zev_sales": 754
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 8
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1441,
+        "zev_sales": 3272
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1765,
+        "zev_sales": 1670
+      },
+      {
+        "county": "San Benito",
+        "chargers": 47,
+        "zev_sales": 98
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1424,
+        "zev_sales": 2423
+      },
+      {
+        "county": "San Diego",
+        "chargers": 6551,
+        "zev_sales": 5734
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1519,
+        "zev_sales": 1671
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 565,
+        "zev_sales": 916
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 638,
+        "zev_sales": 310
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4688,
+        "zev_sales": 4092
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 480,
+        "zev_sales": 470
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 16831,
+        "zev_sales": 6138
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 333,
+        "zev_sales": 348
+      },
+      {
+        "county": "Shasta",
+        "chargers": 90,
+        "zev_sales": 88
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 0
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 68,
+        "zev_sales": 7
+      },
+      {
+        "county": "Solano",
+        "chargers": 501,
+        "zev_sales": 475
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 765,
+        "zev_sales": 637
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 149,
+        "zev_sales": 328
+      },
+      {
+        "county": "Sutter",
+        "chargers": 24,
+        "zev_sales": 53
+      },
+      {
+        "county": "Tehama",
+        "chargers": 66,
+        "zev_sales": 9
+      },
+      {
+        "county": "Trinity",
+        "chargers": 14,
+        "zev_sales": 4
+      },
+      {
+        "county": "Tulare",
+        "chargers": 154,
+        "zev_sales": 143
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 52,
+        "zev_sales": 24
+      },
+      {
+        "county": "Ventura",
+        "chargers": 679,
+        "zev_sales": 1577
+      },
+      {
+        "county": "Yolo",
+        "chargers": 299,
+        "zev_sales": 253
+      },
+      {
+        "county": "Yuba",
+        "chargers": 41,
+        "zev_sales": 42
+      }
+    ],
+    "2022-Q2": [
+      {
+        "county": "Alameda",
+        "chargers": 5139,
+        "zev_sales": 4022
+      },
+      {
+        "county": "Alpine",
+        "chargers": 16,
+        "zev_sales": 1
+      },
+      {
+        "county": "Amador",
+        "chargers": 33,
+        "zev_sales": 18
+      },
+      {
+        "county": "Butte",
+        "chargers": 158,
+        "zev_sales": 91
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 23,
+        "zev_sales": 40
+      },
+      {
+        "county": "Colusa",
+        "chargers": 36,
+        "zev_sales": 11
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1699,
+        "zev_sales": 2493
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 32,
+        "zev_sales": 4
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 193,
+        "zev_sales": 315
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1321,
+        "zev_sales": 759
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 5
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 148,
+        "zev_sales": 67
+      },
+      {
+        "county": "Imperial",
+        "chargers": 43,
+        "zev_sales": 61
+      },
+      {
+        "county": "Inyo",
+        "chargers": 49,
+        "zev_sales": 7
+      },
+      {
+        "county": "Kern",
+        "chargers": 629,
+        "zev_sales": 506
+      },
+      {
+        "county": "Kings",
+        "chargers": 168,
+        "zev_sales": 66
+      },
+      {
+        "county": "Lake",
+        "chargers": 15,
+        "zev_sales": 13
+      },
+      {
+        "county": "Lassen",
+        "chargers": 16,
+        "zev_sales": 5
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 24615,
+        "zev_sales": 20465
+      },
+      {
+        "county": "Madera",
+        "chargers": 152,
+        "zev_sales": 88
+      },
+      {
+        "county": "Marin",
+        "chargers": 1052,
+        "zev_sales": 844
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 45,
+        "zev_sales": 8
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 162,
+        "zev_sales": 51
+      },
+      {
+        "county": "Merced",
+        "chargers": 134,
+        "zev_sales": 146
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 37,
+        "zev_sales": 13
+      },
+      {
+        "county": "Monterey",
+        "chargers": 400,
+        "zev_sales": 364
+      },
+      {
+        "county": "Napa",
+        "chargers": 403,
+        "zev_sales": 231
+      },
+      {
+        "county": "Nevada",
+        "chargers": 152,
+        "zev_sales": 102
+      },
+      {
+        "county": "Orange",
+        "chargers": 5189,
+        "zev_sales": 8684
+      },
+      {
+        "county": "Placer",
+        "chargers": 448,
+        "zev_sales": 831
+      },
+      {
+        "county": "Plumas",
+        "chargers": 8,
+        "zev_sales": 5
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1493,
+        "zev_sales": 3282
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1839,
+        "zev_sales": 1869
+      },
+      {
+        "county": "San Benito",
+        "chargers": 47,
+        "zev_sales": 99
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1560,
+        "zev_sales": 2538
+      },
+      {
+        "county": "San Diego",
+        "chargers": 7074,
+        "zev_sales": 6275
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1575,
+        "zev_sales": 1695
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 596,
+        "zev_sales": 925
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 640,
+        "zev_sales": 382
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4799,
+        "zev_sales": 2911
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 515,
+        "zev_sales": 470
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 16981,
+        "zev_sales": 6201
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 356,
+        "zev_sales": 349
+      },
+      {
+        "county": "Shasta",
+        "chargers": 105,
+        "zev_sales": 94
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 2
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 68,
+        "zev_sales": 15
+      },
+      {
+        "county": "Solano",
+        "chargers": 509,
+        "zev_sales": 545
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 840,
+        "zev_sales": 626
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 158,
+        "zev_sales": 366
+      },
+      {
+        "county": "Sutter",
+        "chargers": 24,
+        "zev_sales": 76
+      },
+      {
+        "county": "Tehama",
+        "chargers": 80,
+        "zev_sales": 16
+      },
+      {
+        "county": "Trinity",
+        "chargers": 14,
+        "zev_sales": 2
+      },
+      {
+        "county": "Tulare",
+        "chargers": 160,
+        "zev_sales": 188
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 52,
+        "zev_sales": 31
+      },
+      {
+        "county": "Ventura",
+        "chargers": 821,
+        "zev_sales": 1659
+      },
+      {
+        "county": "Yolo",
+        "chargers": 428,
+        "zev_sales": 267
+      },
+      {
+        "county": "Yuba",
+        "chargers": 60,
+        "zev_sales": 39
+      }
+    ],
+    "2022-Q3": [
+      {
+        "county": "Alameda",
+        "chargers": 4282,
+        "zev_sales": 4247
+      },
+      {
+        "county": "Alpine",
+        "chargers": 16,
+        "zev_sales": 2
+      },
+      {
+        "county": "Amador",
+        "chargers": 33,
+        "zev_sales": 30
+      },
+      {
+        "county": "Butte",
+        "chargers": 139,
+        "zev_sales": 104
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 23,
+        "zev_sales": 26
+      },
+      {
+        "county": "Colusa",
+        "chargers": 34,
+        "zev_sales": 6
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1495,
+        "zev_sales": 2702
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 39,
+        "zev_sales": 1
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 194,
+        "zev_sales": 282
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1158,
+        "zev_sales": 719
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 10
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 150,
+        "zev_sales": 82
+      },
+      {
+        "county": "Imperial",
+        "chargers": 45,
+        "zev_sales": 79
+      },
+      {
+        "county": "Inyo",
+        "chargers": 49,
+        "zev_sales": 14
+      },
+      {
+        "county": "Kern",
+        "chargers": 646,
+        "zev_sales": 557
+      },
+      {
+        "county": "Kings",
+        "chargers": 176,
+        "zev_sales": 58
+      },
+      {
+        "county": "Lake",
+        "chargers": 15,
+        "zev_sales": 28
+      },
+      {
+        "county": "Lassen",
+        "chargers": 16,
+        "zev_sales": 3
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 25685,
+        "zev_sales": 20265
+      },
+      {
+        "county": "Madera",
+        "chargers": 161,
+        "zev_sales": 70
+      },
+      {
+        "county": "Marin",
+        "chargers": 933,
+        "zev_sales": 827
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 33,
+        "zev_sales": 6
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 200,
+        "zev_sales": 45
+      },
+      {
+        "county": "Merced",
+        "chargers": 177,
+        "zev_sales": 125
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 38,
+        "zev_sales": 8
+      },
+      {
+        "county": "Monterey",
+        "chargers": 394,
+        "zev_sales": 376
+      },
+      {
+        "county": "Napa",
+        "chargers": 391,
+        "zev_sales": 224
+      },
+      {
+        "county": "Nevada",
+        "chargers": 161,
+        "zev_sales": 104
+      },
+      {
+        "county": "Orange",
+        "chargers": 5214,
+        "zev_sales": 9383
+      },
+      {
+        "county": "Placer",
+        "chargers": 425,
+        "zev_sales": 853
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 3
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1508,
+        "zev_sales": 3550
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 1756,
+        "zev_sales": 1912
+      },
+      {
+        "county": "San Benito",
+        "chargers": 43,
+        "zev_sales": 113
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1615,
+        "zev_sales": 2856
+      },
+      {
+        "county": "San Diego",
+        "chargers": 7358,
+        "zev_sales": 6880
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1436,
+        "zev_sales": 1610
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 612,
+        "zev_sales": 986
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 616,
+        "zev_sales": 363
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4436,
+        "zev_sales": 3765
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 504,
+        "zev_sales": 557
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 16227,
+        "zev_sales": 6913
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 345,
+        "zev_sales": 360
+      },
+      {
+        "county": "Shasta",
+        "chargers": 138,
+        "zev_sales": 98
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 2
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 67,
+        "zev_sales": 17
+      },
+      {
+        "county": "Solano",
+        "chargers": 473,
+        "zev_sales": 596
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 794,
+        "zev_sales": 715
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 171,
+        "zev_sales": 355
+      },
+      {
+        "county": "Sutter",
+        "chargers": 27,
+        "zev_sales": 67
+      },
+      {
+        "county": "Tehama",
+        "chargers": 91,
+        "zev_sales": 16
+      },
+      {
+        "county": "Trinity",
+        "chargers": 14,
+        "zev_sales": 1
+      },
+      {
+        "county": "Tulare",
+        "chargers": 212,
+        "zev_sales": 186
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 60,
+        "zev_sales": 31
+      },
+      {
+        "county": "Ventura",
+        "chargers": 810,
+        "zev_sales": 1678
+      },
+      {
+        "county": "Yolo",
+        "chargers": 398,
+        "zev_sales": 277
+      },
+      {
+        "county": "Yuba",
+        "chargers": 59,
+        "zev_sales": 47
+      }
+    ],
+    "2022-Q4": [
+      {
+        "county": "Alameda",
+        "chargers": 4430,
+        "zev_sales": 5386
+      },
+      {
+        "county": "Alpine",
+        "chargers": 6,
+        "zev_sales": 3
+      },
+      {
+        "county": "Amador",
+        "chargers": 34,
+        "zev_sales": 18
+      },
+      {
+        "county": "Butte",
+        "chargers": 146,
+        "zev_sales": 121
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 25,
+        "zev_sales": 26
+      },
+      {
+        "county": "Colusa",
+        "chargers": 34,
+        "zev_sales": 9
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1503,
+        "zev_sales": 3468
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 39,
+        "zev_sales": 4
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 189,
+        "zev_sales": 351
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1291,
+        "zev_sales": 800
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 7
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 154,
+        "zev_sales": 92
+      },
+      {
+        "county": "Imperial",
+        "chargers": 49,
+        "zev_sales": 68
+      },
+      {
+        "county": "Inyo",
+        "chargers": 48,
+        "zev_sales": 17
+      },
+      {
+        "county": "Kern",
+        "chargers": 691,
+        "zev_sales": 595
+      },
+      {
+        "county": "Kings",
+        "chargers": 410,
+        "zev_sales": 58
+      },
+      {
+        "county": "Lake",
+        "chargers": 14,
+        "zev_sales": 27
+      },
+      {
+        "county": "Lassen",
+        "chargers": 16,
+        "zev_sales": 5
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 27015,
+        "zev_sales": 25456
+      },
+      {
+        "county": "Madera",
+        "chargers": 190,
+        "zev_sales": 97
+      },
+      {
+        "county": "Marin",
+        "chargers": 1027,
+        "zev_sales": 1073
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 46,
+        "zev_sales": 15
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 186,
+        "zev_sales": 63
+      },
+      {
+        "county": "Merced",
+        "chargers": 135,
+        "zev_sales": 143
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 1
+      },
+      {
+        "county": "Mono",
+        "chargers": 38,
+        "zev_sales": 17
+      },
+      {
+        "county": "Monterey",
+        "chargers": 424,
+        "zev_sales": 462
+      },
+      {
+        "county": "Napa",
+        "chargers": 396,
+        "zev_sales": 398
+      },
+      {
+        "county": "Nevada",
+        "chargers": 169,
+        "zev_sales": 139
+      },
+      {
+        "county": "Orange",
+        "chargers": 5383,
+        "zev_sales": 11321
+      },
+      {
+        "county": "Placer",
+        "chargers": 455,
+        "zev_sales": 1039
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 6
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1635,
+        "zev_sales": 3816
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 2040,
+        "zev_sales": 2849
+      },
+      {
+        "county": "San Benito",
+        "chargers": 45,
+        "zev_sales": 105
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1682,
+        "zev_sales": 3250
+      },
+      {
+        "county": "San Diego",
+        "chargers": 7735,
+        "zev_sales": 7788
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 1952,
+        "zev_sales": 2134
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 632,
+        "zev_sales": 1260
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 650,
+        "zev_sales": 475
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4557,
+        "zev_sales": 3719
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 512,
+        "zev_sales": 670
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 17621,
+        "zev_sales": 8119
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 359,
+        "zev_sales": 475
+      },
+      {
+        "county": "Shasta",
+        "chargers": 153,
+        "zev_sales": 111
+      },
+      {
+        "county": "Sierra",
+        "chargers": 1,
+        "zev_sales": 0
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 67,
+        "zev_sales": 20
+      },
+      {
+        "county": "Solano",
+        "chargers": 482,
+        "zev_sales": 648
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 816,
+        "zev_sales": 954
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 188,
+        "zev_sales": 397
+      },
+      {
+        "county": "Sutter",
+        "chargers": 22,
+        "zev_sales": 84
+      },
+      {
+        "county": "Tehama",
+        "chargers": 87,
+        "zev_sales": 27
+      },
+      {
+        "county": "Trinity",
+        "chargers": 14,
+        "zev_sales": 2
+      },
+      {
+        "county": "Tulare",
+        "chargers": 231,
+        "zev_sales": 198
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 58,
+        "zev_sales": 34
+      },
+      {
+        "county": "Ventura",
+        "chargers": 858,
+        "zev_sales": 1842
+      },
+      {
+        "county": "Yolo",
+        "chargers": 412,
+        "zev_sales": 352
+      },
+      {
+        "county": "Yuba",
+        "chargers": 75,
+        "zev_sales": 55
+      }
+    ],
+    "2023-Q2": [
+      {
+        "county": "Alameda",
+        "chargers": 4504,
+        "zev_sales": 6562
+      },
+      {
+        "county": "Alpine",
+        "chargers": 10,
+        "zev_sales": 0
+      },
+      {
+        "county": "Amador",
+        "chargers": 34,
+        "zev_sales": 31
+      },
+      {
+        "county": "Butte",
+        "chargers": 147,
+        "zev_sales": 151
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 21,
+        "zev_sales": 37
+      },
+      {
+        "county": "Colusa",
+        "chargers": 36,
+        "zev_sales": 8
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1674,
+        "zev_sales": 4231
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 47,
+        "zev_sales": 11
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 202,
+        "zev_sales": 399
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1373,
+        "zev_sales": 1081
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 8
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 157,
+        "zev_sales": 96
+      },
+      {
+        "county": "Imperial",
+        "chargers": 50,
+        "zev_sales": 103
+      },
+      {
+        "county": "Inyo",
+        "chargers": 52,
+        "zev_sales": 12
+      },
+      {
+        "county": "Kern",
+        "chargers": 721,
+        "zev_sales": 763
+      },
+      {
+        "county": "Kings",
+        "chargers": 410,
+        "zev_sales": 90
+      },
+      {
+        "county": "Lake",
+        "chargers": 14,
+        "zev_sales": 40
+      },
+      {
+        "county": "Lassen",
+        "chargers": 16,
+        "zev_sales": 6
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 29051,
+        "zev_sales": 33128
+      },
+      {
+        "county": "Madera",
+        "chargers": 203,
+        "zev_sales": 122
+      },
+      {
+        "county": "Marin",
+        "chargers": 1048,
+        "zev_sales": 1157
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 60,
+        "zev_sales": 8
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 203,
+        "zev_sales": 77
+      },
+      {
+        "county": "Merced",
+        "chargers": 124,
+        "zev_sales": 217
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 38,
+        "zev_sales": 16
+      },
+      {
+        "county": "Monterey",
+        "chargers": 487,
+        "zev_sales": 525
+      },
+      {
+        "county": "Napa",
+        "chargers": 433,
+        "zev_sales": 332
+      },
+      {
+        "county": "Nevada",
+        "chargers": 144,
+        "zev_sales": 131
+      },
+      {
+        "county": "Orange",
+        "chargers": 5797,
+        "zev_sales": 15483
+      },
+      {
+        "county": "Placer",
+        "chargers": 518,
+        "zev_sales": 1249
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 7
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1745,
+        "zev_sales": 5684
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 2149,
+        "zev_sales": 3532
+      },
+      {
+        "county": "San Benito",
+        "chargers": 28,
+        "zev_sales": 131
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1767,
+        "zev_sales": 4709
+      },
+      {
+        "county": "San Diego",
+        "chargers": 7960,
+        "zev_sales": 10723
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 2002,
+        "zev_sales": 3146
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 680,
+        "zev_sales": 1926
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 694,
+        "zev_sales": 504
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4619,
+        "zev_sales": 3921
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 566,
+        "zev_sales": 747
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 17865,
+        "zev_sales": 10190
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 356,
+        "zev_sales": 495
+      },
+      {
+        "county": "Shasta",
+        "chargers": 174,
+        "zev_sales": 107
+      },
+      {
+        "county": "Sierra",
+        "chargers": 2,
+        "zev_sales": 1
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 68,
+        "zev_sales": 19
+      },
+      {
+        "county": "Solano",
+        "chargers": 560,
+        "zev_sales": 980
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 845,
+        "zev_sales": 1080
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 178,
+        "zev_sales": 531
+      },
+      {
+        "county": "Sutter",
+        "chargers": 24,
+        "zev_sales": 81
+      },
+      {
+        "county": "Tehama",
+        "chargers": 91,
+        "zev_sales": 28
+      },
+      {
+        "county": "Trinity",
+        "chargers": 14,
+        "zev_sales": 3
+      },
+      {
+        "county": "Tulare",
+        "chargers": 279,
+        "zev_sales": 258
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 54,
+        "zev_sales": 39
+      },
+      {
+        "county": "Ventura",
+        "chargers": 870,
+        "zev_sales": 2610
+      },
+      {
+        "county": "Yolo",
+        "chargers": 427,
+        "zev_sales": 471
+      },
+      {
+        "county": "Yuba",
+        "chargers": 79,
+        "zev_sales": 57
+      }
+    ],
+    "2023-Q3": [
+      {
+        "county": "Alameda",
+        "chargers": 4624,
+        "zev_sales": 6627
+      },
+      {
+        "county": "Alpine",
+        "chargers": 10,
+        "zev_sales": 2
+      },
+      {
+        "county": "Amador",
+        "chargers": 34,
+        "zev_sales": 23
+      },
+      {
+        "county": "Butte",
+        "chargers": 149,
+        "zev_sales": 146
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 23,
+        "zev_sales": 45
+      },
+      {
+        "county": "Colusa",
+        "chargers": 36,
+        "zev_sales": 11
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1734,
+        "zev_sales": 3904
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 47,
+        "zev_sales": 8
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 214,
+        "zev_sales": 378
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1313,
+        "zev_sales": 1173
+      },
+      {
+        "county": "Glenn",
+        "chargers": 14,
+        "zev_sales": 12
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 157,
+        "zev_sales": 87
+      },
+      {
+        "county": "Imperial",
+        "chargers": 50,
+        "zev_sales": 130
+      },
+      {
+        "county": "Inyo",
+        "chargers": 54,
+        "zev_sales": 19
+      },
+      {
+        "county": "Kern",
+        "chargers": 797,
+        "zev_sales": 811
+      },
+      {
+        "county": "Kings",
+        "chargers": 419,
+        "zev_sales": 86
+      },
+      {
+        "county": "Lake",
+        "chargers": 17,
+        "zev_sales": 37
+      },
+      {
+        "county": "Lassen",
+        "chargers": 16,
+        "zev_sales": 3
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 29433,
+        "zev_sales": 33508
+      },
+      {
+        "county": "Madera",
+        "chargers": 202,
+        "zev_sales": 155
+      },
+      {
+        "county": "Marin",
+        "chargers": 1082,
+        "zev_sales": 1101
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 59,
+        "zev_sales": 15
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 214,
+        "zev_sales": 76
+      },
+      {
+        "county": "Merced",
+        "chargers": 155,
+        "zev_sales": 218
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 38,
+        "zev_sales": 10
+      },
+      {
+        "county": "Monterey",
+        "chargers": 480,
+        "zev_sales": 587
+      },
+      {
+        "county": "Napa",
+        "chargers": 442,
+        "zev_sales": 306
+      },
+      {
+        "county": "Nevada",
+        "chargers": 144,
+        "zev_sales": 145
+      },
+      {
+        "county": "Orange",
+        "chargers": 6002,
+        "zev_sales": 14370
+      },
+      {
+        "county": "Placer",
+        "chargers": 522,
+        "zev_sales": 1292
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 11
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1835,
+        "zev_sales": 5451
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 2205,
+        "zev_sales": 3357
+      },
+      {
+        "county": "San Benito",
+        "chargers": 29,
+        "zev_sales": 117
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1841,
+        "zev_sales": 4388
+      },
+      {
+        "county": "San Diego",
+        "chargers": 8094,
+        "zev_sales": 9900
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 2070,
+        "zev_sales": 2872
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 728,
+        "zev_sales": 1697
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 705,
+        "zev_sales": 533
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 4798,
+        "zev_sales": 4823
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 526,
+        "zev_sales": 815
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 18193,
+        "zev_sales": 10287
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 369,
+        "zev_sales": 570
+      },
+      {
+        "county": "Shasta",
+        "chargers": 179,
+        "zev_sales": 136
+      },
+      {
+        "county": "Sierra",
+        "chargers": 2,
+        "zev_sales": 1
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 69,
+        "zev_sales": 15
+      },
+      {
+        "county": "Solano",
+        "chargers": 578,
+        "zev_sales": 885
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 871,
+        "zev_sales": 1014
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 202,
+        "zev_sales": 619
+      },
+      {
+        "county": "Sutter",
+        "chargers": 31,
+        "zev_sales": 87
+      },
+      {
+        "county": "Tehama",
+        "chargers": 91,
+        "zev_sales": 41
+      },
+      {
+        "county": "Trinity",
+        "chargers": 12,
+        "zev_sales": 6
+      },
+      {
+        "county": "Tulare",
+        "chargers": 275,
+        "zev_sales": 310
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 54,
+        "zev_sales": 38
+      },
+      {
+        "county": "Ventura",
+        "chargers": 875,
+        "zev_sales": 2393
+      },
+      {
+        "county": "Yolo",
+        "chargers": 432,
+        "zev_sales": 468
+      },
+      {
+        "county": "Yuba",
+        "chargers": 80,
+        "zev_sales": 72
+      }
+    ],
+    "2023-Q4": [
+      {
+        "county": "Alameda",
+        "chargers": 5893,
+        "zev_sales": 5145
+      },
+      {
+        "county": "Alpine",
+        "chargers": 12,
+        "zev_sales": 0
+      },
+      {
+        "county": "Amador",
+        "chargers": 34,
+        "zev_sales": 23
+      },
+      {
+        "county": "Butte",
+        "chargers": 157,
+        "zev_sales": 140
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 23,
+        "zev_sales": 38
+      },
+      {
+        "county": "Colusa",
+        "chargers": 37,
+        "zev_sales": 5
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 1632,
+        "zev_sales": 3483
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 46,
+        "zev_sales": 6
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 258,
+        "zev_sales": 375
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1292,
+        "zev_sales": 925
+      },
+      {
+        "county": "Glenn",
+        "chargers": 8,
+        "zev_sales": 10
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 157,
+        "zev_sales": 80
+      },
+      {
+        "county": "Imperial",
+        "chargers": 52,
+        "zev_sales": 102
+      },
+      {
+        "county": "Inyo",
+        "chargers": 83,
+        "zev_sales": 9
+      },
+      {
+        "county": "Kern",
+        "chargers": 832,
+        "zev_sales": 709
+      },
+      {
+        "county": "Kings",
+        "chargers": 431,
+        "zev_sales": 80
+      },
+      {
+        "county": "Lake",
+        "chargers": 18,
+        "zev_sales": 39
+      },
+      {
+        "county": "Lassen",
+        "chargers": 16,
+        "zev_sales": 7
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 31569,
+        "zev_sales": 29526
+      },
+      {
+        "county": "Madera",
+        "chargers": 203,
+        "zev_sales": 90
+      },
+      {
+        "county": "Marin",
+        "chargers": 1020,
+        "zev_sales": 1112
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 62,
+        "zev_sales": 9
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 229,
+        "zev_sales": 70
+      },
+      {
+        "county": "Merced",
+        "chargers": 182,
+        "zev_sales": 163
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 2
+      },
+      {
+        "county": "Mono",
+        "chargers": 52,
+        "zev_sales": 15
+      },
+      {
+        "county": "Monterey",
+        "chargers": 491,
+        "zev_sales": 494
+      },
+      {
+        "county": "Napa",
+        "chargers": 478,
+        "zev_sales": 408
+      },
+      {
+        "county": "Nevada",
+        "chargers": 149,
+        "zev_sales": 135
+      },
+      {
+        "county": "Orange",
+        "chargers": 6771,
+        "zev_sales": 12379
+      },
+      {
+        "county": "Placer",
+        "chargers": 622,
+        "zev_sales": 1100
+      },
+      {
+        "county": "Plumas",
+        "chargers": 7,
+        "zev_sales": 10
+      },
+      {
+        "county": "Riverside",
+        "chargers": 1835,
+        "zev_sales": 5040
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 2253,
+        "zev_sales": 2717
+      },
+      {
+        "county": "San Benito",
+        "chargers": 27,
+        "zev_sales": 115
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 1957,
+        "zev_sales": 3883
+      },
+      {
+        "county": "San Diego",
+        "chargers": 8583,
+        "zev_sales": 8840
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 2431,
+        "zev_sales": 2048
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 825,
+        "zev_sales": 1318
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 777,
+        "zev_sales": 556
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 5533,
+        "zev_sales": 3037
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 648,
+        "zev_sales": 780
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 20220,
+        "zev_sales": 8348
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 359,
+        "zev_sales": 496
+      },
+      {
+        "county": "Shasta",
+        "chargers": 227,
+        "zev_sales": 121
+      },
+      {
+        "county": "Sierra",
+        "chargers": 2,
+        "zev_sales": 1
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 77,
+        "zev_sales": 16
+      },
+      {
+        "county": "Solano",
+        "chargers": 608,
+        "zev_sales": 845
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 902,
+        "zev_sales": 1035
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 249,
+        "zev_sales": 495
+      },
+      {
+        "county": "Sutter",
+        "chargers": 35,
+        "zev_sales": 74
+      },
+      {
+        "county": "Tehama",
+        "chargers": 94,
+        "zev_sales": 24
+      },
+      {
+        "county": "Trinity",
+        "chargers": 15,
+        "zev_sales": 2
+      },
+      {
+        "county": "Tulare",
+        "chargers": 291,
+        "zev_sales": 240
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 55,
+        "zev_sales": 52
+      },
+      {
+        "county": "Ventura",
+        "chargers": 930,
+        "zev_sales": 2266
+      },
+      {
+        "county": "Yolo",
+        "chargers": 468,
+        "zev_sales": 373
+      },
+      {
+        "county": "Yuba",
+        "chargers": 69,
+        "zev_sales": 69
+      }
+    ],
+    "2024-Q3": [
+      {
+        "county": "Alameda",
+        "chargers": 6478,
+        "zev_sales": 5510
+      },
+      {
+        "county": "Alpine",
+        "chargers": 12,
+        "zev_sales": 1
+      },
+      {
+        "county": "Amador",
+        "chargers": 72,
+        "zev_sales": 37
+      },
+      {
+        "county": "Butte",
+        "chargers": 259,
+        "zev_sales": 122
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 41,
+        "zev_sales": 53
+      },
+      {
+        "county": "Colusa",
+        "chargers": 53,
+        "zev_sales": 9
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 2384,
+        "zev_sales": 3750
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 83,
+        "zev_sales": 15
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 326,
+        "zev_sales": 409
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1879,
+        "zev_sales": 1019
+      },
+      {
+        "county": "Glenn",
+        "chargers": 33,
+        "zev_sales": 9
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 275,
+        "zev_sales": 101
+      },
+      {
+        "county": "Imperial",
+        "chargers": 108,
+        "zev_sales": 198
+      },
+      {
+        "county": "Inyo",
+        "chargers": 110,
+        "zev_sales": 13
+      },
+      {
+        "county": "Kern",
+        "chargers": 1282,
+        "zev_sales": 872
+      },
+      {
+        "county": "Kings",
+        "chargers": 298,
+        "zev_sales": 90
+      },
+      {
+        "county": "Lake",
+        "chargers": 50,
+        "zev_sales": 32
+      },
+      {
+        "county": "Lassen",
+        "chargers": 19,
+        "zev_sales": 3
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 60698,
+        "zev_sales": 33169
+      },
+      {
+        "county": "Madera",
+        "chargers": 317,
+        "zev_sales": 138
+      },
+      {
+        "county": "Marin",
+        "chargers": 1290,
+        "zev_sales": 1234
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 145,
+        "zev_sales": 7
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 329,
+        "zev_sales": 73
+      },
+      {
+        "county": "Merced",
+        "chargers": 322,
+        "zev_sales": 215
+      },
+      {
+        "county": "Modoc",
+        "chargers": 12,
+        "zev_sales": 1
+      },
+      {
+        "county": "Mono",
+        "chargers": 81,
+        "zev_sales": 11
+      },
+      {
+        "county": "Monterey",
+        "chargers": 769,
+        "zev_sales": 525
+      },
+      {
+        "county": "Napa",
+        "chargers": 775,
+        "zev_sales": 407
+      },
+      {
+        "county": "Nevada",
+        "chargers": 184,
+        "zev_sales": 123
+      },
+      {
+        "county": "Orange",
+        "chargers": 8522,
+        "zev_sales": 14097
+      },
+      {
+        "county": "Placer",
+        "chargers": 1072,
+        "zev_sales": 1336
+      },
+      {
+        "county": "Plumas",
+        "chargers": 16,
+        "zev_sales": 13
+      },
+      {
+        "county": "Riverside",
+        "chargers": 3206,
+        "zev_sales": 5987
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 3984,
+        "zev_sales": 3689
+      },
+      {
+        "county": "San Benito",
+        "chargers": 65,
+        "zev_sales": 125
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 2911,
+        "zev_sales": 4573
+      },
+      {
+        "county": "San Diego",
+        "chargers": 10982,
+        "zev_sales": 9968
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 2853,
+        "zev_sales": 2371
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 1173,
+        "zev_sales": 1454
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 1063,
+        "zev_sales": 496
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 6994,
+        "zev_sales": 3210
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 1105,
+        "zev_sales": 825
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 23365,
+        "zev_sales": 10579
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 542,
+        "zev_sales": 475
+      },
+      {
+        "county": "Shasta",
+        "chargers": 392,
+        "zev_sales": 127
+      },
+      {
+        "county": "Sierra",
+        "chargers": 3,
+        "zev_sales": 3
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 114,
+        "zev_sales": 18
+      },
+      {
+        "county": "Solano",
+        "chargers": 970,
+        "zev_sales": 878
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 1376,
+        "zev_sales": 1001
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 379,
+        "zev_sales": 605
+      },
+      {
+        "county": "Sutter",
+        "chargers": 47,
+        "zev_sales": 82
+      },
+      {
+        "county": "Tehama",
+        "chargers": 156,
+        "zev_sales": 27
+      },
+      {
+        "county": "Trinity",
+        "chargers": 19,
+        "zev_sales": 3
+      },
+      {
+        "county": "Tulare",
+        "chargers": 488,
+        "zev_sales": 322
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 100,
+        "zev_sales": 37
+      },
+      {
+        "county": "Ventura",
+        "chargers": 1531,
+        "zev_sales": 2734
+      },
+      {
+        "county": "Yolo",
+        "chargers": 810,
+        "zev_sales": 420
+      },
+      {
+        "county": "Yuba",
+        "chargers": 112,
+        "zev_sales": 84
+      }
+    ],
+    "2025-Q1": [
+      {
+        "county": "Alameda",
+        "chargers": 7738,
+        "zev_sales": 5542
+      },
+      {
+        "county": "Alpine",
+        "chargers": 22,
+        "zev_sales": 0
+      },
+      {
+        "county": "Amador",
+        "chargers": 67,
+        "zev_sales": 31
+      },
+      {
+        "county": "Butte",
+        "chargers": 315,
+        "zev_sales": 120
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 48,
+        "zev_sales": 38
+      },
+      {
+        "county": "Colusa",
+        "chargers": 47,
+        "zev_sales": 13
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 2570,
+        "zev_sales": 3332
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 61,
+        "zev_sales": 6
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 348,
+        "zev_sales": 387
+      },
+      {
+        "county": "Fresno",
+        "chargers": 1922,
+        "zev_sales": 890
+      },
+      {
+        "county": "Glenn",
+        "chargers": 36,
+        "zev_sales": 10
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 319,
+        "zev_sales": 80
+      },
+      {
+        "county": "Imperial",
+        "chargers": 155,
+        "zev_sales": 194
+      },
+      {
+        "county": "Inyo",
+        "chargers": 139,
+        "zev_sales": 15
+      },
+      {
+        "county": "Kern",
+        "chargers": 1450,
+        "zev_sales": 806
+      },
+      {
+        "county": "Kings",
+        "chargers": 492,
+        "zev_sales": 89
+      },
+      {
+        "county": "Lake",
+        "chargers": 107,
+        "zev_sales": 31
+      },
+      {
+        "county": "Lassen",
+        "chargers": 23,
+        "zev_sales": 5
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 72994,
+        "zev_sales": 29255
+      },
+      {
+        "county": "Madera",
+        "chargers": 276,
+        "zev_sales": 111
+      },
+      {
+        "county": "Marin",
+        "chargers": 1372,
+        "zev_sales": 1320
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 141,
+        "zev_sales": 8
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 339,
+        "zev_sales": 59
+      },
+      {
+        "county": "Merced",
+        "chargers": 280,
+        "zev_sales": 163
+      },
+      {
+        "county": "Modoc",
+        "chargers": 15,
+        "zev_sales": 2
+      },
+      {
+        "county": "Mono",
+        "chargers": 92,
+        "zev_sales": 11
+      },
+      {
+        "county": "Monterey",
+        "chargers": 787,
+        "zev_sales": 511
+      },
+      {
+        "county": "Napa",
+        "chargers": 765,
+        "zev_sales": 337
+      },
+      {
+        "county": "Nevada",
+        "chargers": 206,
+        "zev_sales": 131
+      },
+      {
+        "county": "Orange",
+        "chargers": 9982,
+        "zev_sales": 12554
+      },
+      {
+        "county": "Placer",
+        "chargers": 855,
+        "zev_sales": 1181
+      },
+      {
+        "county": "Plumas",
+        "chargers": 32,
+        "zev_sales": 9
+      },
+      {
+        "county": "Riverside",
+        "chargers": 3018,
+        "zev_sales": 4994
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 3704,
+        "zev_sales": 2905
+      },
+      {
+        "county": "San Benito",
+        "chargers": 61,
+        "zev_sales": 116
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 3227,
+        "zev_sales": 3830
+      },
+      {
+        "county": "San Diego",
+        "chargers": 11595,
+        "zev_sales": 8884
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 3480,
+        "zev_sales": 2183
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 1164,
+        "zev_sales": 1163
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 1202,
+        "zev_sales": 430
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 7747,
+        "zev_sales": 3317
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 1316,
+        "zev_sales": 698
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 29361,
+        "zev_sales": 8613
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 519,
+        "zev_sales": 458
+      },
+      {
+        "county": "Shasta",
+        "chargers": 326,
+        "zev_sales": 114
+      },
+      {
+        "county": "Sierra",
+        "chargers": 4,
+        "zev_sales": 3
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 149,
+        "zev_sales": 19
+      },
+      {
+        "county": "Solano",
+        "chargers": 926,
+        "zev_sales": 699
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 1561,
+        "zev_sales": 927
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 430,
+        "zev_sales": 536
+      },
+      {
+        "county": "Sutter",
+        "chargers": 57,
+        "zev_sales": 73
+      },
+      {
+        "county": "Tehama",
+        "chargers": 189,
+        "zev_sales": 25
+      },
+      {
+        "county": "Trinity",
+        "chargers": 22,
+        "zev_sales": 2
+      },
+      {
+        "county": "Tulare",
+        "chargers": 389,
+        "zev_sales": 243
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 101,
+        "zev_sales": 38
+      },
+      {
+        "county": "Ventura",
+        "chargers": 1282,
+        "zev_sales": 2060
+      },
+      {
+        "county": "Yolo",
+        "chargers": 770,
+        "zev_sales": 376
+      },
+      {
+        "county": "Yuba",
+        "chargers": 95,
+        "zev_sales": 63
+      }
+    ],
+    "2025-Q3": [
+      {
+        "county": "Alameda",
+        "chargers": 8089,
+        "zev_sales": 6954
+      },
+      {
+        "county": "Alpine",
+        "chargers": 22,
+        "zev_sales": 2
+      },
+      {
+        "county": "Amador",
+        "chargers": 67,
+        "zev_sales": 33
+      },
+      {
+        "county": "Butte",
+        "chargers": 335,
+        "zev_sales": 138
+      },
+      {
+        "county": "Calaveras",
+        "chargers": 48,
+        "zev_sales": 50
+      },
+      {
+        "county": "Colusa",
+        "chargers": 50,
+        "zev_sales": 13
+      },
+      {
+        "county": "Contra Costa",
+        "chargers": 2667,
+        "zev_sales": 4143
+      },
+      {
+        "county": "Del Norte",
+        "chargers": 56,
+        "zev_sales": 6
+      },
+      {
+        "county": "El Dorado",
+        "chargers": 346,
+        "zev_sales": 435
+      },
+      {
+        "county": "Fresno",
+        "chargers": 2040,
+        "zev_sales": 1189
+      },
+      {
+        "county": "Glenn",
+        "chargers": 35,
+        "zev_sales": 13
+      },
+      {
+        "county": "Humboldt",
+        "chargers": 328,
+        "zev_sales": 71
+      },
+      {
+        "county": "Imperial",
+        "chargers": 207,
+        "zev_sales": 228
+      },
+      {
+        "county": "Inyo",
+        "chargers": 147,
+        "zev_sales": 8
+      },
+      {
+        "county": "Kern",
+        "chargers": 1631,
+        "zev_sales": 1015
+      },
+      {
+        "county": "Kings",
+        "chargers": 501,
+        "zev_sales": 112
+      },
+      {
+        "county": "Lake",
+        "chargers": 106,
+        "zev_sales": 46
+      },
+      {
+        "county": "Lassen",
+        "chargers": 22,
+        "zev_sales": 10
+      },
+      {
+        "county": "Los Angeles",
+        "chargers": 85144,
+        "zev_sales": 36259
+      },
+      {
+        "county": "Madera",
+        "chargers": 289,
+        "zev_sales": 194
+      },
+      {
+        "county": "Marin",
+        "chargers": 1398,
+        "zev_sales": 1382
+      },
+      {
+        "county": "Mariposa",
+        "chargers": 144,
+        "zev_sales": 13
+      },
+      {
+        "county": "Mendocino",
+        "chargers": 363,
+        "zev_sales": 84
+      },
+      {
+        "county": "Merced",
+        "chargers": 289,
+        "zev_sales": 204
+      },
+      {
+        "county": "Modoc",
+        "chargers": 14,
+        "zev_sales": 0
+      },
+      {
+        "county": "Mono",
+        "chargers": 106,
+        "zev_sales": 17
+      },
+      {
+        "county": "Monterey",
+        "chargers": 792,
+        "zev_sales": 558
+      },
+      {
+        "county": "Napa",
+        "chargers": 863,
+        "zev_sales": 332
+      },
+      {
+        "county": "Nevada",
+        "chargers": 204,
+        "zev_sales": 160
+      },
+      {
+        "county": "Orange",
+        "chargers": 10374,
+        "zev_sales": 16210
+      },
+      {
+        "county": "Placer",
+        "chargers": 907,
+        "zev_sales": 1573
+      },
+      {
+        "county": "Plumas",
+        "chargers": 36,
+        "zev_sales": 10
+      },
+      {
+        "county": "Riverside",
+        "chargers": 3274,
+        "zev_sales": 6311
+      },
+      {
+        "county": "Sacramento",
+        "chargers": 3969,
+        "zev_sales": 3788
+      },
+      {
+        "county": "San Benito",
+        "chargers": 73,
+        "zev_sales": 116
+      },
+      {
+        "county": "San Bernardino",
+        "chargers": 3400,
+        "zev_sales": 4770
+      },
+      {
+        "county": "San Diego",
+        "chargers": 12153,
+        "zev_sales": 11017
+      },
+      {
+        "county": "San Francisco",
+        "chargers": 3767,
+        "zev_sales": 2629
+      },
+      {
+        "county": "San Joaquin",
+        "chargers": 1245,
+        "zev_sales": 1495
+      },
+      {
+        "county": "San Luis Obispo",
+        "chargers": 1313,
+        "zev_sales": 609
+      },
+      {
+        "county": "San Mateo",
+        "chargers": 8160,
+        "zev_sales": 3864
+      },
+      {
+        "county": "Santa Barbara",
+        "chargers": 1335,
+        "zev_sales": 866
+      },
+      {
+        "county": "Santa Clara",
+        "chargers": 33687,
+        "zev_sales": 11167
+      },
+      {
+        "county": "Santa Cruz",
+        "chargers": 577,
+        "zev_sales": 525
+      },
+      {
+        "county": "Shasta",
+        "chargers": 353,
+        "zev_sales": 169
+      },
+      {
+        "county": "Sierra",
+        "chargers": 4,
+        "zev_sales": 3
+      },
+      {
+        "county": "Siskiyou",
+        "chargers": 148,
+        "zev_sales": 24
+      },
+      {
+        "county": "Solano",
+        "chargers": 979,
+        "zev_sales": 996
+      },
+      {
+        "county": "Sonoma",
+        "chargers": 1616,
+        "zev_sales": 1147
+      },
+      {
+        "county": "Stanislaus",
+        "chargers": 475,
+        "zev_sales": 656
+      },
+      {
+        "county": "Sutter",
+        "chargers": 57,
+        "zev_sales": 116
+      },
+      {
+        "county": "Tehama",
+        "chargers": 197,
+        "zev_sales": 29
+      },
+      {
+        "county": "Trinity",
+        "chargers": 21,
+        "zev_sales": 6
+      },
+      {
+        "county": "Tulare",
+        "chargers": 457,
+        "zev_sales": 383
+      },
+      {
+        "county": "Tuolumne",
+        "chargers": 98,
+        "zev_sales": 45
+      },
+      {
+        "county": "Ventura",
+        "chargers": 1597,
+        "zev_sales": 2722
+      },
+      {
+        "county": "Yolo",
+        "chargers": 913,
+        "zev_sales": 446
+      },
+      {
+        "county": "Yuba",
+        "chargers": 84,
+        "zev_sales": 81
+      }
+    ]
+  },
+  "xLabel": "ZEV chargers",
+  "yLabel": "EV sales"
+}
