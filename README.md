@@ -11,6 +11,7 @@ data/clean/county_sales_nested.json
 data/clean/zip_sales_nested.json
 data/clean/timeline.json
 data/clean/county_charger_sales_scatter.json
+data/clean/story_metrics.json
 ```
 
 If you have not generated them yet, copy the original Excel file into this folder and run:
@@ -23,6 +24,12 @@ For the charger-sales scatter plot, include the charger workbook:
 
 ```bash
 python scripts/clean_zev_data.py --input "New_ZEV_Sales_Last_updated_01-15-2026_ada.xlsx" --charger-input "EV_Chargers_Last_updated_09-08-2025_ada.xlsx" --output-dir data/clean
+```
+
+Then build the derived story metrics used by the KPI, statewide trend, and county ranking panel:
+
+```bash
+python scripts/build_story_metrics.py --county-sales data/clean/county_sales_wide.csv --scatter data/clean/county_charger_sales_scatter.csv --output data/clean/story_metrics.json
 ```
 
 ## 2. Add ZIP/ZCTA boundary file
@@ -70,6 +77,7 @@ js/state.js     Shared runtime state
 js/map.js       County map, ZIP drill-down, timeline, zoom
 js/glyphs.js    Three-circle sales glyph rendering
 js/scatter.js   Charger and EV sales scatter plot
+js/story.js     Statewide trend, KPI, fuel-share, and county ranking panel
 js/tooltips.js  Tooltip HTML and positioning
 js/utils.js     Shared formatting, lookup, and scale helpers
 scripts/        Data cleaning script backup
@@ -93,3 +101,6 @@ data/maps/      ZIP/ZCTA GeoJSON boundary file
 - County-level charger-sales scatter plot from 2020 Q2 onward
 - Scatter timeline includes only quarters present in the charger workbook
 - Hover scatter point: county name, EV sales, and ZEV charger count
+- Statewide story panel synchronized with the map quarter
+- Stacked statewide sales trend by fuel type
+- Quarter KPI, fuel-share bar, and top county ranking

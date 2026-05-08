@@ -30,10 +30,57 @@
       </div>
     </section>
 
-    <section class="chart-card">
-      <div id="statusMessage" class="status hidden"></div>
-      <svg id="map" role="img" aria-label="California EV sales map"></svg>
-      <div id="tooltip" class="tooltip hidden"></div>
+    <section class="explorer-panel">
+      <div class="map-pane">
+        <div id="statusMessage" class="status hidden"></div>
+        <svg id="map" role="img" aria-label="California EV sales map"></svg>
+        <div id="tooltip" class="tooltip hidden"></div>
+      </div>
+
+      <aside class="story-pane" aria-label="Statewide adoption story">
+        <div class="story-heading">
+          <h2>Statewide Adoption Viz</h2>
+          <p>Sales momentum, fuel mix, and county leaders for the selected quarter.</p>
+        </div>
+        <div class="story-summary">
+          <p class="story-period" id="storyPeriod">Loading...</p>
+          <div class="metric-grid">
+            <div>
+              <span>Total ZEV sales</span>
+              <strong id="storyTotal">-</strong>
+            </div>
+            <div>
+              <span>Quarter change</span>
+              <strong id="storyChange">-</strong>
+            </div>
+            <div>
+              <span>Leading county</span>
+              <strong id="storyLeader">-</strong>
+            </div>
+            <div>
+              <span>Dominant fuel</span>
+              <strong id="storyDominantFuel">-</strong>
+            </div>
+          </div>
+          <div class="fuel-share" aria-label="Fuel share">
+            <div id="fuelShareElectric" class="fuel-share-segment electric"></div>
+            <div id="fuelShareHydrogen" class="fuel-share-segment hydrogen"></div>
+            <div id="fuelSharePhev" class="fuel-share-segment phev"></div>
+          </div>
+          <p class="story-note" id="storyNote"></p>
+        </div>
+        <div class="trend-card">
+          <svg id="stateTrend" role="img" aria-label="Statewide ZEV sales trend"></svg>
+        </div>
+      </aside>
+
+      <div class="ranking-card">
+        <div class="ranking-header">
+          <h3>County Leaders</h3>
+          <span id="rankingCaption">Top counties by sales</span>
+        </div>
+        <div id="countyRanking" class="ranking-list"></div>
+      </div>
     </section>
 
     <section class="scatter-section">
