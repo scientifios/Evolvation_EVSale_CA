@@ -2,6 +2,10 @@
 
 Interactive D3 visualization for CSEN 377 Assignment 2.
 
+## Live Demo
+
+GitHub Pages: https://scientifios.github.io/Evolvation_EVSale_CA/
+
 ## 1. Put cleaned data here
 
 Your cleaning script should generate these files:
