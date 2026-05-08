@@ -11,6 +11,7 @@ export const state = {
   path: null,
   currentTransform: null,
   scatterData: { timeline: [], counties: [], byPeriod: {} },
+  storyMetrics: { timeline: [], statewide: [], byPeriod: {} },
   scatterPeriodIndex: 0,
   scatterDomains: { maxChargers: 1, maxSales: 1 },
   scatterUseLog: false,

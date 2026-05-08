@@ -3,6 +3,7 @@ export const CONFIG = {
   zipSalesUrl: "data/clean/zip_sales_nested.json",
   timelineUrl: "data/clean/timeline.json",
   scatterUrl: "data/clean/county_charger_sales_scatter.json",
+  storyMetricsUrl: "data/clean/story_metrics.json",
   usCountiesTopoUrl: "https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json",
   zctaGeoJsonUrl: "data/maps/ca_zcta.geojson",
   width: 1120,

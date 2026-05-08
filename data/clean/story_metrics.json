@@ -1,0 +1,7882 @@
+{
+  "timeline": [
+    "2008-Q3",
+    "2008-Q4",
+    "2009-Q1",
+    "2009-Q2",
+    "2009-Q3",
+    "2009-Q4",
+    "2010-Q1",
+    "2010-Q2",
+    "2010-Q3",
+    "2010-Q4",
+    "2011-Q1",
+    "2011-Q2",
+    "2011-Q3",
+    "2011-Q4",
+    "2012-Q1",
+    "2012-Q2",
+    "2012-Q3",
+    "2012-Q4",
+    "2013-Q1",
+    "2013-Q2",
+    "2013-Q3",
+    "2013-Q4",
+    "2014-Q1",
+    "2014-Q2",
+    "2014-Q3",
+    "2014-Q4",
+    "2015-Q1",
+    "2015-Q2",
+    "2015-Q3",
+    "2015-Q4",
+    "2016-Q1",
+    "2016-Q2",
+    "2016-Q3",
+    "2016-Q4",
+    "2017-Q1",
+    "2017-Q2",
+    "2017-Q3",
+    "2017-Q4",
+    "2018-Q1",
+    "2018-Q2",
+    "2018-Q3",
+    "2018-Q4",
+    "2019-Q1",
+    "2019-Q2",
+    "2019-Q3",
+    "2019-Q4",
+    "2020-Q1",
+    "2020-Q2",
+    "2020-Q3",
+    "2020-Q4",
+    "2021-Q1",
+    "2021-Q2",
+    "2021-Q3",
+    "2021-Q4",
+    "2022-Q1",
+    "2022-Q2",
+    "2022-Q3",
+    "2022-Q4",
+    "2023-Q1",
+    "2023-Q2",
+    "2023-Q3",
+    "2023-Q4",
+    "2024-Q1",
+    "2024-Q2",
+    "2024-Q3",
+    "2024-Q4",
+    "2025-Q1",
+    "2025-Q2",
+    "2025-Q3",
+    "2025-Q4"
+  ],
+  "statewide": [
+    {
+      "period": "2008-Q3",
+      "year": 2008,
+      "quarter": 3,
+      "Electric": 10,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "total": 10
+    },
+    {
+      "period": "2008-Q4",
+      "year": 2008,
+      "quarter": 4,
+      "Electric": 65,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "total": 65
+    },
+    {
+      "period": "2009-Q1",
+      "year": 2009,
+      "quarter": 1,
+      "Electric": 51,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "total": 51
+    },
+    {
+      "period": "2009-Q2",
+      "year": 2009,
+      "quarter": 2,
+      "Electric": 148,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "total": 148
+    },
+    {
+      "period": "2009-Q3",
+      "year": 2009,
+      "quarter": 3,
+      "Electric": 234,
+      "Hydrogen": 1,
+      "PHEV": 0,
+      "total": 235
+    },
+    {
+      "period": "2009-Q4",
+      "year": 2009,
+      "quarter": 4,
+      "Electric": 70,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "total": 70
+    },
+    {
+      "period": "2010-Q1",
+      "year": 2010,
+      "quarter": 1,
+      "Electric": 14,
+      "Hydrogen": 0,
+      "PHEV": 29,
+      "total": 43
+    },
+    {
+      "period": "2010-Q2",
+      "year": 2010,
+      "quarter": 2,
+      "Electric": 22,
+      "Hydrogen": 1,
+      "PHEV": 122,
+      "total": 145
+    },
+    {
+      "period": "2010-Q3",
+      "year": 2010,
+      "quarter": 3,
+      "Electric": 13,
+      "Hydrogen": 2,
+      "PHEV": 0,
+      "total": 15
+    },
+    {
+      "period": "2010-Q4",
+      "year": 2010,
+      "quarter": 4,
+      "Electric": 18,
+      "Hydrogen": 3,
+      "PHEV": 11,
+      "total": 32
+    },
+    {
+      "period": "2011-Q1",
+      "year": 2011,
+      "quarter": 1,
+      "Electric": 108,
+      "Hydrogen": 3,
+      "PHEV": 373,
+      "total": 484
+    },
+    {
+      "period": "2011-Q2",
+      "year": 2011,
+      "quarter": 2,
+      "Electric": 1196,
+      "Hydrogen": 0,
+      "PHEV": 471,
+      "total": 1667
+    },
+    {
+      "period": "2011-Q3",
+      "year": 2011,
+      "quarter": 3,
+      "Electric": 1921,
+      "Hydrogen": 0,
+      "PHEV": 275,
+      "total": 2196
+    },
+    {
+      "period": "2011-Q4",
+      "year": 2011,
+      "quarter": 4,
+      "Electric": 1217,
+      "Hydrogen": 2,
+      "PHEV": 355,
+      "total": 1574
+    },
+    {
+      "period": "2012-Q1",
+      "year": 2012,
+      "quarter": 1,
+      "Electric": 868,
+      "Hydrogen": 0,
+      "PHEV": 812,
+      "total": 1680
+    },
+    {
+      "period": "2012-Q2",
+      "year": 2012,
+      "quarter": 2,
+      "Electric": 431,
+      "Hydrogen": 0,
+      "PHEV": 3451,
+      "total": 3882
+    },
+    {
+      "period": "2012-Q3",
+      "year": 2012,
+      "quarter": 3,
+      "Electric": 681,
+      "Hydrogen": 0,
+      "PHEV": 3606,
+      "total": 4287
+    },
+    {
+      "period": "2012-Q4",
+      "year": 2012,
+      "quarter": 4,
+      "Electric": 2271,
+      "Hydrogen": 2,
+      "PHEV": 4290,
+      "total": 6563
+    },
+    {
+      "period": "2013-Q1",
+      "year": 2013,
+      "quarter": 1,
+      "Electric": 3843,
+      "Hydrogen": 0,
+      "PHEV": 3127,
+      "total": 6970
+    },
+    {
+      "period": "2013-Q2",
+      "year": 2013,
+      "quarter": 2,
+      "Electric": 4905,
+      "Hydrogen": 1,
+      "PHEV": 3393,
+      "total": 8299
+    },
+    {
+      "period": "2013-Q3",
+      "year": 2013,
+      "quarter": 3,
+      "Electric": 5114,
+      "Hydrogen": 5,
+      "PHEV": 4610,
+      "total": 9729
+    },
+    {
+      "period": "2013-Q4",
+      "year": 2013,
+      "quarter": 4,
+      "Electric": 5624,
+      "Hydrogen": 0,
+      "PHEV": 6649,
+      "total": 12273
+    },
+    {
+      "period": "2014-Q1",
+      "year": 2014,
+      "quarter": 1,
+      "Electric": 5287,
+      "Hydrogen": 4,
+      "PHEV": 6272,
+      "total": 11563
+    },
+    {
+      "period": "2014-Q2",
+      "year": 2014,
+      "quarter": 2,
+      "Electric": 6920,
+      "Hydrogen": 2,
+      "PHEV": 8421,
+      "total": 15343
+    },
+    {
+      "period": "2014-Q3",
+      "year": 2014,
+      "quarter": 3,
+      "Electric": 7200,
+      "Hydrogen": 17,
+      "PHEV": 7843,
+      "total": 15060
+    },
+    {
+      "period": "2014-Q4",
+      "year": 2014,
+      "quarter": 4,
+      "Electric": 8075,
+      "Hydrogen": 24,
+      "PHEV": 5337,
+      "total": 13436
+    },
+    {
+      "period": "2015-Q1",
+      "year": 2015,
+      "quarter": 1,
+      "Electric": 7221,
+      "Hydrogen": 19,
+      "PHEV": 4829,
+      "total": 12069
+    },
+    {
+      "period": "2015-Q2",
+      "year": 2015,
+      "quarter": 2,
+      "Electric": 7385,
+      "Hydrogen": 4,
+      "PHEV": 5063,
+      "total": 12452
+    },
+    {
+      "period": "2015-Q3",
+      "year": 2015,
+      "quarter": 3,
+      "Electric": 7639,
+      "Hydrogen": 7,
+      "PHEV": 4709,
+      "total": 12355
+    },
+    {
+      "period": "2015-Q4",
+      "year": 2015,
+      "quarter": 4,
+      "Electric": 9187,
+      "Hydrogen": 58,
+      "PHEV": 8141,
+      "total": 17386
+    },
+    {
+      "period": "2016-Q1",
+      "year": 2016,
+      "quarter": 1,
+      "Electric": 7365,
+      "Hydrogen": 96,
+      "PHEV": 8726,
+      "total": 16187
+    },
+    {
+      "period": "2016-Q2",
+      "year": 2016,
+      "quarter": 2,
+      "Electric": 8863,
+      "Hydrogen": 118,
+      "PHEV": 6618,
+      "total": 15599
+    },
+    {
+      "period": "2016-Q3",
+      "year": 2016,
+      "quarter": 3,
+      "Electric": 10090,
+      "Hydrogen": 480,
+      "PHEV": 8471,
+      "total": 19041
+    },
+    {
+      "period": "2016-Q4",
+      "year": 2016,
+      "quarter": 4,
+      "Electric": 9659,
+      "Hydrogen": 264,
+      "PHEV": 8154,
+      "total": 18077
+    },
+    {
+      "period": "2017-Q1",
+      "year": 2017,
+      "quarter": 1,
+      "Electric": 12498,
+      "Hydrogen": 430,
+      "PHEV": 11003,
+      "total": 23931
+    },
+    {
+      "period": "2017-Q2",
+      "year": 2017,
+      "quarter": 2,
+      "Electric": 10983,
+      "Hydrogen": 518,
+      "PHEV": 9455,
+      "total": 20956
+    },
+    {
+      "period": "2017-Q3",
+      "year": 2017,
+      "quarter": 3,
+      "Electric": 11058,
+      "Hydrogen": 479,
+      "PHEV": 10446,
+      "total": 21983
+    },
+    {
+      "period": "2017-Q4",
+      "year": 2017,
+      "quarter": 4,
+      "Electric": 12069,
+      "Hydrogen": 757,
+      "PHEV": 10701,
+      "total": 23527
+    },
+    {
+      "period": "2018-Q1",
+      "year": 2018,
+      "quarter": 1,
+      "Electric": 12485,
+      "Hydrogen": 901,
+      "PHEV": 13242,
+      "total": 26628
+    },
+    {
+      "period": "2018-Q2",
+      "year": 2018,
+      "quarter": 2,
+      "Electric": 18018,
+      "Hydrogen": 573,
+      "PHEV": 14822,
+      "total": 33413
+    },
+    {
+      "period": "2018-Q3",
+      "year": 2018,
+      "quarter": 3,
+      "Electric": 27404,
+      "Hydrogen": 400,
+      "PHEV": 14820,
+      "total": 42624
+    },
+    {
+      "period": "2018-Q4",
+      "year": 2018,
+      "quarter": 4,
+      "Electric": 31852,
+      "Hydrogen": 484,
+      "PHEV": 14909,
+      "total": 47245
+    },
+    {
+      "period": "2019-Q1",
+      "year": 2019,
+      "quarter": 1,
+      "Electric": 24659,
+      "Hydrogen": 394,
+      "PHEV": 11000,
+      "total": 36053
+    },
+    {
+      "period": "2019-Q2",
+      "year": 2019,
+      "quarter": 2,
+      "Electric": 24919,
+      "Hydrogen": 728,
+      "PHEV": 10611,
+      "total": 36258
+    },
+    {
+      "period": "2019-Q3",
+      "year": 2019,
+      "quarter": 3,
+      "Electric": 23873,
+      "Hydrogen": 547,
+      "PHEV": 12428,
+      "total": 36848
+    },
+    {
+      "period": "2019-Q4",
+      "year": 2019,
+      "quarter": 4,
+      "Electric": 18484,
+      "Hydrogen": 403,
+      "PHEV": 9933,
+      "total": 28820
+    },
+    {
+      "period": "2020-Q1",
+      "year": 2020,
+      "quarter": 1,
+      "Electric": 28009,
+      "Hydrogen": 318,
+      "PHEV": 7820,
+      "total": 36147
+    },
+    {
+      "period": "2020-Q2",
+      "year": 2020,
+      "quarter": 2,
+      "Electric": 12896,
+      "Hydrogen": 130,
+      "PHEV": 3733,
+      "total": 16759
+    },
+    {
+      "period": "2020-Q3",
+      "year": 2020,
+      "quarter": 3,
+      "Electric": 20732,
+      "Hydrogen": 211,
+      "PHEV": 6294,
+      "total": 27237
+    },
+    {
+      "period": "2020-Q4",
+      "year": 2020,
+      "quarter": 4,
+      "Electric": 27763,
+      "Hydrogen": 287,
+      "PHEV": 8797,
+      "total": 36847
+    },
+    {
+      "period": "2021-Q1",
+      "year": 2021,
+      "quarter": 1,
+      "Electric": 32462,
+      "Hydrogen": 581,
+      "PHEV": 10613,
+      "total": 43656
+    },
+    {
+      "period": "2021-Q2",
+      "year": 2021,
+      "quarter": 2,
+      "Electric": 37406,
+      "Hydrogen": 1202,
+      "PHEV": 17651,
+      "total": 56259
+    },
+    {
+      "period": "2021-Q3",
+      "year": 2021,
+      "quarter": 3,
+      "Electric": 43374,
+      "Hydrogen": 645,
+      "PHEV": 12687,
+      "total": 56706
+    },
+    {
+      "period": "2021-Q4",
+      "year": 2021,
+      "quarter": 4,
+      "Electric": 47071,
+      "Hydrogen": 769,
+      "PHEV": 11654,
+      "total": 59494
+    },
+    {
+      "period": "2022-Q1",
+      "year": 2022,
+      "quarter": 1,
+      "Electric": 58601,
+      "Hydrogen": 774,
+      "PHEV": 9761,
+      "total": 69136
+    },
+    {
+      "period": "2022-Q2",
+      "year": 2022,
+      "quarter": 2,
+      "Electric": 59467,
+      "Hydrogen": 897,
+      "PHEV": 11618,
+      "total": 71982
+    },
+    {
+      "period": "2022-Q3",
+      "year": 2022,
+      "quarter": 3,
+      "Electric": 65526,
+      "Hydrogen": 302,
+      "PHEV": 10116,
+      "total": 75944
+    },
+    {
+      "period": "2022-Q4",
+      "year": 2022,
+      "quarter": 4,
+      "Electric": 79074,
+      "Hydrogen": 521,
+      "PHEV": 11705,
+      "total": 91300
+    },
+    {
+      "period": "2023-Q1",
+      "year": 2023,
+      "quarter": 1,
+      "Electric": 83811,
+      "Hydrogen": 790,
+      "PHEV": 14684,
+      "total": 99285
+    },
+    {
+      "period": "2023-Q2",
+      "year": 2023,
+      "quarter": 2,
+      "Electric": 103367,
+      "Hydrogen": 972,
+      "PHEV": 15215,
+      "total": 119554
+    },
+    {
+      "period": "2023-Q3",
+      "year": 2023,
+      "quarter": 3,
+      "Electric": 100380,
+      "Hydrogen": 1135,
+      "PHEV": 17422,
+      "total": 118937
+    },
+    {
+      "period": "2023-Q4",
+      "year": 2023,
+      "quarter": 4,
+      "Electric": 86827,
+      "Hydrogen": 220,
+      "PHEV": 15454,
+      "total": 102501
+    },
+    {
+      "period": "2024-Q1",
+      "year": 2024,
+      "quarter": 1,
+      "Electric": 86431,
+      "Hydrogen": 197,
+      "PHEV": 16389,
+      "total": 103017
+    },
+    {
+      "period": "2024-Q2",
+      "year": 2024,
+      "quarter": 2,
+      "Electric": 100124,
+      "Hydrogen": 94,
+      "PHEV": 16596,
+      "total": 116814
+    },
+    {
+      "period": "2024-Q3",
+      "year": 2024,
+      "quarter": 3,
+      "Electric": 99738,
+      "Hydrogen": 128,
+      "PHEV": 15374,
+      "total": 115240
+    },
+    {
+      "period": "2024-Q4",
+      "year": 2024,
+      "quarter": 4,
+      "Electric": 92617,
+      "Hydrogen": 181,
+      "PHEV": 15505,
+      "total": 108303
+    },
+    {
+      "period": "2025-Q1",
+      "year": 2025,
+      "quarter": 1,
+      "Electric": 85610,
+      "Hydrogen": 68,
+      "PHEV": 15275,
+      "total": 100953
+    },
+    {
+      "period": "2025-Q2",
+      "year": 2025,
+      "quarter": 2,
+      "Electric": 84693,
+      "Hydrogen": 62,
+      "PHEV": 16868,
+      "total": 101623
+    },
+    {
+      "period": "2025-Q3",
+      "year": 2025,
+      "quarter": 3,
+      "Electric": 110380,
+      "Hydrogen": 114,
+      "PHEV": 16595,
+      "total": 127089
+    },
+    {
+      "period": "2025-Q4",
+      "year": 2025,
+      "quarter": 4,
+      "Electric": 70360,
+      "Hydrogen": 119,
+      "PHEV": 8587,
+      "total": 79066
+    }
+  ],
+  "byPeriod": {
+    "2008-Q3": {
+      "total": 10,
+      "Electric": 10,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "fuelShare": {
+        "Electric": 1.0,
+        "Hydrogen": 0.0,
+        "PHEV": 0.0
+      },
+      "previousPeriod": null,
+      "qoqDelta": 10,
+      "qoqPct": null,
+      "topCounties": [
+        {
+          "county": "Santa Clara",
+          "total": 4
+        },
+        {
+          "county": "San Mateo",
+          "total": 3
+        },
+        {
+          "county": "Alameda",
+          "total": 1
+        },
+        {
+          "county": "San Francisco",
+          "total": 1
+        },
+        {
+          "county": "Sonoma",
+          "total": 1
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 4,
+          "total": 4,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Mateo",
+          "delta": 3,
+          "total": 3,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Alameda",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Francisco",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Sonoma",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2008-Q4": {
+      "total": 65,
+      "Electric": 65,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "fuelShare": {
+        "Electric": 1.0,
+        "Hydrogen": 0.0,
+        "PHEV": 0.0
+      },
+      "previousPeriod": "2008-Q3",
+      "qoqDelta": 55,
+      "qoqPct": 5.5,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 17
+        },
+        {
+          "county": "Santa Clara",
+          "total": 14
+        },
+        {
+          "county": "San Francisco",
+          "total": 7
+        },
+        {
+          "county": "San Mateo",
+          "total": 6
+        },
+        {
+          "county": "Alameda",
+          "total": 5
+        },
+        {
+          "county": "San Diego",
+          "total": 3
+        },
+        {
+          "county": "Marin",
+          "total": 3
+        },
+        {
+          "county": "Out Of State",
+          "total": 2
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 17,
+          "total": 17,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 10,
+          "total": 14,
+          "previous": 4,
+          "pct": 2.5
+        },
+        {
+          "county": "San Francisco",
+          "delta": 6,
+          "total": 7,
+          "previous": 1,
+          "pct": 6.0
+        },
+        {
+          "county": "Alameda",
+          "delta": 4,
+          "total": 5,
+          "previous": 1,
+          "pct": 4.0
+        },
+        {
+          "county": "San Mateo",
+          "delta": 3,
+          "total": 6,
+          "previous": 3,
+          "pct": 1.0
+        },
+        {
+          "county": "San Diego",
+          "delta": 3,
+          "total": 3,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Marin",
+          "delta": 3,
+          "total": 3,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Out Of State",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2009-Q1": {
+      "total": 51,
+      "Electric": 51,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "fuelShare": {
+        "Electric": 1.0,
+        "Hydrogen": 0.0,
+        "PHEV": 0.0
+      },
+      "previousPeriod": "2008-Q4",
+      "qoqDelta": -14,
+      "qoqPct": -0.2153846153846154,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 18
+        },
+        {
+          "county": "Santa Clara",
+          "total": 8
+        },
+        {
+          "county": "Alameda",
+          "total": 5
+        },
+        {
+          "county": "San Mateo",
+          "total": 3
+        },
+        {
+          "county": "Orange",
+          "total": 3
+        },
+        {
+          "county": "Marin",
+          "total": 2
+        },
+        {
+          "county": "San Diego",
+          "total": 2
+        },
+        {
+          "county": "San Francisco",
+          "total": 2
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Orange",
+          "delta": 2,
+          "total": 3,
+          "previous": 1,
+          "pct": 2.0
+        },
+        {
+          "county": "Sacramento",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 1,
+          "total": 18,
+          "previous": 17,
+          "pct": 0.058823529411764705
+        },
+        {
+          "county": "Kern",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Placer",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Santa Cruz",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2009-Q2": {
+      "total": 148,
+      "Electric": 148,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "fuelShare": {
+        "Electric": 1.0,
+        "Hydrogen": 0.0,
+        "PHEV": 0.0
+      },
+      "previousPeriod": "2009-Q1",
+      "qoqDelta": 97,
+      "qoqPct": 1.9019607843137254,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 43
+        },
+        {
+          "county": "Santa Clara",
+          "total": 20
+        },
+        {
+          "county": "San Mateo",
+          "total": 20
+        },
+        {
+          "county": "Orange",
+          "total": 20
+        },
+        {
+          "county": "San Diego",
+          "total": 15
+        },
+        {
+          "county": "Marin",
+          "total": 5
+        },
+        {
+          "county": "San Francisco",
+          "total": 4
+        },
+        {
+          "county": "Santa Barbara",
+          "total": 4
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 25,
+          "total": 43,
+          "previous": 18,
+          "pct": 1.3888888888888888
+        },
+        {
+          "county": "San Mateo",
+          "delta": 17,
+          "total": 20,
+          "previous": 3,
+          "pct": 5.666666666666667
+        },
+        {
+          "county": "Orange",
+          "delta": 17,
+          "total": 20,
+          "previous": 3,
+          "pct": 5.666666666666667
+        },
+        {
+          "county": "San Diego",
+          "delta": 13,
+          "total": 15,
+          "previous": 2,
+          "pct": 6.5
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 12,
+          "total": 20,
+          "previous": 8,
+          "pct": 1.5
+        },
+        {
+          "county": "Santa Barbara",
+          "delta": 4,
+          "total": 4,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Marin",
+          "delta": 3,
+          "total": 5,
+          "previous": 2,
+          "pct": 1.5
+        },
+        {
+          "county": "Ventura",
+          "delta": 3,
+          "total": 4,
+          "previous": 1,
+          "pct": 3.0
+        }
+      ]
+    },
+    "2009-Q3": {
+      "total": 235,
+      "Electric": 234,
+      "Hydrogen": 1,
+      "PHEV": 0,
+      "fuelShare": {
+        "Electric": 0.9957446808510638,
+        "Hydrogen": 0.00425531914893617,
+        "PHEV": 0.0
+      },
+      "previousPeriod": "2009-Q2",
+      "qoqDelta": 87,
+      "qoqPct": 0.5878378378378378,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 142
+        },
+        {
+          "county": "Orange",
+          "total": 30
+        },
+        {
+          "county": "Ventura",
+          "total": 17
+        },
+        {
+          "county": "San Diego",
+          "total": 13
+        },
+        {
+          "county": "Santa Clara",
+          "total": 12
+        },
+        {
+          "county": "San Mateo",
+          "total": 5
+        },
+        {
+          "county": "San Francisco",
+          "total": 3
+        },
+        {
+          "county": "Santa Barbara",
+          "total": 3
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 99,
+          "total": 142,
+          "previous": 43,
+          "pct": 2.302325581395349
+        },
+        {
+          "county": "Ventura",
+          "delta": 13,
+          "total": 17,
+          "previous": 4,
+          "pct": 3.25
+        },
+        {
+          "county": "Orange",
+          "delta": 10,
+          "total": 30,
+          "previous": 20,
+          "pct": 0.5
+        },
+        {
+          "county": "Riverside",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Benito",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2009-Q4": {
+      "total": 70,
+      "Electric": 70,
+      "Hydrogen": 0,
+      "PHEV": 0,
+      "fuelShare": {
+        "Electric": 1.0,
+        "Hydrogen": 0.0,
+        "PHEV": 0.0
+      },
+      "previousPeriod": "2009-Q3",
+      "qoqDelta": -165,
+      "qoqPct": -0.7021276595744681,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 60
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3
+        },
+        {
+          "county": "San Diego",
+          "total": 2
+        },
+        {
+          "county": "San Francisco",
+          "total": 2
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1
+        },
+        {
+          "county": "Orange",
+          "total": 1
+        },
+        {
+          "county": "Stanislaus",
+          "total": 1
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Stanislaus",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2010-Q1": {
+      "total": 43,
+      "Electric": 14,
+      "Hydrogen": 0,
+      "PHEV": 29,
+      "fuelShare": {
+        "Electric": 0.32558139534883723,
+        "Hydrogen": 0.0,
+        "PHEV": 0.6744186046511628
+      },
+      "previousPeriod": "2009-Q4",
+      "qoqDelta": -27,
+      "qoqPct": -0.38571428571428573,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 34
+        },
+        {
+          "county": "Santa Clara",
+          "total": 4
+        },
+        {
+          "county": "Orange",
+          "total": 2
+        },
+        {
+          "county": "Sacramento",
+          "total": 1
+        },
+        {
+          "county": "San Mateo",
+          "total": 1
+        },
+        {
+          "county": "Santa Cruz",
+          "total": 1
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 1,
+          "total": 4,
+          "previous": 3,
+          "pct": 0.3333333333333333
+        },
+        {
+          "county": "Orange",
+          "delta": 1,
+          "total": 2,
+          "previous": 1,
+          "pct": 1.0
+        },
+        {
+          "county": "Sacramento",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Mateo",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Santa Cruz",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2010-Q2": {
+      "total": 145,
+      "Electric": 22,
+      "Hydrogen": 1,
+      "PHEV": 122,
+      "fuelShare": {
+        "Electric": 0.15172413793103448,
+        "Hydrogen": 0.006896551724137931,
+        "PHEV": 0.8413793103448276
+      },
+      "previousPeriod": "2010-Q1",
+      "qoqDelta": 102,
+      "qoqPct": 2.372093023255814,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 128
+        },
+        {
+          "county": "Santa Clara",
+          "total": 6
+        },
+        {
+          "county": "San Mateo",
+          "total": 2
+        },
+        {
+          "county": "Contra Costa",
+          "total": 2
+        },
+        {
+          "county": "San Diego",
+          "total": 2
+        },
+        {
+          "county": "Alameda",
+          "total": 1
+        },
+        {
+          "county": "Riverside",
+          "total": 1
+        },
+        {
+          "county": "Humboldt",
+          "total": 1
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 94,
+          "total": 128,
+          "previous": 34,
+          "pct": 2.764705882352941
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 2,
+          "total": 6,
+          "previous": 4,
+          "pct": 0.5
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Diego",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Mateo",
+          "delta": 1,
+          "total": 2,
+          "previous": 1,
+          "pct": 1.0
+        },
+        {
+          "county": "Alameda",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Riverside",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Humboldt",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2010-Q3": {
+      "total": 15,
+      "Electric": 13,
+      "Hydrogen": 2,
+      "PHEV": 0,
+      "fuelShare": {
+        "Electric": 0.8666666666666667,
+        "Hydrogen": 0.13333333333333333,
+        "PHEV": 0.0
+      },
+      "previousPeriod": "2010-Q2",
+      "qoqDelta": -130,
+      "qoqPct": -0.896551724137931,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 4
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3
+        },
+        {
+          "county": "San Francisco",
+          "total": 2
+        },
+        {
+          "county": "Marin",
+          "total": 2
+        },
+        {
+          "county": "Riverside",
+          "total": 1
+        },
+        {
+          "county": "San Mateo",
+          "total": 1
+        },
+        {
+          "county": "Santa Barbara",
+          "total": 1
+        },
+        {
+          "county": "Ventura",
+          "total": 1
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Marin",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Francisco",
+          "delta": 1,
+          "total": 2,
+          "previous": 1,
+          "pct": 1.0
+        },
+        {
+          "county": "Santa Barbara",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2010-Q4": {
+      "total": 32,
+      "Electric": 18,
+      "Hydrogen": 3,
+      "PHEV": 11,
+      "fuelShare": {
+        "Electric": 0.5625,
+        "Hydrogen": 0.09375,
+        "PHEV": 0.34375
+      },
+      "previousPeriod": "2010-Q3",
+      "qoqDelta": 17,
+      "qoqPct": 1.1333333333333333,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 17
+        },
+        {
+          "county": "Santa Clara",
+          "total": 7
+        },
+        {
+          "county": "Contra Costa",
+          "total": 2
+        },
+        {
+          "county": "San Mateo",
+          "total": 2
+        },
+        {
+          "county": "Orange",
+          "total": 2
+        },
+        {
+          "county": "Alameda",
+          "total": 1
+        },
+        {
+          "county": "Monterey",
+          "total": 1
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 13,
+          "total": 17,
+          "previous": 4,
+          "pct": 3.25
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 4,
+          "total": 7,
+          "previous": 3,
+          "pct": 1.3333333333333333
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Orange",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Mateo",
+          "delta": 1,
+          "total": 2,
+          "previous": 1,
+          "pct": 1.0
+        },
+        {
+          "county": "Alameda",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Monterey",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2011-Q1": {
+      "total": 484,
+      "Electric": 108,
+      "Hydrogen": 3,
+      "PHEV": 373,
+      "fuelShare": {
+        "Electric": 0.2231404958677686,
+        "Hydrogen": 0.006198347107438017,
+        "PHEV": 0.7706611570247934
+      },
+      "previousPeriod": "2010-Q4",
+      "qoqDelta": 452,
+      "qoqPct": 14.125,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 118
+        },
+        {
+          "county": "San Diego",
+          "total": 61
+        },
+        {
+          "county": "Orange",
+          "total": 47
+        },
+        {
+          "county": "Santa Clara",
+          "total": 46
+        },
+        {
+          "county": "San Mateo",
+          "total": 25
+        },
+        {
+          "county": "Riverside",
+          "total": 18
+        },
+        {
+          "county": "San Francisco",
+          "total": 18
+        },
+        {
+          "county": "Ventura",
+          "total": 16
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 101,
+          "total": 118,
+          "previous": 17,
+          "pct": 5.9411764705882355
+        },
+        {
+          "county": "San Diego",
+          "delta": 61,
+          "total": 61,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Orange",
+          "delta": 45,
+          "total": 47,
+          "previous": 2,
+          "pct": 22.5
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 39,
+          "total": 46,
+          "previous": 7,
+          "pct": 5.571428571428571
+        },
+        {
+          "county": "San Mateo",
+          "delta": 23,
+          "total": 25,
+          "previous": 2,
+          "pct": 11.5
+        },
+        {
+          "county": "Riverside",
+          "delta": 18,
+          "total": 18,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "San Francisco",
+          "delta": 18,
+          "total": 18,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Ventura",
+          "delta": 16,
+          "total": 16,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2011-Q2": {
+      "total": 1667,
+      "Electric": 1196,
+      "Hydrogen": 0,
+      "PHEV": 471,
+      "fuelShare": {
+        "Electric": 0.7174565086982604,
+        "Hydrogen": 0.0,
+        "PHEV": 0.28254349130173967
+      },
+      "previousPeriod": "2011-Q1",
+      "qoqDelta": 1183,
+      "qoqPct": 2.4442148760330578,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 352
+        },
+        {
+          "county": "San Diego",
+          "total": 275
+        },
+        {
+          "county": "Santa Clara",
+          "total": 249
+        },
+        {
+          "county": "Orange",
+          "total": 138
+        },
+        {
+          "county": "Alameda",
+          "total": 114
+        },
+        {
+          "county": "San Mateo",
+          "total": 87
+        },
+        {
+          "county": "San Francisco",
+          "total": 48
+        },
+        {
+          "county": "Contra Costa",
+          "total": 44
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 234,
+          "total": 352,
+          "previous": 118,
+          "pct": 1.9830508474576272
+        },
+        {
+          "county": "San Diego",
+          "delta": 214,
+          "total": 275,
+          "previous": 61,
+          "pct": 3.5081967213114753
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 203,
+          "total": 249,
+          "previous": 46,
+          "pct": 4.413043478260869
+        },
+        {
+          "county": "Alameda",
+          "delta": 99,
+          "total": 114,
+          "previous": 15,
+          "pct": 6.6
+        },
+        {
+          "county": "Orange",
+          "delta": 91,
+          "total": 138,
+          "previous": 47,
+          "pct": 1.9361702127659575
+        },
+        {
+          "county": "San Mateo",
+          "delta": 62,
+          "total": 87,
+          "previous": 25,
+          "pct": 2.48
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 34,
+          "total": 44,
+          "previous": 10,
+          "pct": 3.4
+        },
+        {
+          "county": "San Francisco",
+          "delta": 30,
+          "total": 48,
+          "previous": 18,
+          "pct": 1.6666666666666667
+        }
+      ]
+    },
+    "2011-Q3": {
+      "total": 2196,
+      "Electric": 1921,
+      "Hydrogen": 0,
+      "PHEV": 275,
+      "fuelShare": {
+        "Electric": 0.8747723132969034,
+        "Hydrogen": 0.0,
+        "PHEV": 0.12522768670309653
+      },
+      "previousPeriod": "2011-Q2",
+      "qoqDelta": 529,
+      "qoqPct": 0.3173365326934613,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 505
+        },
+        {
+          "county": "Santa Clara",
+          "total": 349
+        },
+        {
+          "county": "San Diego",
+          "total": 330
+        },
+        {
+          "county": "Orange",
+          "total": 165
+        },
+        {
+          "county": "Alameda",
+          "total": 161
+        },
+        {
+          "county": "San Mateo",
+          "total": 116
+        },
+        {
+          "county": "Contra Costa",
+          "total": 69
+        },
+        {
+          "county": "Out Of State",
+          "total": 60
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 153,
+          "total": 505,
+          "previous": 352,
+          "pct": 0.4346590909090909
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 100,
+          "total": 349,
+          "previous": 249,
+          "pct": 0.40160642570281124
+        },
+        {
+          "county": "San Diego",
+          "delta": 55,
+          "total": 330,
+          "previous": 275,
+          "pct": 0.2
+        },
+        {
+          "county": "Alameda",
+          "delta": 47,
+          "total": 161,
+          "previous": 114,
+          "pct": 0.41228070175438597
+        },
+        {
+          "county": "Out Of State",
+          "delta": 41,
+          "total": 60,
+          "previous": 19,
+          "pct": 2.1578947368421053
+        },
+        {
+          "county": "San Mateo",
+          "delta": 29,
+          "total": 116,
+          "previous": 87,
+          "pct": 0.3333333333333333
+        },
+        {
+          "county": "Orange",
+          "delta": 27,
+          "total": 165,
+          "previous": 138,
+          "pct": 0.1956521739130435
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 25,
+          "total": 69,
+          "previous": 44,
+          "pct": 0.5681818181818182
+        }
+      ]
+    },
+    "2011-Q4": {
+      "total": 1574,
+      "Electric": 1217,
+      "Hydrogen": 2,
+      "PHEV": 355,
+      "fuelShare": {
+        "Electric": 0.7731893265565438,
+        "Hydrogen": 0.0012706480304955528,
+        "PHEV": 0.22554002541296062
+      },
+      "previousPeriod": "2011-Q3",
+      "qoqDelta": -622,
+      "qoqPct": -0.28324225865209474,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 327
+        },
+        {
+          "county": "San Diego",
+          "total": 250
+        },
+        {
+          "county": "Santa Clara",
+          "total": 238
+        },
+        {
+          "county": "Alameda",
+          "total": 119
+        },
+        {
+          "county": "Orange",
+          "total": 115
+        },
+        {
+          "county": "San Mateo",
+          "total": 82
+        },
+        {
+          "county": "Contra Costa",
+          "total": 64
+        },
+        {
+          "county": "Ventura",
+          "total": 41
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Riverside",
+          "delta": 7,
+          "total": 39,
+          "previous": 32,
+          "pct": 0.21875
+        },
+        {
+          "county": "Napa",
+          "delta": 5,
+          "total": 10,
+          "previous": 5,
+          "pct": 1.0
+        },
+        {
+          "county": "Marin",
+          "delta": 4,
+          "total": 35,
+          "previous": 31,
+          "pct": 0.12903225806451613
+        },
+        {
+          "county": "Placer",
+          "delta": 2,
+          "total": 13,
+          "previous": 11,
+          "pct": 0.18181818181818182
+        },
+        {
+          "county": "San Joaquin",
+          "delta": 2,
+          "total": 8,
+          "previous": 6,
+          "pct": 0.3333333333333333
+        },
+        {
+          "county": "Mendocino",
+          "delta": 2,
+          "total": 2,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Fresno",
+          "delta": 1,
+          "total": 9,
+          "previous": 8,
+          "pct": 0.125
+        },
+        {
+          "county": "Del Norte",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2012-Q1": {
+      "total": 1680,
+      "Electric": 868,
+      "Hydrogen": 0,
+      "PHEV": 812,
+      "fuelShare": {
+        "Electric": 0.5166666666666667,
+        "Hydrogen": 0.0,
+        "PHEV": 0.48333333333333334
+      },
+      "previousPeriod": "2011-Q4",
+      "qoqDelta": 106,
+      "qoqPct": 0.06734434561626429,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 394
+        },
+        {
+          "county": "San Diego",
+          "total": 299
+        },
+        {
+          "county": "Orange",
+          "total": 204
+        },
+        {
+          "county": "Santa Clara",
+          "total": 204
+        },
+        {
+          "county": "Alameda",
+          "total": 86
+        },
+        {
+          "county": "San Mateo",
+          "total": 72
+        },
+        {
+          "county": "Contra Costa",
+          "total": 68
+        },
+        {
+          "county": "San Francisco",
+          "total": 37
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Orange",
+          "delta": 89,
+          "total": 204,
+          "previous": 115,
+          "pct": 0.7739130434782608
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 67,
+          "total": 394,
+          "previous": 327,
+          "pct": 0.20489296636085627
+        },
+        {
+          "county": "San Diego",
+          "delta": 49,
+          "total": 299,
+          "previous": 250,
+          "pct": 0.196
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 11,
+          "total": 32,
+          "previous": 21,
+          "pct": 0.5238095238095238
+        },
+        {
+          "county": "Sacramento",
+          "delta": 8,
+          "total": 30,
+          "previous": 22,
+          "pct": 0.36363636363636365
+        },
+        {
+          "county": "San Luis Obispo",
+          "delta": 5,
+          "total": 10,
+          "previous": 5,
+          "pct": 1.0
+        },
+        {
+          "county": "Tulare",
+          "delta": 5,
+          "total": 5,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 4,
+          "total": 68,
+          "previous": 64,
+          "pct": 0.0625
+        }
+      ]
+    },
+    "2012-Q2": {
+      "total": 3882,
+      "Electric": 431,
+      "Hydrogen": 0,
+      "PHEV": 3451,
+      "fuelShare": {
+        "Electric": 0.1110252447192169,
+        "Hydrogen": 0.0,
+        "PHEV": 0.8889747552807831
+      },
+      "previousPeriod": "2012-Q1",
+      "qoqDelta": 2202,
+      "qoqPct": 1.3107142857142857,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 1142
+        },
+        {
+          "county": "Orange",
+          "total": 675
+        },
+        {
+          "county": "Santa Clara",
+          "total": 518
+        },
+        {
+          "county": "Alameda",
+          "total": 257
+        },
+        {
+          "county": "San Diego",
+          "total": 229
+        },
+        {
+          "county": "Contra Costa",
+          "total": 140
+        },
+        {
+          "county": "San Mateo",
+          "total": 140
+        },
+        {
+          "county": "Riverside",
+          "total": 110
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 748,
+          "total": 1142,
+          "previous": 394,
+          "pct": 1.898477157360406
+        },
+        {
+          "county": "Orange",
+          "delta": 471,
+          "total": 675,
+          "previous": 204,
+          "pct": 2.3088235294117645
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 314,
+          "total": 518,
+          "previous": 204,
+          "pct": 1.5392156862745099
+        },
+        {
+          "county": "Alameda",
+          "delta": 171,
+          "total": 257,
+          "previous": 86,
+          "pct": 1.9883720930232558
+        },
+        {
+          "county": "Riverside",
+          "delta": 75,
+          "total": 110,
+          "previous": 35,
+          "pct": 2.142857142857143
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 72,
+          "total": 140,
+          "previous": 68,
+          "pct": 1.0588235294117647
+        },
+        {
+          "county": "San Mateo",
+          "delta": 68,
+          "total": 140,
+          "previous": 72,
+          "pct": 0.9444444444444444
+        },
+        {
+          "county": "Ventura",
+          "delta": 62,
+          "total": 94,
+          "previous": 32,
+          "pct": 1.9375
+        }
+      ]
+    },
+    "2012-Q3": {
+      "total": 4287,
+      "Electric": 681,
+      "Hydrogen": 0,
+      "PHEV": 3606,
+      "fuelShare": {
+        "Electric": 0.158852344296711,
+        "Hydrogen": 0.0,
+        "PHEV": 0.841147655703289
+      },
+      "previousPeriod": "2012-Q2",
+      "qoqDelta": 405,
+      "qoqPct": 0.10432766615146831,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 1148
+        },
+        {
+          "county": "Orange",
+          "total": 610
+        },
+        {
+          "county": "Santa Clara",
+          "total": 584
+        },
+        {
+          "county": "San Diego",
+          "total": 310
+        },
+        {
+          "county": "Alameda",
+          "total": 303
+        },
+        {
+          "county": "Contra Costa",
+          "total": 174
+        },
+        {
+          "county": "San Mateo",
+          "total": 147
+        },
+        {
+          "county": "Riverside",
+          "total": 136
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "San Diego",
+          "delta": 81,
+          "total": 310,
+          "previous": 229,
+          "pct": 0.3537117903930131
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 66,
+          "total": 584,
+          "previous": 518,
+          "pct": 0.1274131274131274
+        },
+        {
+          "county": "Alameda",
+          "delta": 46,
+          "total": 303,
+          "previous": 257,
+          "pct": 0.17898832684824903
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 34,
+          "total": 174,
+          "previous": 140,
+          "pct": 0.24285714285714285
+        },
+        {
+          "county": "Ventura",
+          "delta": 27,
+          "total": 121,
+          "previous": 94,
+          "pct": 0.2872340425531915
+        },
+        {
+          "county": "Riverside",
+          "delta": 26,
+          "total": 136,
+          "previous": 110,
+          "pct": 0.23636363636363636
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 25,
+          "total": 116,
+          "previous": 91,
+          "pct": 0.27472527472527475
+        },
+        {
+          "county": "Sacramento",
+          "delta": 25,
+          "total": 69,
+          "previous": 44,
+          "pct": 0.5681818181818182
+        }
+      ]
+    },
+    "2012-Q4": {
+      "total": 6563,
+      "Electric": 2271,
+      "Hydrogen": 2,
+      "PHEV": 4290,
+      "fuelShare": {
+        "Electric": 0.3460307786073442,
+        "Hydrogen": 0.00030473868657626083,
+        "PHEV": 0.6536644827060796
+      },
+      "previousPeriod": "2012-Q3",
+      "qoqDelta": 2276,
+      "qoqPct": 0.5309073944483321,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 1924
+        },
+        {
+          "county": "Santa Clara",
+          "total": 935
+        },
+        {
+          "county": "Orange",
+          "total": 864
+        },
+        {
+          "county": "Alameda",
+          "total": 447
+        },
+        {
+          "county": "San Diego",
+          "total": 437
+        },
+        {
+          "county": "San Mateo",
+          "total": 270
+        },
+        {
+          "county": "Contra Costa",
+          "total": 224
+        },
+        {
+          "county": "Riverside",
+          "total": 185
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 776,
+          "total": 1924,
+          "previous": 1148,
+          "pct": 0.6759581881533101
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 351,
+          "total": 935,
+          "previous": 584,
+          "pct": 0.601027397260274
+        },
+        {
+          "county": "Orange",
+          "delta": 254,
+          "total": 864,
+          "previous": 610,
+          "pct": 0.4163934426229508
+        },
+        {
+          "county": "Alameda",
+          "delta": 144,
+          "total": 447,
+          "previous": 303,
+          "pct": 0.4752475247524752
+        },
+        {
+          "county": "San Diego",
+          "delta": 127,
+          "total": 437,
+          "previous": 310,
+          "pct": 0.4096774193548387
+        },
+        {
+          "county": "San Mateo",
+          "delta": 123,
+          "total": 270,
+          "previous": 147,
+          "pct": 0.8367346938775511
+        },
+        {
+          "county": "San Francisco",
+          "delta": 56,
+          "total": 143,
+          "previous": 87,
+          "pct": 0.6436781609195402
+        },
+        {
+          "county": "Sacramento",
+          "delta": 51,
+          "total": 120,
+          "previous": 69,
+          "pct": 0.7391304347826086
+        }
+      ]
+    },
+    "2013-Q1": {
+      "total": 6970,
+      "Electric": 3843,
+      "Hydrogen": 0,
+      "PHEV": 3127,
+      "fuelShare": {
+        "Electric": 0.5513629842180775,
+        "Hydrogen": 0.0,
+        "PHEV": 0.4486370157819225
+      },
+      "previousPeriod": "2012-Q4",
+      "qoqDelta": 407,
+      "qoqPct": 0.06201432271826909,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 1853
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1143
+        },
+        {
+          "county": "Orange",
+          "total": 802
+        },
+        {
+          "county": "Alameda",
+          "total": 527
+        },
+        {
+          "county": "San Diego",
+          "total": 489
+        },
+        {
+          "county": "San Mateo",
+          "total": 393
+        },
+        {
+          "county": "Contra Costa",
+          "total": 273
+        },
+        {
+          "county": "San Francisco",
+          "total": 158
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 208,
+          "total": 1143,
+          "previous": 935,
+          "pct": 0.22245989304812835
+        },
+        {
+          "county": "San Mateo",
+          "delta": 123,
+          "total": 393,
+          "previous": 270,
+          "pct": 0.45555555555555555
+        },
+        {
+          "county": "Alameda",
+          "delta": 80,
+          "total": 527,
+          "previous": 447,
+          "pct": 0.1789709172259508
+        },
+        {
+          "county": "San Diego",
+          "delta": 52,
+          "total": 489,
+          "previous": 437,
+          "pct": 0.11899313501144165
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 49,
+          "total": 273,
+          "previous": 224,
+          "pct": 0.21875
+        },
+        {
+          "county": "Marin",
+          "delta": 32,
+          "total": 140,
+          "previous": 108,
+          "pct": 0.2962962962962963
+        },
+        {
+          "county": "Santa Cruz",
+          "delta": 27,
+          "total": 95,
+          "previous": 68,
+          "pct": 0.39705882352941174
+        },
+        {
+          "county": "Ventura",
+          "delta": 23,
+          "total": 154,
+          "previous": 131,
+          "pct": 0.17557251908396945
+        }
+      ]
+    },
+    "2013-Q2": {
+      "total": 8299,
+      "Electric": 4905,
+      "Hydrogen": 1,
+      "PHEV": 3393,
+      "fuelShare": {
+        "Electric": 0.5910350644655983,
+        "Hydrogen": 0.00012049644535486203,
+        "PHEV": 0.4088444390890469
+      },
+      "previousPeriod": "2013-Q1",
+      "qoqDelta": 1329,
+      "qoqPct": 0.19067431850789096,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 2158
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1412
+        },
+        {
+          "county": "Orange",
+          "total": 981
+        },
+        {
+          "county": "Alameda",
+          "total": 610
+        },
+        {
+          "county": "San Diego",
+          "total": 601
+        },
+        {
+          "county": "San Mateo",
+          "total": 454
+        },
+        {
+          "county": "Contra Costa",
+          "total": 311
+        },
+        {
+          "county": "San Francisco",
+          "total": 198
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 305,
+          "total": 2158,
+          "previous": 1853,
+          "pct": 0.1645979492714517
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 269,
+          "total": 1412,
+          "previous": 1143,
+          "pct": 0.23534558180227472
+        },
+        {
+          "county": "Orange",
+          "delta": 179,
+          "total": 981,
+          "previous": 802,
+          "pct": 0.2231920199501247
+        },
+        {
+          "county": "San Diego",
+          "delta": 112,
+          "total": 601,
+          "previous": 489,
+          "pct": 0.22903885480572597
+        },
+        {
+          "county": "Alameda",
+          "delta": 83,
+          "total": 610,
+          "previous": 527,
+          "pct": 0.15749525616698293
+        },
+        {
+          "county": "San Mateo",
+          "delta": 61,
+          "total": 454,
+          "previous": 393,
+          "pct": 0.15521628498727735
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 56,
+          "total": 163,
+          "previous": 107,
+          "pct": 0.5233644859813084
+        },
+        {
+          "county": "Riverside",
+          "delta": 51,
+          "total": 189,
+          "previous": 138,
+          "pct": 0.3695652173913043
+        }
+      ]
+    },
+    "2013-Q3": {
+      "total": 9729,
+      "Electric": 5114,
+      "Hydrogen": 5,
+      "PHEV": 4610,
+      "fuelShare": {
+        "Electric": 0.5256449789289752,
+        "Hydrogen": 0.0005139274334463973,
+        "PHEV": 0.47384109363757837
+      },
+      "previousPeriod": "2013-Q2",
+      "qoqDelta": 1430,
+      "qoqPct": 0.1723099168574527,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 2836
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1443
+        },
+        {
+          "county": "Orange",
+          "total": 1120
+        },
+        {
+          "county": "San Diego",
+          "total": 697
+        },
+        {
+          "county": "Alameda",
+          "total": 680
+        },
+        {
+          "county": "San Mateo",
+          "total": 405
+        },
+        {
+          "county": "Contra Costa",
+          "total": 348
+        },
+        {
+          "county": "Riverside",
+          "total": 264
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 678,
+          "total": 2836,
+          "previous": 2158,
+          "pct": 0.31417979610750696
+        },
+        {
+          "county": "Orange",
+          "delta": 139,
+          "total": 1120,
+          "previous": 981,
+          "pct": 0.14169215086646278
+        },
+        {
+          "county": "San Diego",
+          "delta": 96,
+          "total": 697,
+          "previous": 601,
+          "pct": 0.15973377703826955
+        },
+        {
+          "county": "Riverside",
+          "delta": 75,
+          "total": 264,
+          "previous": 189,
+          "pct": 0.3968253968253968
+        },
+        {
+          "county": "Alameda",
+          "delta": 70,
+          "total": 680,
+          "previous": 610,
+          "pct": 0.11475409836065574
+        },
+        {
+          "county": "Sacramento",
+          "delta": 59,
+          "total": 204,
+          "previous": 145,
+          "pct": 0.4068965517241379
+        },
+        {
+          "county": "Ventura",
+          "delta": 38,
+          "total": 204,
+          "previous": 166,
+          "pct": 0.2289156626506024
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 37,
+          "total": 348,
+          "previous": 311,
+          "pct": 0.1189710610932476
+        }
+      ]
+    },
+    "2013-Q4": {
+      "total": 12273,
+      "Electric": 5624,
+      "Hydrogen": 0,
+      "PHEV": 6649,
+      "fuelShare": {
+        "Electric": 0.45824166870365846,
+        "Hydrogen": 0.0,
+        "PHEV": 0.5417583312963415
+      },
+      "previousPeriod": "2013-Q3",
+      "qoqDelta": 2544,
+      "qoqPct": 0.261486278137527,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 3577
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1671
+        },
+        {
+          "county": "Orange",
+          "total": 1501
+        },
+        {
+          "county": "Alameda",
+          "total": 960
+        },
+        {
+          "county": "San Diego",
+          "total": 895
+        },
+        {
+          "county": "Contra Costa",
+          "total": 479
+        },
+        {
+          "county": "San Mateo",
+          "total": 455
+        },
+        {
+          "county": "Riverside",
+          "total": 320
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 741,
+          "total": 3577,
+          "previous": 2836,
+          "pct": 0.26128349788434413
+        },
+        {
+          "county": "Orange",
+          "delta": 381,
+          "total": 1501,
+          "previous": 1120,
+          "pct": 0.34017857142857144
+        },
+        {
+          "county": "Alameda",
+          "delta": 280,
+          "total": 960,
+          "previous": 680,
+          "pct": 0.4117647058823529
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 228,
+          "total": 1671,
+          "previous": 1443,
+          "pct": 0.158004158004158
+        },
+        {
+          "county": "San Diego",
+          "delta": 198,
+          "total": 895,
+          "previous": 697,
+          "pct": 0.28407460545193686
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 131,
+          "total": 479,
+          "previous": 348,
+          "pct": 0.3764367816091954
+        },
+        {
+          "county": "Sacramento",
+          "delta": 79,
+          "total": 283,
+          "previous": 204,
+          "pct": 0.3872549019607843
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 65,
+          "total": 263,
+          "previous": 198,
+          "pct": 0.3282828282828283
+        }
+      ]
+    },
+    "2014-Q1": {
+      "total": 11563,
+      "Electric": 5287,
+      "Hydrogen": 4,
+      "PHEV": 6272,
+      "fuelShare": {
+        "Electric": 0.45723428176078873,
+        "Hydrogen": 0.00034593098676813974,
+        "PHEV": 0.5424197872524431
+      },
+      "previousPeriod": "2013-Q4",
+      "qoqDelta": -710,
+      "qoqPct": -0.05785056628371221,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 3127
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1930
+        },
+        {
+          "county": "Orange",
+          "total": 1400
+        },
+        {
+          "county": "Alameda",
+          "total": 977
+        },
+        {
+          "county": "San Diego",
+          "total": 717
+        },
+        {
+          "county": "Contra Costa",
+          "total": 454
+        },
+        {
+          "county": "San Mateo",
+          "total": 443
+        },
+        {
+          "county": "Riverside",
+          "total": 336
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 259,
+          "total": 1930,
+          "previous": 1671,
+          "pct": 0.1549970077797726
+        },
+        {
+          "county": "Fresno",
+          "delta": 51,
+          "total": 97,
+          "previous": 46,
+          "pct": 1.108695652173913
+        },
+        {
+          "county": "Alameda",
+          "delta": 17,
+          "total": 977,
+          "previous": 960,
+          "pct": 0.017708333333333333
+        },
+        {
+          "county": "Riverside",
+          "delta": 16,
+          "total": 336,
+          "previous": 320,
+          "pct": 0.05
+        },
+        {
+          "county": "Marin",
+          "delta": 11,
+          "total": 198,
+          "previous": 187,
+          "pct": 0.058823529411764705
+        },
+        {
+          "county": "Yolo",
+          "delta": 9,
+          "total": 48,
+          "previous": 39,
+          "pct": 0.23076923076923078
+        },
+        {
+          "county": "Out Of State",
+          "delta": 8,
+          "total": 21,
+          "previous": 13,
+          "pct": 0.6153846153846154
+        },
+        {
+          "county": "Humboldt",
+          "delta": 8,
+          "total": 15,
+          "previous": 7,
+          "pct": 1.1428571428571428
+        }
+      ]
+    },
+    "2014-Q2": {
+      "total": 15343,
+      "Electric": 6920,
+      "Hydrogen": 2,
+      "PHEV": 8421,
+      "fuelShare": {
+        "Electric": 0.45102000912468226,
+        "Hydrogen": 0.00013035260379326078,
+        "PHEV": 0.5488496382715244
+      },
+      "previousPeriod": "2014-Q1",
+      "qoqDelta": 3780,
+      "qoqPct": 0.32690478249589205,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 4244
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2188
+        },
+        {
+          "county": "Orange",
+          "total": 1854
+        },
+        {
+          "county": "Alameda",
+          "total": 1321
+        },
+        {
+          "county": "San Diego",
+          "total": 1070
+        },
+        {
+          "county": "Contra Costa",
+          "total": 597
+        },
+        {
+          "county": "San Mateo",
+          "total": 524
+        },
+        {
+          "county": "Riverside",
+          "total": 396
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 1117,
+          "total": 4244,
+          "previous": 3127,
+          "pct": 0.35721138471378316
+        },
+        {
+          "county": "Orange",
+          "delta": 454,
+          "total": 1854,
+          "previous": 1400,
+          "pct": 0.3242857142857143
+        },
+        {
+          "county": "San Diego",
+          "delta": 353,
+          "total": 1070,
+          "previous": 717,
+          "pct": 0.49232914923291493
+        },
+        {
+          "county": "Alameda",
+          "delta": 344,
+          "total": 1321,
+          "previous": 977,
+          "pct": 0.35209825997952915
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 258,
+          "total": 2188,
+          "previous": 1930,
+          "pct": 0.13367875647668392
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 143,
+          "total": 597,
+          "previous": 454,
+          "pct": 0.31497797356828194
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 125,
+          "total": 354,
+          "previous": 229,
+          "pct": 0.5458515283842795
+        },
+        {
+          "county": "Sonoma",
+          "delta": 117,
+          "total": 292,
+          "previous": 175,
+          "pct": 0.6685714285714286
+        }
+      ]
+    },
+    "2014-Q3": {
+      "total": 15060,
+      "Electric": 7200,
+      "Hydrogen": 17,
+      "PHEV": 7843,
+      "fuelShare": {
+        "Electric": 0.47808764940239046,
+        "Hydrogen": 0.0011288180610889774,
+        "PHEV": 0.5207835325365205
+      },
+      "previousPeriod": "2014-Q2",
+      "qoqDelta": -283,
+      "qoqPct": -0.0184448934367464,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 3855
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2379
+        },
+        {
+          "county": "Orange",
+          "total": 1678
+        },
+        {
+          "county": "Alameda",
+          "total": 1269
+        },
+        {
+          "county": "San Diego",
+          "total": 999
+        },
+        {
+          "county": "Contra Costa",
+          "total": 625
+        },
+        {
+          "county": "San Mateo",
+          "total": 618
+        },
+        {
+          "county": "San Francisco",
+          "total": 402
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 191,
+          "total": 2379,
+          "previous": 2188,
+          "pct": 0.0872943327239488
+        },
+        {
+          "county": "San Mateo",
+          "delta": 94,
+          "total": 618,
+          "previous": 524,
+          "pct": 0.17938931297709923
+        },
+        {
+          "county": "San Francisco",
+          "delta": 61,
+          "total": 402,
+          "previous": 341,
+          "pct": 0.17888563049853373
+        },
+        {
+          "county": "Sacramento",
+          "delta": 57,
+          "total": 313,
+          "previous": 256,
+          "pct": 0.22265625
+        },
+        {
+          "county": "Santa Barbara",
+          "delta": 32,
+          "total": 98,
+          "previous": 66,
+          "pct": 0.48484848484848486
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 28,
+          "total": 625,
+          "previous": 597,
+          "pct": 0.04690117252931323
+        },
+        {
+          "county": "Solano",
+          "delta": 23,
+          "total": 125,
+          "previous": 102,
+          "pct": 0.22549019607843138
+        },
+        {
+          "county": "Kern",
+          "delta": 17,
+          "total": 60,
+          "previous": 43,
+          "pct": 0.3953488372093023
+        }
+      ]
+    },
+    "2014-Q4": {
+      "total": 13436,
+      "Electric": 8075,
+      "Hydrogen": 24,
+      "PHEV": 5337,
+      "fuelShare": {
+        "Electric": 0.6009973206311402,
+        "Hydrogen": 0.0017862459065197975,
+        "PHEV": 0.39721643346234
+      },
+      "previousPeriod": "2014-Q3",
+      "qoqDelta": -1624,
+      "qoqPct": -0.10783532536520585,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 3283
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2122
+        },
+        {
+          "county": "Orange",
+          "total": 1522
+        },
+        {
+          "county": "Alameda",
+          "total": 1219
+        },
+        {
+          "county": "San Diego",
+          "total": 1063
+        },
+        {
+          "county": "San Mateo",
+          "total": 616
+        },
+        {
+          "county": "Contra Costa",
+          "total": 569
+        },
+        {
+          "county": "San Francisco",
+          "total": 368
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "San Diego",
+          "delta": 64,
+          "total": 1063,
+          "previous": 999,
+          "pct": 0.06406406406406406
+        },
+        {
+          "county": "Marin",
+          "delta": 23,
+          "total": 262,
+          "previous": 239,
+          "pct": 0.09623430962343096
+        },
+        {
+          "county": "San Luis Obispo",
+          "delta": 16,
+          "total": 52,
+          "previous": 36,
+          "pct": 0.4444444444444444
+        },
+        {
+          "county": "Mendocino",
+          "delta": 15,
+          "total": 35,
+          "previous": 20,
+          "pct": 0.75
+        },
+        {
+          "county": "Kings",
+          "delta": 7,
+          "total": 8,
+          "previous": 1,
+          "pct": 7.0
+        },
+        {
+          "county": "Santa Cruz",
+          "delta": 3,
+          "total": 136,
+          "previous": 133,
+          "pct": 0.022556390977443608
+        },
+        {
+          "county": "Nevada",
+          "delta": 3,
+          "total": 16,
+          "previous": 13,
+          "pct": 0.23076923076923078
+        },
+        {
+          "county": "Imperial",
+          "delta": 3,
+          "total": 6,
+          "previous": 3,
+          "pct": 1.0
+        }
+      ]
+    },
+    "2015-Q1": {
+      "total": 12069,
+      "Electric": 7221,
+      "Hydrogen": 19,
+      "PHEV": 4829,
+      "fuelShare": {
+        "Electric": 0.5983097191150882,
+        "Hydrogen": 0.0015742812163393818,
+        "PHEV": 0.40011599966857236
+      },
+      "previousPeriod": "2014-Q4",
+      "qoqDelta": -1367,
+      "qoqPct": -0.1017415897588568,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 3075
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1861
+        },
+        {
+          "county": "Orange",
+          "total": 1436
+        },
+        {
+          "county": "Alameda",
+          "total": 1010
+        },
+        {
+          "county": "San Diego",
+          "total": 995
+        },
+        {
+          "county": "San Mateo",
+          "total": 533
+        },
+        {
+          "county": "Contra Costa",
+          "total": 498
+        },
+        {
+          "county": "San Francisco",
+          "total": 348
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Napa",
+          "delta": 14,
+          "total": 49,
+          "previous": 35,
+          "pct": 0.4
+        },
+        {
+          "county": "San Luis Obispo",
+          "delta": 12,
+          "total": 64,
+          "previous": 52,
+          "pct": 0.23076923076923078
+        },
+        {
+          "county": "Solano",
+          "delta": 9,
+          "total": 84,
+          "previous": 75,
+          "pct": 0.12
+        },
+        {
+          "county": "Humboldt",
+          "delta": 8,
+          "total": 35,
+          "previous": 27,
+          "pct": 0.2962962962962963
+        },
+        {
+          "county": "Fresno",
+          "delta": 6,
+          "total": 118,
+          "previous": 112,
+          "pct": 0.05357142857142857
+        },
+        {
+          "county": "Monterey",
+          "delta": 3,
+          "total": 65,
+          "previous": 62,
+          "pct": 0.04838709677419355
+        },
+        {
+          "county": "Madera",
+          "delta": 3,
+          "total": 11,
+          "previous": 8,
+          "pct": 0.375
+        },
+        {
+          "county": "San Benito",
+          "delta": 2,
+          "total": 8,
+          "previous": 6,
+          "pct": 0.3333333333333333
+        }
+      ]
+    },
+    "2015-Q2": {
+      "total": 12452,
+      "Electric": 7385,
+      "Hydrogen": 4,
+      "PHEV": 5063,
+      "fuelShare": {
+        "Electric": 0.5930774172823643,
+        "Hydrogen": 0.00032123353678124,
+        "PHEV": 0.4066013491808545
+      },
+      "previousPeriod": "2015-Q1",
+      "qoqDelta": 383,
+      "qoqPct": 0.03173419504515702,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 3256
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1846
+        },
+        {
+          "county": "Orange",
+          "total": 1464
+        },
+        {
+          "county": "Alameda",
+          "total": 1089
+        },
+        {
+          "county": "San Diego",
+          "total": 803
+        },
+        {
+          "county": "San Mateo",
+          "total": 559
+        },
+        {
+          "county": "Contra Costa",
+          "total": 521
+        },
+        {
+          "county": "San Francisco",
+          "total": 417
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 181,
+          "total": 3256,
+          "previous": 3075,
+          "pct": 0.05886178861788618
+        },
+        {
+          "county": "Riverside",
+          "delta": 80,
+          "total": 354,
+          "previous": 274,
+          "pct": 0.291970802919708
+        },
+        {
+          "county": "Alameda",
+          "delta": 79,
+          "total": 1089,
+          "previous": 1010,
+          "pct": 0.07821782178217822
+        },
+        {
+          "county": "San Francisco",
+          "delta": 69,
+          "total": 417,
+          "previous": 348,
+          "pct": 0.19827586206896552
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 67,
+          "total": 280,
+          "previous": 213,
+          "pct": 0.3145539906103286
+        },
+        {
+          "county": "Orange",
+          "delta": 28,
+          "total": 1464,
+          "previous": 1436,
+          "pct": 0.019498607242339833
+        },
+        {
+          "county": "San Mateo",
+          "delta": 26,
+          "total": 559,
+          "previous": 533,
+          "pct": 0.04878048780487805
+        },
+        {
+          "county": "Stanislaus",
+          "delta": 24,
+          "total": 48,
+          "previous": 24,
+          "pct": 1.0
+        }
+      ]
+    },
+    "2015-Q3": {
+      "total": 12355,
+      "Electric": 7639,
+      "Hydrogen": 7,
+      "PHEV": 4709,
+      "fuelShare": {
+        "Electric": 0.6182921893970053,
+        "Hydrogen": 0.0005665722379603399,
+        "PHEV": 0.3811412383650344
+      },
+      "previousPeriod": "2015-Q2",
+      "qoqDelta": -97,
+      "qoqPct": -0.007789913266945069,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 3182
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1963
+        },
+        {
+          "county": "Orange",
+          "total": 1510
+        },
+        {
+          "county": "Alameda",
+          "total": 1105
+        },
+        {
+          "county": "San Diego",
+          "total": 832
+        },
+        {
+          "county": "San Mateo",
+          "total": 530
+        },
+        {
+          "county": "Contra Costa",
+          "total": 526
+        },
+        {
+          "county": "Riverside",
+          "total": 310
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 117,
+          "total": 1963,
+          "previous": 1846,
+          "pct": 0.06338028169014084
+        },
+        {
+          "county": "Sacramento",
+          "delta": 55,
+          "total": 231,
+          "previous": 176,
+          "pct": 0.3125
+        },
+        {
+          "county": "Orange",
+          "delta": 46,
+          "total": 1510,
+          "previous": 1464,
+          "pct": 0.031420765027322405
+        },
+        {
+          "county": "San Diego",
+          "delta": 29,
+          "total": 832,
+          "previous": 803,
+          "pct": 0.0361145703611457
+        },
+        {
+          "county": "San Joaquin",
+          "delta": 17,
+          "total": 80,
+          "previous": 63,
+          "pct": 0.2698412698412698
+        },
+        {
+          "county": "Alameda",
+          "delta": 16,
+          "total": 1105,
+          "previous": 1089,
+          "pct": 0.014692378328741965
+        },
+        {
+          "county": "San Luis Obispo",
+          "delta": 13,
+          "total": 55,
+          "previous": 42,
+          "pct": 0.30952380952380953
+        },
+        {
+          "county": "Shasta",
+          "delta": 12,
+          "total": 14,
+          "previous": 2,
+          "pct": 6.0
+        }
+      ]
+    },
+    "2015-Q4": {
+      "total": 17386,
+      "Electric": 9187,
+      "Hydrogen": 58,
+      "PHEV": 8141,
+      "fuelShare": {
+        "Electric": 0.5284136661681813,
+        "Hydrogen": 0.0033360174853330265,
+        "PHEV": 0.4682503163464857
+      },
+      "previousPeriod": "2015-Q3",
+      "qoqDelta": 5031,
+      "qoqPct": 0.40720356131121005,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 4754
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2799
+        },
+        {
+          "county": "Orange",
+          "total": 1892
+        },
+        {
+          "county": "Alameda",
+          "total": 1529
+        },
+        {
+          "county": "San Diego",
+          "total": 1313
+        },
+        {
+          "county": "San Mateo",
+          "total": 717
+        },
+        {
+          "county": "Contra Costa",
+          "total": 691
+        },
+        {
+          "county": "Riverside",
+          "total": 404
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 1572,
+          "total": 4754,
+          "previous": 3182,
+          "pct": 0.4940289126335638
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 836,
+          "total": 2799,
+          "previous": 1963,
+          "pct": 0.42587875700458483
+        },
+        {
+          "county": "San Diego",
+          "delta": 481,
+          "total": 1313,
+          "previous": 832,
+          "pct": 0.578125
+        },
+        {
+          "county": "Alameda",
+          "delta": 424,
+          "total": 1529,
+          "previous": 1105,
+          "pct": 0.38371040723981903
+        },
+        {
+          "county": "Orange",
+          "delta": 382,
+          "total": 1892,
+          "previous": 1510,
+          "pct": 0.25298013245033113
+        },
+        {
+          "county": "San Mateo",
+          "delta": 187,
+          "total": 717,
+          "previous": 530,
+          "pct": 0.35283018867924526
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 165,
+          "total": 691,
+          "previous": 526,
+          "pct": 0.31368821292775667
+        },
+        {
+          "county": "Marin",
+          "delta": 95,
+          "total": 290,
+          "previous": 195,
+          "pct": 0.48717948717948717
+        }
+      ]
+    },
+    "2016-Q1": {
+      "total": 16187,
+      "Electric": 7365,
+      "Hydrogen": 96,
+      "PHEV": 8726,
+      "fuelShare": {
+        "Electric": 0.45499474887255204,
+        "Hydrogen": 0.005930685117687033,
+        "PHEV": 0.5390745660097609
+      },
+      "previousPeriod": "2015-Q4",
+      "qoqDelta": -1199,
+      "qoqPct": -0.06896353387783274,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 4846
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2373
+        },
+        {
+          "county": "Orange",
+          "total": 1888
+        },
+        {
+          "county": "Alameda",
+          "total": 1276
+        },
+        {
+          "county": "San Diego",
+          "total": 1147
+        },
+        {
+          "county": "San Mateo",
+          "total": 653
+        },
+        {
+          "county": "Contra Costa",
+          "total": 570
+        },
+        {
+          "county": "San Francisco",
+          "total": 417
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 92,
+          "total": 4846,
+          "previous": 4754,
+          "pct": 0.019352124526714348
+        },
+        {
+          "county": "San Francisco",
+          "delta": 36,
+          "total": 417,
+          "previous": 381,
+          "pct": 0.09448818897637795
+        },
+        {
+          "county": "Out Of State",
+          "delta": 33,
+          "total": 62,
+          "previous": 29,
+          "pct": 1.1379310344827587
+        },
+        {
+          "county": "Santa Barbara",
+          "delta": 17,
+          "total": 116,
+          "previous": 99,
+          "pct": 0.1717171717171717
+        },
+        {
+          "county": "Ventura",
+          "delta": 7,
+          "total": 317,
+          "previous": 310,
+          "pct": 0.02258064516129032
+        },
+        {
+          "county": "San Luis Obispo",
+          "delta": 7,
+          "total": 59,
+          "previous": 52,
+          "pct": 0.1346153846153846
+        },
+        {
+          "county": "Kern",
+          "delta": 5,
+          "total": 64,
+          "previous": 59,
+          "pct": 0.0847457627118644
+        },
+        {
+          "county": "Humboldt",
+          "delta": 5,
+          "total": 24,
+          "previous": 19,
+          "pct": 0.2631578947368421
+        }
+      ]
+    },
+    "2016-Q2": {
+      "total": 15599,
+      "Electric": 8863,
+      "Hydrogen": 118,
+      "PHEV": 6618,
+      "fuelShare": {
+        "Electric": 0.568177447272261,
+        "Hydrogen": 0.007564587473555998,
+        "PHEV": 0.42425796525418297
+      },
+      "previousPeriod": "2016-Q1",
+      "qoqDelta": -588,
+      "qoqPct": -0.036325446345833075,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 4629
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2158
+        },
+        {
+          "county": "Orange",
+          "total": 1913
+        },
+        {
+          "county": "San Diego",
+          "total": 1183
+        },
+        {
+          "county": "Alameda",
+          "total": 1047
+        },
+        {
+          "county": "San Mateo",
+          "total": 674
+        },
+        {
+          "county": "Contra Costa",
+          "total": 546
+        },
+        {
+          "county": "San Francisco",
+          "total": 440
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Fresno",
+          "delta": 68,
+          "total": 193,
+          "previous": 125,
+          "pct": 0.544
+        },
+        {
+          "county": "Riverside",
+          "delta": 48,
+          "total": 433,
+          "previous": 385,
+          "pct": 0.12467532467532468
+        },
+        {
+          "county": "San Diego",
+          "delta": 36,
+          "total": 1183,
+          "previous": 1147,
+          "pct": 0.03138622493461203
+        },
+        {
+          "county": "Orange",
+          "delta": 25,
+          "total": 1913,
+          "previous": 1888,
+          "pct": 0.013241525423728813
+        },
+        {
+          "county": "San Francisco",
+          "delta": 23,
+          "total": 440,
+          "previous": 417,
+          "pct": 0.05515587529976019
+        },
+        {
+          "county": "San Mateo",
+          "delta": 21,
+          "total": 674,
+          "previous": 653,
+          "pct": 0.03215926493108729
+        },
+        {
+          "county": "Sacramento",
+          "delta": 19,
+          "total": 240,
+          "previous": 221,
+          "pct": 0.08597285067873303
+        },
+        {
+          "county": "Santa Barbara",
+          "delta": 17,
+          "total": 133,
+          "previous": 116,
+          "pct": 0.14655172413793102
+        }
+      ]
+    },
+    "2016-Q3": {
+      "total": 19041,
+      "Electric": 10090,
+      "Hydrogen": 480,
+      "PHEV": 8471,
+      "fuelShare": {
+        "Electric": 0.529909143427341,
+        "Hydrogen": 0.02520876004411533,
+        "PHEV": 0.44488209652854366
+      },
+      "previousPeriod": "2016-Q2",
+      "qoqDelta": 3442,
+      "qoqPct": 0.22065517020321815,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 5669
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2879
+        },
+        {
+          "county": "Orange",
+          "total": 2198
+        },
+        {
+          "county": "Alameda",
+          "total": 1397
+        },
+        {
+          "county": "San Diego",
+          "total": 1272
+        },
+        {
+          "county": "San Mateo",
+          "total": 812
+        },
+        {
+          "county": "Contra Costa",
+          "total": 719
+        },
+        {
+          "county": "Riverside",
+          "total": 493
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 1040,
+          "total": 5669,
+          "previous": 4629,
+          "pct": 0.22467055519550658
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 721,
+          "total": 2879,
+          "previous": 2158,
+          "pct": 0.3341056533827618
+        },
+        {
+          "county": "Alameda",
+          "delta": 350,
+          "total": 1397,
+          "previous": 1047,
+          "pct": 0.3342884431709647
+        },
+        {
+          "county": "Orange",
+          "delta": 285,
+          "total": 2198,
+          "previous": 1913,
+          "pct": 0.14898065865133298
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 173,
+          "total": 719,
+          "previous": 546,
+          "pct": 0.31684981684981683
+        },
+        {
+          "county": "San Mateo",
+          "delta": 138,
+          "total": 812,
+          "previous": 674,
+          "pct": 0.20474777448071216
+        },
+        {
+          "county": "San Diego",
+          "delta": 89,
+          "total": 1272,
+          "previous": 1183,
+          "pct": 0.07523245984784446
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 71,
+          "total": 382,
+          "previous": 311,
+          "pct": 0.2282958199356913
+        }
+      ]
+    },
+    "2016-Q4": {
+      "total": 18077,
+      "Electric": 9659,
+      "Hydrogen": 264,
+      "PHEV": 8154,
+      "fuelShare": {
+        "Electric": 0.5343253858494219,
+        "Hydrogen": 0.01460419317364607,
+        "PHEV": 0.451070420976932
+      },
+      "previousPeriod": "2016-Q3",
+      "qoqDelta": -964,
+      "qoqPct": -0.05062759308859829,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 5162
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2498
+        },
+        {
+          "county": "Orange",
+          "total": 2429
+        },
+        {
+          "county": "San Diego",
+          "total": 1332
+        },
+        {
+          "county": "Alameda",
+          "total": 1300
+        },
+        {
+          "county": "San Mateo",
+          "total": 684
+        },
+        {
+          "county": "Contra Costa",
+          "total": 580
+        },
+        {
+          "county": "Riverside",
+          "total": 471
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Orange",
+          "delta": 231,
+          "total": 2429,
+          "previous": 2198,
+          "pct": 0.10509554140127389
+        },
+        {
+          "county": "San Diego",
+          "delta": 60,
+          "total": 1332,
+          "previous": 1272,
+          "pct": 0.04716981132075472
+        },
+        {
+          "county": "Fresno",
+          "delta": 39,
+          "total": 254,
+          "previous": 215,
+          "pct": 0.1813953488372093
+        },
+        {
+          "county": "Sonoma",
+          "delta": 36,
+          "total": 272,
+          "previous": 236,
+          "pct": 0.15254237288135594
+        },
+        {
+          "county": "Kern",
+          "delta": 21,
+          "total": 101,
+          "previous": 80,
+          "pct": 0.2625
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 20,
+          "total": 402,
+          "previous": 382,
+          "pct": 0.05235602094240838
+        },
+        {
+          "county": "Yolo",
+          "delta": 20,
+          "total": 74,
+          "previous": 54,
+          "pct": 0.37037037037037035
+        },
+        {
+          "county": "Tulare",
+          "delta": 19,
+          "total": 35,
+          "previous": 16,
+          "pct": 1.1875
+        }
+      ]
+    },
+    "2017-Q1": {
+      "total": 23931,
+      "Electric": 12498,
+      "Hydrogen": 430,
+      "PHEV": 11003,
+      "fuelShare": {
+        "Electric": 0.5222514729848314,
+        "Hydrogen": 0.017968325602774643,
+        "PHEV": 0.45978020141239395
+      },
+      "previousPeriod": "2016-Q4",
+      "qoqDelta": 5854,
+      "qoqPct": 0.3238369198428943,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 6868
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3248
+        },
+        {
+          "county": "Orange",
+          "total": 2887
+        },
+        {
+          "county": "Alameda",
+          "total": 1818
+        },
+        {
+          "county": "San Diego",
+          "total": 1745
+        },
+        {
+          "county": "San Mateo",
+          "total": 888
+        },
+        {
+          "county": "Contra Costa",
+          "total": 812
+        },
+        {
+          "county": "Riverside",
+          "total": 811
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 1706,
+          "total": 6868,
+          "previous": 5162,
+          "pct": 0.33049205734211545
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 750,
+          "total": 3248,
+          "previous": 2498,
+          "pct": 0.300240192153723
+        },
+        {
+          "county": "Alameda",
+          "delta": 518,
+          "total": 1818,
+          "previous": 1300,
+          "pct": 0.3984615384615385
+        },
+        {
+          "county": "Orange",
+          "delta": 458,
+          "total": 2887,
+          "previous": 2429,
+          "pct": 0.18855496088925483
+        },
+        {
+          "county": "San Diego",
+          "delta": 413,
+          "total": 1745,
+          "previous": 1332,
+          "pct": 0.31006006006006004
+        },
+        {
+          "county": "Riverside",
+          "delta": 340,
+          "total": 811,
+          "previous": 471,
+          "pct": 0.721868365180467
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 232,
+          "total": 812,
+          "previous": 580,
+          "pct": 0.4
+        },
+        {
+          "county": "San Mateo",
+          "delta": 204,
+          "total": 888,
+          "previous": 684,
+          "pct": 0.2982456140350877
+        }
+      ]
+    },
+    "2017-Q2": {
+      "total": 20956,
+      "Electric": 10983,
+      "Hydrogen": 518,
+      "PHEV": 9455,
+      "fuelShare": {
+        "Electric": 0.5240981103263982,
+        "Hydrogen": 0.02471845772093911,
+        "PHEV": 0.4511834319526627
+      },
+      "previousPeriod": "2017-Q1",
+      "qoqDelta": -2975,
+      "qoqPct": -0.12431574108896411,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 5829
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2790
+        },
+        {
+          "county": "Orange",
+          "total": 2605
+        },
+        {
+          "county": "Alameda",
+          "total": 1479
+        },
+        {
+          "county": "San Diego",
+          "total": 1394
+        },
+        {
+          "county": "Contra Costa",
+          "total": 757
+        },
+        {
+          "county": "San Mateo",
+          "total": 752
+        },
+        {
+          "county": "Riverside",
+          "total": 596
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Out Of State",
+          "delta": 439,
+          "total": 497,
+          "previous": 58,
+          "pct": 7.568965517241379
+        },
+        {
+          "county": "Tulare",
+          "delta": 23,
+          "total": 93,
+          "previous": 70,
+          "pct": 0.32857142857142857
+        },
+        {
+          "county": "San Joaquin",
+          "delta": 16,
+          "total": 134,
+          "previous": 118,
+          "pct": 0.13559322033898305
+        },
+        {
+          "county": "Butte",
+          "delta": 7,
+          "total": 19,
+          "previous": 12,
+          "pct": 0.5833333333333334
+        },
+        {
+          "county": "San Benito",
+          "delta": 4,
+          "total": 18,
+          "previous": 14,
+          "pct": 0.2857142857142857
+        },
+        {
+          "county": "Tuolumne",
+          "delta": 4,
+          "total": 8,
+          "previous": 4,
+          "pct": 1.0
+        },
+        {
+          "county": "Ventura",
+          "delta": 3,
+          "total": 448,
+          "previous": 445,
+          "pct": 0.006741573033707865
+        },
+        {
+          "county": "Merced",
+          "delta": 3,
+          "total": 28,
+          "previous": 25,
+          "pct": 0.12
+        }
+      ]
+    },
+    "2017-Q3": {
+      "total": 21983,
+      "Electric": 11058,
+      "Hydrogen": 479,
+      "PHEV": 10446,
+      "fuelShare": {
+        "Electric": 0.5030250648228176,
+        "Hydrogen": 0.021789564663603694,
+        "PHEV": 0.4751853705135787
+      },
+      "previousPeriod": "2017-Q2",
+      "qoqDelta": 1027,
+      "qoqPct": 0.04900744416873449,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 6331
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3171
+        },
+        {
+          "county": "Orange",
+          "total": 2513
+        },
+        {
+          "county": "Alameda",
+          "total": 1653
+        },
+        {
+          "county": "San Diego",
+          "total": 1522
+        },
+        {
+          "county": "Contra Costa",
+          "total": 851
+        },
+        {
+          "county": "San Mateo",
+          "total": 766
+        },
+        {
+          "county": "Riverside",
+          "total": 653
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 502,
+          "total": 6331,
+          "previous": 5829,
+          "pct": 0.086121118545205
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 381,
+          "total": 3171,
+          "previous": 2790,
+          "pct": 0.13655913978494624
+        },
+        {
+          "county": "Alameda",
+          "delta": 174,
+          "total": 1653,
+          "previous": 1479,
+          "pct": 0.11764705882352941
+        },
+        {
+          "county": "Sonoma",
+          "delta": 159,
+          "total": 413,
+          "previous": 254,
+          "pct": 0.6259842519685039
+        },
+        {
+          "county": "San Diego",
+          "delta": 128,
+          "total": 1522,
+          "previous": 1394,
+          "pct": 0.09182209469153516
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 94,
+          "total": 851,
+          "previous": 757,
+          "pct": 0.12417437252311757
+        },
+        {
+          "county": "San Francisco",
+          "delta": 81,
+          "total": 577,
+          "previous": 496,
+          "pct": 0.16330645161290322
+        },
+        {
+          "county": "Riverside",
+          "delta": 57,
+          "total": 653,
+          "previous": 596,
+          "pct": 0.09563758389261745
+        }
+      ]
+    },
+    "2017-Q4": {
+      "total": 23527,
+      "Electric": 12069,
+      "Hydrogen": 757,
+      "PHEV": 10701,
+      "fuelShare": {
+        "Electric": 0.5129850809707995,
+        "Hydrogen": 0.03217579801929698,
+        "PHEV": 0.45483912100990354
+      },
+      "previousPeriod": "2017-Q3",
+      "qoqDelta": 1544,
+      "qoqPct": 0.07023609152526952,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 6467
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3054
+        },
+        {
+          "county": "Orange",
+          "total": 2994
+        },
+        {
+          "county": "Alameda",
+          "total": 1777
+        },
+        {
+          "county": "San Diego",
+          "total": 1649
+        },
+        {
+          "county": "Contra Costa",
+          "total": 893
+        },
+        {
+          "county": "San Mateo",
+          "total": 864
+        },
+        {
+          "county": "Riverside",
+          "total": 739
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Orange",
+          "delta": 481,
+          "total": 2994,
+          "previous": 2513,
+          "pct": 0.19140469558296858
+        },
+        {
+          "county": "Sonoma",
+          "delta": 192,
+          "total": 605,
+          "previous": 413,
+          "pct": 0.4648910411622276
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 136,
+          "total": 6467,
+          "previous": 6331,
+          "pct": 0.021481598483651873
+        },
+        {
+          "county": "San Diego",
+          "delta": 127,
+          "total": 1649,
+          "previous": 1522,
+          "pct": 0.08344283837056504
+        },
+        {
+          "county": "Alameda",
+          "delta": 124,
+          "total": 1777,
+          "previous": 1653,
+          "pct": 0.0750151240169389
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 110,
+          "total": 597,
+          "previous": 487,
+          "pct": 0.22587268993839835
+        },
+        {
+          "county": "San Mateo",
+          "delta": 98,
+          "total": 864,
+          "previous": 766,
+          "pct": 0.1279373368146214
+        },
+        {
+          "county": "Riverside",
+          "delta": 86,
+          "total": 739,
+          "previous": 653,
+          "pct": 0.13169984686064318
+        }
+      ]
+    },
+    "2018-Q1": {
+      "total": 26628,
+      "Electric": 12485,
+      "Hydrogen": 901,
+      "PHEV": 13242,
+      "fuelShare": {
+        "Electric": 0.4688673576686195,
+        "Hydrogen": 0.03383656301637374,
+        "PHEV": 0.49729607931500674
+      },
+      "previousPeriod": "2017-Q4",
+      "qoqDelta": 3101,
+      "qoqPct": 0.1318060101160369,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 7360
+        },
+        {
+          "county": "Orange",
+          "total": 3653
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3391
+        },
+        {
+          "county": "Alameda",
+          "total": 2109
+        },
+        {
+          "county": "San Diego",
+          "total": 1907
+        },
+        {
+          "county": "San Mateo",
+          "total": 1052
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1011
+        },
+        {
+          "county": "San Francisco",
+          "total": 781
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 893,
+          "total": 7360,
+          "previous": 6467,
+          "pct": 0.1380856656873357
+        },
+        {
+          "county": "Orange",
+          "delta": 659,
+          "total": 3653,
+          "previous": 2994,
+          "pct": 0.22010688042752172
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 337,
+          "total": 3391,
+          "previous": 3054,
+          "pct": 0.11034708578912901
+        },
+        {
+          "county": "Alameda",
+          "delta": 332,
+          "total": 2109,
+          "previous": 1777,
+          "pct": 0.18683173888576252
+        },
+        {
+          "county": "San Diego",
+          "delta": 258,
+          "total": 1907,
+          "previous": 1649,
+          "pct": 0.1564584596725288
+        },
+        {
+          "county": "San Mateo",
+          "delta": 188,
+          "total": 1052,
+          "previous": 864,
+          "pct": 0.2175925925925926
+        },
+        {
+          "county": "San Francisco",
+          "delta": 160,
+          "total": 781,
+          "previous": 621,
+          "pct": 0.2576489533011272
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 118,
+          "total": 1011,
+          "previous": 893,
+          "pct": 0.13213885778275475
+        }
+      ]
+    },
+    "2018-Q2": {
+      "total": 33413,
+      "Electric": 18018,
+      "Hydrogen": 573,
+      "PHEV": 14822,
+      "fuelShare": {
+        "Electric": 0.5392511896567205,
+        "Hydrogen": 0.017149013856882053,
+        "PHEV": 0.4435997964863975
+      },
+      "previousPeriod": "2018-Q1",
+      "qoqDelta": 6785,
+      "qoqPct": 0.25480697010665465,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 8963
+        },
+        {
+          "county": "Santa Clara",
+          "total": 4438
+        },
+        {
+          "county": "Orange",
+          "total": 4267
+        },
+        {
+          "county": "San Diego",
+          "total": 2921
+        },
+        {
+          "county": "Alameda",
+          "total": 2466
+        },
+        {
+          "county": "San Mateo",
+          "total": 1344
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1308
+        },
+        {
+          "county": "Riverside",
+          "total": 1029
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 1603,
+          "total": 8963,
+          "previous": 7360,
+          "pct": 0.21779891304347826
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 1047,
+          "total": 4438,
+          "previous": 3391,
+          "pct": 0.3087584783249779
+        },
+        {
+          "county": "San Diego",
+          "delta": 1014,
+          "total": 2921,
+          "previous": 1907,
+          "pct": 0.5317252228631358
+        },
+        {
+          "county": "Orange",
+          "delta": 614,
+          "total": 4267,
+          "previous": 3653,
+          "pct": 0.1680810292909937
+        },
+        {
+          "county": "Out Of State",
+          "delta": 364,
+          "total": 444,
+          "previous": 80,
+          "pct": 4.55
+        },
+        {
+          "county": "Alameda",
+          "delta": 357,
+          "total": 2466,
+          "previous": 2109,
+          "pct": 0.16927453769559034
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 297,
+          "total": 1308,
+          "previous": 1011,
+          "pct": 0.29376854599406527
+        },
+        {
+          "county": "Riverside",
+          "delta": 293,
+          "total": 1029,
+          "previous": 736,
+          "pct": 0.39809782608695654
+        }
+      ]
+    },
+    "2018-Q3": {
+      "total": 42624,
+      "Electric": 27404,
+      "Hydrogen": 400,
+      "PHEV": 14820,
+      "fuelShare": {
+        "Electric": 0.6429241741741741,
+        "Hydrogen": 0.009384384384384385,
+        "PHEV": 0.34769144144144143
+      },
+      "previousPeriod": "2018-Q2",
+      "qoqDelta": 9211,
+      "qoqPct": 0.27567114596115283,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 10278
+        },
+        {
+          "county": "Santa Clara",
+          "total": 6474
+        },
+        {
+          "county": "Orange",
+          "total": 5391
+        },
+        {
+          "county": "Alameda",
+          "total": 3500
+        },
+        {
+          "county": "San Diego",
+          "total": 3065
+        },
+        {
+          "county": "San Mateo",
+          "total": 1864
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1699
+        },
+        {
+          "county": "Riverside",
+          "total": 1243
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 2036,
+          "total": 6474,
+          "previous": 4438,
+          "pct": 0.4587652095538531
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 1315,
+          "total": 10278,
+          "previous": 8963,
+          "pct": 0.14671426977574473
+        },
+        {
+          "county": "Orange",
+          "delta": 1124,
+          "total": 5391,
+          "previous": 4267,
+          "pct": 0.2634169205530818
+        },
+        {
+          "county": "Alameda",
+          "delta": 1034,
+          "total": 3500,
+          "previous": 2466,
+          "pct": 0.41930251419302517
+        },
+        {
+          "county": "San Mateo",
+          "delta": 520,
+          "total": 1864,
+          "previous": 1344,
+          "pct": 0.3869047619047619
+        },
+        {
+          "county": "San Francisco",
+          "delta": 418,
+          "total": 1143,
+          "previous": 725,
+          "pct": 0.576551724137931
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 391,
+          "total": 1699,
+          "previous": 1308,
+          "pct": 0.2989296636085627
+        },
+        {
+          "county": "Sacramento",
+          "delta": 270,
+          "total": 900,
+          "previous": 630,
+          "pct": 0.42857142857142855
+        }
+      ]
+    },
+    "2018-Q4": {
+      "total": 47245,
+      "Electric": 31852,
+      "Hydrogen": 484,
+      "PHEV": 14909,
+      "fuelShare": {
+        "Electric": 0.6741877447348926,
+        "Hydrogen": 0.010244470314318976,
+        "PHEV": 0.31556778495078847
+      },
+      "previousPeriod": "2018-Q3",
+      "qoqDelta": 4621,
+      "qoqPct": 0.1084131006006006,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 10775
+        },
+        {
+          "county": "Santa Clara",
+          "total": 7019
+        },
+        {
+          "county": "Orange",
+          "total": 5935
+        },
+        {
+          "county": "Alameda",
+          "total": 3846
+        },
+        {
+          "county": "San Diego",
+          "total": 3331
+        },
+        {
+          "county": "San Mateo",
+          "total": 2259
+        },
+        {
+          "county": "Contra Costa",
+          "total": 2039
+        },
+        {
+          "county": "San Francisco",
+          "total": 1374
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 545,
+          "total": 7019,
+          "previous": 6474,
+          "pct": 0.08418288538770466
+        },
+        {
+          "county": "Orange",
+          "delta": 544,
+          "total": 5935,
+          "previous": 5391,
+          "pct": 0.10090892227787053
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 497,
+          "total": 10775,
+          "previous": 10278,
+          "pct": 0.04835571122786534
+        },
+        {
+          "county": "San Mateo",
+          "delta": 395,
+          "total": 2259,
+          "previous": 1864,
+          "pct": 0.2119098712446352
+        },
+        {
+          "county": "Alameda",
+          "delta": 346,
+          "total": 3846,
+          "previous": 3500,
+          "pct": 0.09885714285714285
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 340,
+          "total": 2039,
+          "previous": 1699,
+          "pct": 0.20011771630370806
+        },
+        {
+          "county": "Out Of State",
+          "delta": 311,
+          "total": 944,
+          "previous": 633,
+          "pct": 0.4913112164296998
+        },
+        {
+          "county": "San Diego",
+          "delta": 266,
+          "total": 3331,
+          "previous": 3065,
+          "pct": 0.08678629690048939
+        }
+      ]
+    },
+    "2019-Q1": {
+      "total": 36053,
+      "Electric": 24659,
+      "Hydrogen": 394,
+      "PHEV": 11000,
+      "fuelShare": {
+        "Electric": 0.6839652733475716,
+        "Hydrogen": 0.010928355476659362,
+        "PHEV": 0.305106371175769
+      },
+      "previousPeriod": "2018-Q4",
+      "qoqDelta": -11192,
+      "qoqPct": -0.2368927928881363,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 9112
+        },
+        {
+          "county": "Santa Clara",
+          "total": 5277
+        },
+        {
+          "county": "Orange",
+          "total": 5041
+        },
+        {
+          "county": "Alameda",
+          "total": 3055
+        },
+        {
+          "county": "San Diego",
+          "total": 2469
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1481
+        },
+        {
+          "county": "San Mateo",
+          "total": 1437
+        },
+        {
+          "county": "Riverside",
+          "total": 1078
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Imperial",
+          "delta": 5,
+          "total": 13,
+          "previous": 8,
+          "pct": 0.625
+        },
+        {
+          "county": "Calaveras",
+          "delta": 2,
+          "total": 10,
+          "previous": 8,
+          "pct": 0.25
+        },
+        {
+          "county": "Yuba",
+          "delta": 2,
+          "total": 9,
+          "previous": 7,
+          "pct": 0.2857142857142857
+        },
+        {
+          "county": "Tehama",
+          "delta": 2,
+          "total": 6,
+          "previous": 4,
+          "pct": 0.5
+        },
+        {
+          "county": "Tuolumne",
+          "delta": 1,
+          "total": 10,
+          "previous": 9,
+          "pct": 0.1111111111111111
+        },
+        {
+          "county": "Plumas",
+          "delta": 1,
+          "total": 2,
+          "previous": 1,
+          "pct": 1.0
+        },
+        {
+          "county": "Alpine",
+          "delta": 1,
+          "total": 1,
+          "previous": 0,
+          "pct": null
+        }
+      ]
+    },
+    "2019-Q2": {
+      "total": 36258,
+      "Electric": 24919,
+      "Hydrogen": 728,
+      "PHEV": 10611,
+      "fuelShare": {
+        "Electric": 0.6872690164929119,
+        "Hydrogen": 0.02007832754150808,
+        "PHEV": 0.29265265596558
+      },
+      "previousPeriod": "2019-Q1",
+      "qoqDelta": 205,
+      "qoqPct": 0.005686073281002968,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 9178
+        },
+        {
+          "county": "Santa Clara",
+          "total": 5052
+        },
+        {
+          "county": "Orange",
+          "total": 4804
+        },
+        {
+          "county": "Alameda",
+          "total": 2803
+        },
+        {
+          "county": "San Diego",
+          "total": 2782
+        },
+        {
+          "county": "San Mateo",
+          "total": 1480
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1418
+        },
+        {
+          "county": "Riverside",
+          "total": 1191
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "San Diego",
+          "delta": 313,
+          "total": 2782,
+          "previous": 2469,
+          "pct": 0.1267719724584852
+        },
+        {
+          "county": "Sacramento",
+          "delta": 141,
+          "total": 827,
+          "previous": 686,
+          "pct": 0.2055393586005831
+        },
+        {
+          "county": "Riverside",
+          "delta": 113,
+          "total": 1191,
+          "previous": 1078,
+          "pct": 0.10482374768089053
+        },
+        {
+          "county": "San Joaquin",
+          "delta": 110,
+          "total": 340,
+          "previous": 230,
+          "pct": 0.4782608695652174
+        },
+        {
+          "county": "Ventura",
+          "delta": 93,
+          "total": 780,
+          "previous": 687,
+          "pct": 0.13537117903930132
+        },
+        {
+          "county": "Kern",
+          "delta": 68,
+          "total": 186,
+          "previous": 118,
+          "pct": 0.576271186440678
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 66,
+          "total": 9178,
+          "previous": 9112,
+          "pct": 0.007243195785776997
+        },
+        {
+          "county": "Fresno",
+          "delta": 62,
+          "total": 270,
+          "previous": 208,
+          "pct": 0.2980769230769231
+        }
+      ]
+    },
+    "2019-Q3": {
+      "total": 36848,
+      "Electric": 23873,
+      "Hydrogen": 547,
+      "PHEV": 12428,
+      "fuelShare": {
+        "Electric": 0.647877768128528,
+        "Hydrogen": 0.014844767694311768,
+        "PHEV": 0.3372774641771602
+      },
+      "previousPeriod": "2019-Q2",
+      "qoqDelta": 590,
+      "qoqPct": 0.01627227094710133,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 9707
+        },
+        {
+          "county": "Orange",
+          "total": 4698
+        },
+        {
+          "county": "Santa Clara",
+          "total": 4549
+        },
+        {
+          "county": "Alameda",
+          "total": 2998
+        },
+        {
+          "county": "San Diego",
+          "total": 2784
+        },
+        {
+          "county": "San Mateo",
+          "total": 1438
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1366
+        },
+        {
+          "county": "Riverside",
+          "total": 1333
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 529,
+          "total": 9707,
+          "previous": 9178,
+          "pct": 0.05763782959250381
+        },
+        {
+          "county": "Alameda",
+          "delta": 195,
+          "total": 2998,
+          "previous": 2803,
+          "pct": 0.06956831965750981
+        },
+        {
+          "county": "Riverside",
+          "delta": 142,
+          "total": 1333,
+          "previous": 1191,
+          "pct": 0.11922753988245172
+        },
+        {
+          "county": "Marin",
+          "delta": 63,
+          "total": 542,
+          "previous": 479,
+          "pct": 0.1315240083507307
+        },
+        {
+          "county": "Sacramento",
+          "delta": 56,
+          "total": 883,
+          "previous": 827,
+          "pct": 0.06771463119709795
+        },
+        {
+          "county": "Fresno",
+          "delta": 54,
+          "total": 324,
+          "previous": 270,
+          "pct": 0.2
+        },
+        {
+          "county": "San Francisco",
+          "delta": 52,
+          "total": 969,
+          "previous": 917,
+          "pct": 0.05670665212649945
+        },
+        {
+          "county": "Sonoma",
+          "delta": 52,
+          "total": 392,
+          "previous": 340,
+          "pct": 0.15294117647058825
+        }
+      ]
+    },
+    "2019-Q4": {
+      "total": 28820,
+      "Electric": 18484,
+      "Hydrogen": 403,
+      "PHEV": 9933,
+      "fuelShare": {
+        "Electric": 0.6413601665510062,
+        "Hydrogen": 0.013983344899375433,
+        "PHEV": 0.34465648854961833
+      },
+      "previousPeriod": "2019-Q3",
+      "qoqDelta": -8028,
+      "qoqPct": -0.21786799826313505,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 7196
+        },
+        {
+          "county": "Orange",
+          "total": 3752
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3523
+        },
+        {
+          "county": "San Diego",
+          "total": 2467
+        },
+        {
+          "county": "Alameda",
+          "total": 2206
+        },
+        {
+          "county": "San Mateo",
+          "total": 1178
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1108
+        },
+        {
+          "county": "Riverside",
+          "total": 1072
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Mendocino",
+          "delta": 7,
+          "total": 26,
+          "previous": 19,
+          "pct": 0.3684210526315789
+        },
+        {
+          "county": "Tuolumne",
+          "delta": 3,
+          "total": 10,
+          "previous": 7,
+          "pct": 0.42857142857142855
+        },
+        {
+          "county": "Del Norte",
+          "delta": 3,
+          "total": 5,
+          "previous": 2,
+          "pct": 1.5
+        },
+        {
+          "county": "Siskiyou",
+          "delta": 3,
+          "total": 3,
+          "previous": 0,
+          "pct": null
+        },
+        {
+          "county": "Glenn",
+          "delta": 2,
+          "total": 4,
+          "previous": 2,
+          "pct": 1.0
+        },
+        {
+          "county": "Plumas",
+          "delta": 2,
+          "total": 3,
+          "previous": 1,
+          "pct": 2.0
+        },
+        {
+          "county": "Tehama",
+          "delta": 1,
+          "total": 7,
+          "previous": 6,
+          "pct": 0.16666666666666666
+        },
+        {
+          "county": "Inyo",
+          "delta": 1,
+          "total": 3,
+          "previous": 2,
+          "pct": 0.5
+        }
+      ]
+    },
+    "2020-Q1": {
+      "total": 36147,
+      "Electric": 28009,
+      "Hydrogen": 318,
+      "PHEV": 7820,
+      "fuelShare": {
+        "Electric": 0.7748637507953634,
+        "Hydrogen": 0.008797410573491576,
+        "PHEV": 0.21633883863114506
+      },
+      "previousPeriod": "2019-Q4",
+      "qoqDelta": 7327,
+      "qoqPct": 0.2542331714087439,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 9279
+        },
+        {
+          "county": "Santa Clara",
+          "total": 4593
+        },
+        {
+          "county": "Orange",
+          "total": 4464
+        },
+        {
+          "county": "San Diego",
+          "total": 3093
+        },
+        {
+          "county": "Alameda",
+          "total": 2788
+        },
+        {
+          "county": "San Mateo",
+          "total": 1574
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1408
+        },
+        {
+          "county": "Riverside",
+          "total": 1150
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 2083,
+          "total": 9279,
+          "previous": 7196,
+          "pct": 0.28946637020566984
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 1070,
+          "total": 4593,
+          "previous": 3523,
+          "pct": 0.3037184217996026
+        },
+        {
+          "county": "Orange",
+          "delta": 712,
+          "total": 4464,
+          "previous": 3752,
+          "pct": 0.18976545842217485
+        },
+        {
+          "county": "San Diego",
+          "delta": 626,
+          "total": 3093,
+          "previous": 2467,
+          "pct": 0.25374949331171465
+        },
+        {
+          "county": "Alameda",
+          "delta": 582,
+          "total": 2788,
+          "previous": 2206,
+          "pct": 0.2638259292837715
+        },
+        {
+          "county": "San Mateo",
+          "delta": 396,
+          "total": 1574,
+          "previous": 1178,
+          "pct": 0.3361629881154499
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 300,
+          "total": 1408,
+          "previous": 1108,
+          "pct": 0.27075812274368233
+        },
+        {
+          "county": "San Francisco",
+          "delta": 238,
+          "total": 964,
+          "previous": 726,
+          "pct": 0.3278236914600551
+        }
+      ]
+    },
+    "2020-Q2": {
+      "total": 16759,
+      "Electric": 12896,
+      "Hydrogen": 130,
+      "PHEV": 3733,
+      "fuelShare": {
+        "Electric": 0.7694969866937168,
+        "Hydrogen": 0.0077570260755415,
+        "PHEV": 0.22274598723074168
+      },
+      "previousPeriod": "2020-Q1",
+      "qoqDelta": -19388,
+      "qoqPct": -0.5363653968517442,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 4729
+        },
+        {
+          "county": "Orange",
+          "total": 2173
+        },
+        {
+          "county": "Santa Clara",
+          "total": 1669
+        },
+        {
+          "county": "San Diego",
+          "total": 1235
+        },
+        {
+          "county": "Alameda",
+          "total": 1101
+        },
+        {
+          "county": "Contra Costa",
+          "total": 668
+        },
+        {
+          "county": "San Mateo",
+          "total": 626
+        },
+        {
+          "county": "Riverside",
+          "total": 603
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Mendocino",
+          "delta": 6,
+          "total": 19,
+          "previous": 13,
+          "pct": 0.46153846153846156
+        },
+        {
+          "county": "Mono",
+          "delta": 3,
+          "total": 4,
+          "previous": 1,
+          "pct": 3.0
+        },
+        {
+          "county": "Siskiyou",
+          "delta": 2,
+          "total": 3,
+          "previous": 1,
+          "pct": 2.0
+        },
+        {
+          "county": "Colusa",
+          "delta": 1,
+          "total": 2,
+          "previous": 1,
+          "pct": 1.0
+        }
+      ]
+    },
+    "2020-Q3": {
+      "total": 27237,
+      "Electric": 20732,
+      "Hydrogen": 211,
+      "PHEV": 6294,
+      "fuelShare": {
+        "Electric": 0.7611704666446378,
+        "Hydrogen": 0.007746814994309212,
+        "PHEV": 0.23108271836105299
+      },
+      "previousPeriod": "2020-Q2",
+      "qoqDelta": 10478,
+      "qoqPct": 0.625216301688645,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 7213
+        },
+        {
+          "county": "Orange",
+          "total": 3835
+        },
+        {
+          "county": "Santa Clara",
+          "total": 2455
+        },
+        {
+          "county": "San Diego",
+          "total": 2373
+        },
+        {
+          "county": "Alameda",
+          "total": 1635
+        },
+        {
+          "county": "San Francisco",
+          "total": 1072
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1000
+        },
+        {
+          "county": "Riverside",
+          "total": 978
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 2484,
+          "total": 7213,
+          "previous": 4729,
+          "pct": 0.5252696130260097
+        },
+        {
+          "county": "Orange",
+          "delta": 1662,
+          "total": 3835,
+          "previous": 2173,
+          "pct": 0.7648412333179936
+        },
+        {
+          "county": "San Diego",
+          "delta": 1138,
+          "total": 2373,
+          "previous": 1235,
+          "pct": 0.9214574898785425
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 786,
+          "total": 2455,
+          "previous": 1669,
+          "pct": 0.47094068304373876
+        },
+        {
+          "county": "San Francisco",
+          "delta": 539,
+          "total": 1072,
+          "previous": 533,
+          "pct": 1.0112570356472796
+        },
+        {
+          "county": "Alameda",
+          "delta": 534,
+          "total": 1635,
+          "previous": 1101,
+          "pct": 0.48501362397820164
+        },
+        {
+          "county": "Riverside",
+          "delta": 375,
+          "total": 978,
+          "previous": 603,
+          "pct": 0.6218905472636815
+        },
+        {
+          "county": "San Mateo",
+          "delta": 351,
+          "total": 977,
+          "previous": 626,
+          "pct": 0.560702875399361
+        }
+      ]
+    },
+    "2020-Q4": {
+      "total": 36847,
+      "Electric": 27763,
+      "Hydrogen": 287,
+      "PHEV": 8797,
+      "fuelShare": {
+        "Electric": 0.7534670393790539,
+        "Hydrogen": 0.007788965180340326,
+        "PHEV": 0.23874399544060576
+      },
+      "previousPeriod": "2020-Q3",
+      "qoqDelta": 9610,
+      "qoqPct": 0.3528288724896281,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 10037
+        },
+        {
+          "county": "Orange",
+          "total": 5034
+        },
+        {
+          "county": "San Diego",
+          "total": 3276
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3086
+        },
+        {
+          "county": "Alameda",
+          "total": 2176
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1457
+        },
+        {
+          "county": "Riverside",
+          "total": 1427
+        },
+        {
+          "county": "San Francisco",
+          "total": 1425
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 2824,
+          "total": 10037,
+          "previous": 7213,
+          "pct": 0.3915153195619021
+        },
+        {
+          "county": "Orange",
+          "delta": 1199,
+          "total": 5034,
+          "previous": 3835,
+          "pct": 0.31264667535853974
+        },
+        {
+          "county": "San Diego",
+          "delta": 903,
+          "total": 3276,
+          "previous": 2373,
+          "pct": 0.3805309734513274
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 631,
+          "total": 3086,
+          "previous": 2455,
+          "pct": 0.2570264765784114
+        },
+        {
+          "county": "Alameda",
+          "delta": 541,
+          "total": 2176,
+          "previous": 1635,
+          "pct": 0.3308868501529052
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 457,
+          "total": 1457,
+          "previous": 1000,
+          "pct": 0.457
+        },
+        {
+          "county": "Riverside",
+          "delta": 449,
+          "total": 1427,
+          "previous": 978,
+          "pct": 0.4591002044989775
+        },
+        {
+          "county": "San Francisco",
+          "delta": 353,
+          "total": 1425,
+          "previous": 1072,
+          "pct": 0.3292910447761194
+        }
+      ]
+    },
+    "2021-Q1": {
+      "total": 43656,
+      "Electric": 32462,
+      "Hydrogen": 581,
+      "PHEV": 10613,
+      "fuelShare": {
+        "Electric": 0.7435862195345427,
+        "Hydrogen": 0.013308594465823713,
+        "PHEV": 0.2431051859996335
+      },
+      "previousPeriod": "2020-Q4",
+      "qoqDelta": 6809,
+      "qoqPct": 0.18479116345971178,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 11801
+        },
+        {
+          "county": "Orange",
+          "total": 5758
+        },
+        {
+          "county": "Santa Clara",
+          "total": 3850
+        },
+        {
+          "county": "San Diego",
+          "total": 3784
+        },
+        {
+          "county": "Alameda",
+          "total": 2751
+        },
+        {
+          "county": "Riverside",
+          "total": 1743
+        },
+        {
+          "county": "Contra Costa",
+          "total": 1647
+        },
+        {
+          "county": "San Mateo",
+          "total": 1539
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 1764,
+          "total": 11801,
+          "previous": 10037,
+          "pct": 0.17574972601374914
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 764,
+          "total": 3850,
+          "previous": 3086,
+          "pct": 0.2475696694750486
+        },
+        {
+          "county": "Orange",
+          "delta": 724,
+          "total": 5758,
+          "previous": 5034,
+          "pct": 0.14382201032975764
+        },
+        {
+          "county": "Alameda",
+          "delta": 575,
+          "total": 2751,
+          "previous": 2176,
+          "pct": 0.26424632352941174
+        },
+        {
+          "county": "San Diego",
+          "delta": 508,
+          "total": 3784,
+          "previous": 3276,
+          "pct": 0.15506715506715507
+        },
+        {
+          "county": "Riverside",
+          "delta": 316,
+          "total": 1743,
+          "previous": 1427,
+          "pct": 0.2214435879467414
+        },
+        {
+          "county": "Sacramento",
+          "delta": 312,
+          "total": 1163,
+          "previous": 851,
+          "pct": 0.36662749706227965
+        },
+        {
+          "county": "San Mateo",
+          "delta": 257,
+          "total": 1539,
+          "previous": 1282,
+          "pct": 0.20046801872074882
+        }
+      ]
+    },
+    "2021-Q2": {
+      "total": 56259,
+      "Electric": 37406,
+      "Hydrogen": 1202,
+      "PHEV": 17651,
+      "fuelShare": {
+        "Electric": 0.6648891732878295,
+        "Hydrogen": 0.02136547041362271,
+        "PHEV": 0.3137453562985478
+      },
+      "previousPeriod": "2021-Q1",
+      "qoqDelta": 12603,
+      "qoqPct": 0.2886888400219901,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 15645
+        },
+        {
+          "county": "Orange",
+          "total": 7288
+        },
+        {
+          "county": "Santa Clara",
+          "total": 4967
+        },
+        {
+          "county": "San Diego",
+          "total": 4497
+        },
+        {
+          "county": "Alameda",
+          "total": 3246
+        },
+        {
+          "county": "Riverside",
+          "total": 2537
+        },
+        {
+          "county": "Contra Costa",
+          "total": 2086
+        },
+        {
+          "county": "San Bernardino",
+          "total": 1958
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 3844,
+          "total": 15645,
+          "previous": 11801,
+          "pct": 0.32573510719430554
+        },
+        {
+          "county": "Orange",
+          "delta": 1530,
+          "total": 7288,
+          "previous": 5758,
+          "pct": 0.2657172629385203
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 1117,
+          "total": 4967,
+          "previous": 3850,
+          "pct": 0.2901298701298701
+        },
+        {
+          "county": "Riverside",
+          "delta": 794,
+          "total": 2537,
+          "previous": 1743,
+          "pct": 0.4555364314400459
+        },
+        {
+          "county": "San Diego",
+          "delta": 713,
+          "total": 4497,
+          "previous": 3784,
+          "pct": 0.18842494714587738
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 640,
+          "total": 1958,
+          "previous": 1318,
+          "pct": 0.48558421851289835
+        },
+        {
+          "county": "Alameda",
+          "delta": 495,
+          "total": 3246,
+          "previous": 2751,
+          "pct": 0.17993456924754633
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 439,
+          "total": 2086,
+          "previous": 1647,
+          "pct": 0.2665452337583485
+        }
+      ]
+    },
+    "2021-Q3": {
+      "total": 56706,
+      "Electric": 43374,
+      "Hydrogen": 645,
+      "PHEV": 12687,
+      "fuelShare": {
+        "Electric": 0.7648926039572532,
+        "Hydrogen": 0.011374457729340811,
+        "PHEV": 0.223732938313406
+      },
+      "previousPeriod": "2021-Q2",
+      "qoqDelta": 447,
+      "qoqPct": 0.007945395403402122,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 15086
+        },
+        {
+          "county": "Orange",
+          "total": 7053
+        },
+        {
+          "county": "San Diego",
+          "total": 5359
+        },
+        {
+          "county": "Santa Clara",
+          "total": 4767
+        },
+        {
+          "county": "Alameda",
+          "total": 3293
+        },
+        {
+          "county": "Riverside",
+          "total": 2766
+        },
+        {
+          "county": "Contra Costa",
+          "total": 2166
+        },
+        {
+          "county": "San Bernardino",
+          "total": 2006
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "San Diego",
+          "delta": 862,
+          "total": 5359,
+          "previous": 4497,
+          "pct": 0.19168334445185678
+        },
+        {
+          "county": "Out Of State",
+          "delta": 465,
+          "total": 886,
+          "previous": 421,
+          "pct": 1.1045130641330165
+        },
+        {
+          "county": "Riverside",
+          "delta": 229,
+          "total": 2766,
+          "previous": 2537,
+          "pct": 0.09026409144659046
+        },
+        {
+          "county": "Placer",
+          "delta": 92,
+          "total": 661,
+          "previous": 569,
+          "pct": 0.1616871704745167
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 80,
+          "total": 2166,
+          "previous": 2086,
+          "pct": 0.038350910834132314
+        },
+        {
+          "county": "Stanislaus",
+          "delta": 51,
+          "total": 317,
+          "previous": 266,
+          "pct": 0.19172932330827067
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 48,
+          "total": 2006,
+          "previous": 1958,
+          "pct": 0.024514811031664963
+        },
+        {
+          "county": "Alameda",
+          "delta": 47,
+          "total": 3293,
+          "previous": 3246,
+          "pct": 0.01447935921133703
+        }
+      ]
+    },
+    "2021-Q4": {
+      "total": 59494,
+      "Electric": 47071,
+      "Hydrogen": 769,
+      "PHEV": 11654,
+      "fuelShare": {
+        "Electric": 0.7911890274649545,
+        "Hydrogen": 0.012925673177127105,
+        "PHEV": 0.19588529935791846
+      },
+      "previousPeriod": "2021-Q3",
+      "qoqDelta": 2788,
+      "qoqPct": 0.049165873099848344,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 16032
+        },
+        {
+          "county": "Orange",
+          "total": 7530
+        },
+        {
+          "county": "Santa Clara",
+          "total": 5455
+        },
+        {
+          "county": "San Diego",
+          "total": 5170
+        },
+        {
+          "county": "Alameda",
+          "total": 3364
+        },
+        {
+          "county": "Riverside",
+          "total": 2787
+        },
+        {
+          "county": "Contra Costa",
+          "total": 2156
+        },
+        {
+          "county": "San Bernardino",
+          "total": 2072
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 946,
+          "total": 16032,
+          "previous": 15086,
+          "pct": 0.06270714569799814
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 688,
+          "total": 5455,
+          "previous": 4767,
+          "pct": 0.14432557163834697
+        },
+        {
+          "county": "Orange",
+          "delta": 477,
+          "total": 7530,
+          "previous": 7053,
+          "pct": 0.06763079540621013
+        },
+        {
+          "county": "San Mateo",
+          "delta": 343,
+          "total": 2036,
+          "previous": 1693,
+          "pct": 0.2025989367985824
+        },
+        {
+          "county": "Ventura",
+          "delta": 152,
+          "total": 1352,
+          "previous": 1200,
+          "pct": 0.12666666666666668
+        },
+        {
+          "county": "Sacramento",
+          "delta": 139,
+          "total": 1497,
+          "previous": 1358,
+          "pct": 0.10235640648011782
+        },
+        {
+          "county": "San Francisco",
+          "delta": 76,
+          "total": 1551,
+          "previous": 1475,
+          "pct": 0.05152542372881356
+        },
+        {
+          "county": "Alameda",
+          "delta": 71,
+          "total": 3364,
+          "previous": 3293,
+          "pct": 0.021560886729426056
+        }
+      ]
+    },
+    "2022-Q1": {
+      "total": 69136,
+      "Electric": 58601,
+      "Hydrogen": 774,
+      "PHEV": 9761,
+      "fuelShare": {
+        "Electric": 0.847619185373756,
+        "Hydrogen": 0.01119532515621384,
+        "PHEV": 0.1411854894700301
+      },
+      "previousPeriod": "2021-Q4",
+      "qoqDelta": 9642,
+      "qoqPct": 0.1620667630349279,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 18066
+        },
+        {
+          "county": "Orange",
+          "total": 9230
+        },
+        {
+          "county": "Santa Clara",
+          "total": 6138
+        },
+        {
+          "county": "San Diego",
+          "total": 5734
+        },
+        {
+          "county": "Alameda",
+          "total": 4133
+        },
+        {
+          "county": "San Mateo",
+          "total": 4092
+        },
+        {
+          "county": "Riverside",
+          "total": 3272
+        },
+        {
+          "county": "Contra Costa",
+          "total": 2476
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "San Mateo",
+          "delta": 2056,
+          "total": 4092,
+          "previous": 2036,
+          "pct": 1.0098231827111985
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 2034,
+          "total": 18066,
+          "previous": 16032,
+          "pct": 0.12687125748502995
+        },
+        {
+          "county": "Orange",
+          "delta": 1700,
+          "total": 9230,
+          "previous": 7530,
+          "pct": 0.22576361221779548
+        },
+        {
+          "county": "Alameda",
+          "delta": 769,
+          "total": 4133,
+          "previous": 3364,
+          "pct": 0.22859690844233055
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 683,
+          "total": 6138,
+          "previous": 5455,
+          "pct": 0.12520623281393217
+        },
+        {
+          "county": "San Diego",
+          "delta": 564,
+          "total": 5734,
+          "previous": 5170,
+          "pct": 0.10909090909090909
+        },
+        {
+          "county": "Riverside",
+          "delta": 485,
+          "total": 3272,
+          "previous": 2787,
+          "pct": 0.1740222461428059
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 351,
+          "total": 2423,
+          "previous": 2072,
+          "pct": 0.1694015444015444
+        }
+      ]
+    },
+    "2022-Q2": {
+      "total": 71982,
+      "Electric": 59467,
+      "Hydrogen": 897,
+      "PHEV": 11618,
+      "fuelShare": {
+        "Electric": 0.8261370898280126,
+        "Hydrogen": 0.01246144869550721,
+        "PHEV": 0.16140146147648024
+      },
+      "previousPeriod": "2022-Q1",
+      "qoqDelta": 2846,
+      "qoqPct": 0.04116523952788706,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 20465
+        },
+        {
+          "county": "Orange",
+          "total": 8684
+        },
+        {
+          "county": "San Diego",
+          "total": 6275
+        },
+        {
+          "county": "Santa Clara",
+          "total": 6201
+        },
+        {
+          "county": "Alameda",
+          "total": 4022
+        },
+        {
+          "county": "Riverside",
+          "total": 3282
+        },
+        {
+          "county": "San Mateo",
+          "total": 2911
+        },
+        {
+          "county": "San Bernardino",
+          "total": 2538
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 2399,
+          "total": 20465,
+          "previous": 18066,
+          "pct": 0.13279087789217314
+        },
+        {
+          "county": "San Diego",
+          "delta": 541,
+          "total": 6275,
+          "previous": 5734,
+          "pct": 0.09434949424485525
+        },
+        {
+          "county": "Out Of State",
+          "delta": 417,
+          "total": 744,
+          "previous": 327,
+          "pct": 1.275229357798165
+        },
+        {
+          "county": "Sacramento",
+          "delta": 199,
+          "total": 1869,
+          "previous": 1670,
+          "pct": 0.11916167664670659
+        },
+        {
+          "county": "Fresno",
+          "delta": 140,
+          "total": 759,
+          "previous": 619,
+          "pct": 0.22617124394184168
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 115,
+          "total": 2538,
+          "previous": 2423,
+          "pct": 0.04746182418489476
+        },
+        {
+          "county": "Ventura",
+          "delta": 82,
+          "total": 1659,
+          "previous": 1577,
+          "pct": 0.05199746353836398
+        },
+        {
+          "county": "El Dorado",
+          "delta": 81,
+          "total": 315,
+          "previous": 234,
+          "pct": 0.34615384615384615
+        }
+      ]
+    },
+    "2022-Q3": {
+      "total": 75944,
+      "Electric": 65526,
+      "Hydrogen": 302,
+      "PHEV": 10116,
+      "fuelShare": {
+        "Electric": 0.8628199726113979,
+        "Hydrogen": 0.003976614347413884,
+        "PHEV": 0.13320341304118824
+      },
+      "previousPeriod": "2022-Q2",
+      "qoqDelta": 3962,
+      "qoqPct": 0.055041538162318354,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 20265
+        },
+        {
+          "county": "Orange",
+          "total": 9383
+        },
+        {
+          "county": "Santa Clara",
+          "total": 6913
+        },
+        {
+          "county": "San Diego",
+          "total": 6880
+        },
+        {
+          "county": "Alameda",
+          "total": 4247
+        },
+        {
+          "county": "San Mateo",
+          "total": 3765
+        },
+        {
+          "county": "Riverside",
+          "total": 3550
+        },
+        {
+          "county": "San Bernardino",
+          "total": 2856
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "San Mateo",
+          "delta": 854,
+          "total": 3765,
+          "previous": 2911,
+          "pct": 0.2933699759532807
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 712,
+          "total": 6913,
+          "previous": 6201,
+          "pct": 0.1148201902918884
+        },
+        {
+          "county": "Orange",
+          "delta": 699,
+          "total": 9383,
+          "previous": 8684,
+          "pct": 0.08049286043298019
+        },
+        {
+          "county": "San Diego",
+          "delta": 605,
+          "total": 6880,
+          "previous": 6275,
+          "pct": 0.09641434262948208
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 318,
+          "total": 2856,
+          "previous": 2538,
+          "pct": 0.12529550827423167
+        },
+        {
+          "county": "Riverside",
+          "delta": 268,
+          "total": 3550,
+          "previous": 3282,
+          "pct": 0.08165752589884218
+        },
+        {
+          "county": "Alameda",
+          "delta": 225,
+          "total": 4247,
+          "previous": 4022,
+          "pct": 0.05594231725509697
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 209,
+          "total": 2702,
+          "previous": 2493,
+          "pct": 0.08383473726434015
+        }
+      ]
+    },
+    "2022-Q4": {
+      "total": 91300,
+      "Electric": 79074,
+      "Hydrogen": 521,
+      "PHEV": 11705,
+      "fuelShare": {
+        "Electric": 0.8660898138006572,
+        "Hydrogen": 0.005706462212486309,
+        "PHEV": 0.1282037239868565
+      },
+      "previousPeriod": "2022-Q3",
+      "qoqDelta": 15356,
+      "qoqPct": 0.2022016222479722,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 25456
+        },
+        {
+          "county": "Orange",
+          "total": 11321
+        },
+        {
+          "county": "Santa Clara",
+          "total": 8119
+        },
+        {
+          "county": "San Diego",
+          "total": 7788
+        },
+        {
+          "county": "Alameda",
+          "total": 5386
+        },
+        {
+          "county": "Riverside",
+          "total": 3816
+        },
+        {
+          "county": "San Mateo",
+          "total": 3719
+        },
+        {
+          "county": "Contra Costa",
+          "total": 3468
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 5191,
+          "total": 25456,
+          "previous": 20265,
+          "pct": 0.2561559338761411
+        },
+        {
+          "county": "Orange",
+          "delta": 1938,
+          "total": 11321,
+          "previous": 9383,
+          "pct": 0.20654374933390174
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 1206,
+          "total": 8119,
+          "previous": 6913,
+          "pct": 0.1744539273831911
+        },
+        {
+          "county": "Alameda",
+          "delta": 1139,
+          "total": 5386,
+          "previous": 4247,
+          "pct": 0.2681893101012479
+        },
+        {
+          "county": "Sacramento",
+          "delta": 937,
+          "total": 2849,
+          "previous": 1912,
+          "pct": 0.49006276150627615
+        },
+        {
+          "county": "San Diego",
+          "delta": 908,
+          "total": 7788,
+          "previous": 6880,
+          "pct": 0.13197674418604652
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 766,
+          "total": 3468,
+          "previous": 2702,
+          "pct": 0.2834937083641747
+        },
+        {
+          "county": "San Francisco",
+          "delta": 524,
+          "total": 2134,
+          "previous": 1610,
+          "pct": 0.32546583850931676
+        }
+      ]
+    },
+    "2023-Q1": {
+      "total": 99285,
+      "Electric": 83811,
+      "Hydrogen": 790,
+      "PHEV": 14684,
+      "fuelShare": {
+        "Electric": 0.8441456413355491,
+        "Hydrogen": 0.007956891776199829,
+        "PHEV": 0.147897466888251
+      },
+      "previousPeriod": "2022-Q4",
+      "qoqDelta": 7985,
+      "qoqPct": 0.08745892661555311,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 28589
+        },
+        {
+          "county": "Orange",
+          "total": 12078
+        },
+        {
+          "county": "Santa Clara",
+          "total": 9455
+        },
+        {
+          "county": "San Diego",
+          "total": 8824
+        },
+        {
+          "county": "Alameda",
+          "total": 6954
+        },
+        {
+          "county": "San Mateo",
+          "total": 4560
+        },
+        {
+          "county": "Riverside",
+          "total": 3724
+        },
+        {
+          "county": "Contra Costa",
+          "total": 3531
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 3133,
+          "total": 28589,
+          "previous": 25456,
+          "pct": 0.12307510999371464
+        },
+        {
+          "county": "Alameda",
+          "delta": 1568,
+          "total": 6954,
+          "previous": 5386,
+          "pct": 0.2911251392499072
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 1336,
+          "total": 9455,
+          "previous": 8119,
+          "pct": 0.16455228476413353
+        },
+        {
+          "county": "San Diego",
+          "delta": 1036,
+          "total": 8824,
+          "previous": 7788,
+          "pct": 0.13302516692347202
+        },
+        {
+          "county": "San Mateo",
+          "delta": 841,
+          "total": 4560,
+          "previous": 3719,
+          "pct": 0.22613605808012907
+        },
+        {
+          "county": "Orange",
+          "delta": 757,
+          "total": 12078,
+          "previous": 11321,
+          "pct": 0.06686688455083473
+        },
+        {
+          "county": "Out Of State",
+          "delta": 372,
+          "total": 1003,
+          "previous": 631,
+          "pct": 0.589540412044374
+        },
+        {
+          "county": "San Joaquin",
+          "delta": 142,
+          "total": 1402,
+          "previous": 1260,
+          "pct": 0.1126984126984127
+        }
+      ]
+    },
+    "2023-Q2": {
+      "total": 119554,
+      "Electric": 103367,
+      "Hydrogen": 972,
+      "PHEV": 15215,
+      "fuelShare": {
+        "Electric": 0.8646051156799438,
+        "Hydrogen": 0.008130217307660137,
+        "PHEV": 0.12726466701239608
+      },
+      "previousPeriod": "2023-Q1",
+      "qoqDelta": 20269,
+      "qoqPct": 0.2041496701415118,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 33128
+        },
+        {
+          "county": "Orange",
+          "total": 15483
+        },
+        {
+          "county": "San Diego",
+          "total": 10723
+        },
+        {
+          "county": "Santa Clara",
+          "total": 10190
+        },
+        {
+          "county": "Alameda",
+          "total": 6562
+        },
+        {
+          "county": "Riverside",
+          "total": 5684
+        },
+        {
+          "county": "San Bernardino",
+          "total": 4709
+        },
+        {
+          "county": "Contra Costa",
+          "total": 4231
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 4539,
+          "total": 33128,
+          "previous": 28589,
+          "pct": 0.158767358074784
+        },
+        {
+          "county": "Orange",
+          "delta": 3405,
+          "total": 15483,
+          "previous": 12078,
+          "pct": 0.2819175360158967
+        },
+        {
+          "county": "Riverside",
+          "delta": 1960,
+          "total": 5684,
+          "previous": 3724,
+          "pct": 0.5263157894736842
+        },
+        {
+          "county": "San Diego",
+          "delta": 1899,
+          "total": 10723,
+          "previous": 8824,
+          "pct": 0.21520852221214867
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 1764,
+          "total": 4709,
+          "previous": 2945,
+          "pct": 0.598981324278438
+        },
+        {
+          "county": "Sacramento",
+          "delta": 1063,
+          "total": 3532,
+          "previous": 2469,
+          "pct": 0.4305386796273795
+        },
+        {
+          "county": "San Francisco",
+          "delta": 1003,
+          "total": 3146,
+          "previous": 2143,
+          "pct": 0.46803546430237986
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 735,
+          "total": 10190,
+          "previous": 9455,
+          "pct": 0.07773664727657324
+        }
+      ]
+    },
+    "2023-Q3": {
+      "total": 118937,
+      "Electric": 100380,
+      "Hydrogen": 1135,
+      "PHEV": 17422,
+      "fuelShare": {
+        "Electric": 0.8439762227061386,
+        "Hydrogen": 0.00954286723223219,
+        "PHEV": 0.14648091006162928
+      },
+      "previousPeriod": "2023-Q2",
+      "qoqDelta": -617,
+      "qoqPct": -0.005160847817722535,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 33508
+        },
+        {
+          "county": "Orange",
+          "total": 14370
+        },
+        {
+          "county": "Santa Clara",
+          "total": 10287
+        },
+        {
+          "county": "San Diego",
+          "total": 9900
+        },
+        {
+          "county": "Alameda",
+          "total": 6627
+        },
+        {
+          "county": "Riverside",
+          "total": 5451
+        },
+        {
+          "county": "San Mateo",
+          "total": 4823
+        },
+        {
+          "county": "San Bernardino",
+          "total": 4388
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Out Of State",
+          "delta": 1246,
+          "total": 2746,
+          "previous": 1500,
+          "pct": 0.8306666666666667
+        },
+        {
+          "county": "San Mateo",
+          "delta": 902,
+          "total": 4823,
+          "previous": 3921,
+          "pct": 0.23004335628666156
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 380,
+          "total": 33508,
+          "previous": 33128,
+          "pct": 0.011470659261048056
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 97,
+          "total": 10287,
+          "previous": 10190,
+          "pct": 0.009519136408243376
+        },
+        {
+          "county": "Fresno",
+          "delta": 92,
+          "total": 1173,
+          "previous": 1081,
+          "pct": 0.0851063829787234
+        },
+        {
+          "county": "Stanislaus",
+          "delta": 88,
+          "total": 619,
+          "previous": 531,
+          "pct": 0.1657250470809793
+        },
+        {
+          "county": "Santa Cruz",
+          "delta": 75,
+          "total": 570,
+          "previous": 495,
+          "pct": 0.15151515151515152
+        },
+        {
+          "county": "Santa Barbara",
+          "delta": 68,
+          "total": 815,
+          "previous": 747,
+          "pct": 0.09103078982597054
+        }
+      ]
+    },
+    "2023-Q4": {
+      "total": 102501,
+      "Electric": 86827,
+      "Hydrogen": 220,
+      "PHEV": 15454,
+      "fuelShare": {
+        "Electric": 0.8470844186885982,
+        "Hydrogen": 0.0021463205237022076,
+        "PHEV": 0.15076926078769964
+      },
+      "previousPeriod": "2023-Q3",
+      "qoqDelta": -16436,
+      "qoqPct": -0.1381908068977694,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 29526
+        },
+        {
+          "county": "Orange",
+          "total": 12379
+        },
+        {
+          "county": "San Diego",
+          "total": 8840
+        },
+        {
+          "county": "Santa Clara",
+          "total": 8348
+        },
+        {
+          "county": "Alameda",
+          "total": 5145
+        },
+        {
+          "county": "Riverside",
+          "total": 5040
+        },
+        {
+          "county": "San Bernardino",
+          "total": 3883
+        },
+        {
+          "county": "Contra Costa",
+          "total": 3483
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Out Of State",
+          "delta": 275,
+          "total": 3021,
+          "previous": 2746,
+          "pct": 0.10014566642388929
+        },
+        {
+          "county": "Napa",
+          "delta": 102,
+          "total": 408,
+          "previous": 306,
+          "pct": 0.3333333333333333
+        },
+        {
+          "county": "San Luis Obispo",
+          "delta": 23,
+          "total": 556,
+          "previous": 533,
+          "pct": 0.043151969981238276
+        },
+        {
+          "county": "Sonoma",
+          "delta": 21,
+          "total": 1035,
+          "previous": 1014,
+          "pct": 0.020710059171597635
+        },
+        {
+          "county": "Tuolumne",
+          "delta": 14,
+          "total": 52,
+          "previous": 38,
+          "pct": 0.3684210526315789
+        },
+        {
+          "county": "Marin",
+          "delta": 11,
+          "total": 1112,
+          "previous": 1101,
+          "pct": 0.009990917347865577
+        },
+        {
+          "county": "Mono",
+          "delta": 5,
+          "total": 15,
+          "previous": 10,
+          "pct": 0.5
+        },
+        {
+          "county": "Lassen",
+          "delta": 4,
+          "total": 7,
+          "previous": 3,
+          "pct": 1.3333333333333333
+        }
+      ]
+    },
+    "2024-Q1": {
+      "total": 103017,
+      "Electric": 86431,
+      "Hydrogen": 197,
+      "PHEV": 16389,
+      "fuelShare": {
+        "Electric": 0.8389974470233068,
+        "Hydrogen": 0.0019123057359464943,
+        "PHEV": 0.15909024724074666
+      },
+      "previousPeriod": "2023-Q4",
+      "qoqDelta": 516,
+      "qoqPct": 0.005034097228319724,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 30214
+        },
+        {
+          "county": "Orange",
+          "total": 12365
+        },
+        {
+          "county": "San Diego",
+          "total": 9094
+        },
+        {
+          "county": "Santa Clara",
+          "total": 8942
+        },
+        {
+          "county": "Alameda",
+          "total": 5693
+        },
+        {
+          "county": "Riverside",
+          "total": 4967
+        },
+        {
+          "county": "San Bernardino",
+          "total": 3648
+        },
+        {
+          "county": "Contra Costa",
+          "total": 3447
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 688,
+          "total": 30214,
+          "previous": 29526,
+          "pct": 0.023301496985707514
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 594,
+          "total": 8942,
+          "previous": 8348,
+          "pct": 0.07115476760900814
+        },
+        {
+          "county": "Alameda",
+          "delta": 548,
+          "total": 5693,
+          "previous": 5145,
+          "pct": 0.106511175898931
+        },
+        {
+          "county": "San Diego",
+          "delta": 254,
+          "total": 9094,
+          "previous": 8840,
+          "pct": 0.028733031674208143
+        },
+        {
+          "county": "San Francisco",
+          "delta": 215,
+          "total": 2263,
+          "previous": 2048,
+          "pct": 0.10498046875
+        },
+        {
+          "county": "Yolo",
+          "delta": 124,
+          "total": 497,
+          "previous": 373,
+          "pct": 0.3324396782841823
+        },
+        {
+          "county": "Placer",
+          "delta": 123,
+          "total": 1223,
+          "previous": 1100,
+          "pct": 0.11181818181818182
+        },
+        {
+          "county": "Marin",
+          "delta": 93,
+          "total": 1205,
+          "previous": 1112,
+          "pct": 0.08363309352517985
+        }
+      ]
+    },
+    "2024-Q2": {
+      "total": 116814,
+      "Electric": 100124,
+      "Hydrogen": 94,
+      "PHEV": 16596,
+      "fuelShare": {
+        "Electric": 0.8571232900166076,
+        "Hydrogen": 0.0008046980670125156,
+        "PHEV": 0.1420720119163799
+      },
+      "previousPeriod": "2024-Q1",
+      "qoqDelta": 13797,
+      "qoqPct": 0.13392935146626286,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 33435
+        },
+        {
+          "county": "Orange",
+          "total": 14702
+        },
+        {
+          "county": "San Diego",
+          "total": 10097
+        },
+        {
+          "county": "Santa Clara",
+          "total": 9382
+        },
+        {
+          "county": "Riverside",
+          "total": 5902
+        },
+        {
+          "county": "Alameda",
+          "total": 5674
+        },
+        {
+          "county": "San Bernardino",
+          "total": 4468
+        },
+        {
+          "county": "Contra Costa",
+          "total": 3906
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 3221,
+          "total": 33435,
+          "previous": 30214,
+          "pct": 0.10660620904216589
+        },
+        {
+          "county": "Orange",
+          "delta": 2337,
+          "total": 14702,
+          "previous": 12365,
+          "pct": 0.18900121310149615
+        },
+        {
+          "county": "Out Of State",
+          "delta": 1491,
+          "total": 3899,
+          "previous": 2408,
+          "pct": 0.6191860465116279
+        },
+        {
+          "county": "San Diego",
+          "delta": 1003,
+          "total": 10097,
+          "previous": 9094,
+          "pct": 0.11029250054981306
+        },
+        {
+          "county": "Riverside",
+          "delta": 935,
+          "total": 5902,
+          "previous": 4967,
+          "pct": 0.18824239983893698
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 820,
+          "total": 4468,
+          "previous": 3648,
+          "pct": 0.22478070175438597
+        },
+        {
+          "county": "San Mateo",
+          "delta": 804,
+          "total": 3763,
+          "previous": 2959,
+          "pct": 0.27171341669482935
+        },
+        {
+          "county": "Sacramento",
+          "delta": 676,
+          "total": 3389,
+          "previous": 2713,
+          "pct": 0.24917065978621453
+        }
+      ]
+    },
+    "2024-Q3": {
+      "total": 115240,
+      "Electric": 99738,
+      "Hydrogen": 128,
+      "PHEV": 15374,
+      "fuelShare": {
+        "Electric": 0.8654807358556057,
+        "Hydrogen": 0.0011107254425546686,
+        "PHEV": 0.13340853870183964
+      },
+      "previousPeriod": "2024-Q2",
+      "qoqDelta": -1574,
+      "qoqPct": -0.01347441231359255,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 33169
+        },
+        {
+          "county": "Orange",
+          "total": 14097
+        },
+        {
+          "county": "Santa Clara",
+          "total": 10579
+        },
+        {
+          "county": "San Diego",
+          "total": 9968
+        },
+        {
+          "county": "Riverside",
+          "total": 5987
+        },
+        {
+          "county": "Alameda",
+          "total": 5510
+        },
+        {
+          "county": "San Bernardino",
+          "total": 4573
+        },
+        {
+          "county": "Contra Costa",
+          "total": 3750
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Santa Clara",
+          "delta": 1197,
+          "total": 10579,
+          "previous": 9382,
+          "pct": 0.12758473672990833
+        },
+        {
+          "county": "Sacramento",
+          "delta": 300,
+          "total": 3689,
+          "previous": 3389,
+          "pct": 0.08852168781351431
+        },
+        {
+          "county": "Ventura",
+          "delta": 265,
+          "total": 2734,
+          "previous": 2469,
+          "pct": 0.10733090319967598
+        },
+        {
+          "county": "San Francisco",
+          "delta": 126,
+          "total": 2371,
+          "previous": 2245,
+          "pct": 0.05612472160356347
+        },
+        {
+          "county": "Kern",
+          "delta": 106,
+          "total": 872,
+          "previous": 766,
+          "pct": 0.13838120104438642
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 105,
+          "total": 4573,
+          "previous": 4468,
+          "pct": 0.023500447627573858
+        },
+        {
+          "county": "Riverside",
+          "delta": 85,
+          "total": 5987,
+          "previous": 5902,
+          "pct": 0.014401897661809555
+        },
+        {
+          "county": "Fresno",
+          "delta": 83,
+          "total": 1019,
+          "previous": 936,
+          "pct": 0.08867521367521368
+        }
+      ]
+    },
+    "2024-Q4": {
+      "total": 108303,
+      "Electric": 92617,
+      "Hydrogen": 181,
+      "PHEV": 15505,
+      "fuelShare": {
+        "Electric": 0.8551656002142138,
+        "Hydrogen": 0.001671237177178841,
+        "PHEV": 0.14316316260860734
+      },
+      "previousPeriod": "2024-Q3",
+      "qoqDelta": -6937,
+      "qoqPct": -0.06019611246095106,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 31482
+        },
+        {
+          "county": "Orange",
+          "total": 13419
+        },
+        {
+          "county": "Santa Clara",
+          "total": 9613
+        },
+        {
+          "county": "San Diego",
+          "total": 9329
+        },
+        {
+          "county": "Alameda",
+          "total": 5443
+        },
+        {
+          "county": "Riverside",
+          "total": 5346
+        },
+        {
+          "county": "San Bernardino",
+          "total": 4138
+        },
+        {
+          "county": "Contra Costa",
+          "total": 3633
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Marin",
+          "delta": 45,
+          "total": 1279,
+          "previous": 1234,
+          "pct": 0.03646677471636953
+        },
+        {
+          "county": "Imperial",
+          "delta": 44,
+          "total": 242,
+          "previous": 198,
+          "pct": 0.2222222222222222
+        },
+        {
+          "county": "San Mateo",
+          "delta": 31,
+          "total": 3241,
+          "previous": 3210,
+          "pct": 0.009657320872274144
+        },
+        {
+          "county": "Nevada",
+          "delta": 31,
+          "total": 154,
+          "previous": 123,
+          "pct": 0.25203252032520324
+        },
+        {
+          "county": "Butte",
+          "delta": 21,
+          "total": 143,
+          "previous": 122,
+          "pct": 0.1721311475409836
+        },
+        {
+          "county": "Sonoma",
+          "delta": 9,
+          "total": 1010,
+          "previous": 1001,
+          "pct": 0.008991008991008992
+        },
+        {
+          "county": "Mariposa",
+          "delta": 5,
+          "total": 12,
+          "previous": 7,
+          "pct": 0.7142857142857143
+        },
+        {
+          "county": "Amador",
+          "delta": 4,
+          "total": 41,
+          "previous": 37,
+          "pct": 0.10810810810810811
+        }
+      ]
+    },
+    "2025-Q1": {
+      "total": 100953,
+      "Electric": 85610,
+      "Hydrogen": 68,
+      "PHEV": 15275,
+      "fuelShare": {
+        "Electric": 0.8480183847929235,
+        "Hydrogen": 0.0006735807752122274,
+        "PHEV": 0.15130803443186433
+      },
+      "previousPeriod": "2024-Q4",
+      "qoqDelta": -7350,
+      "qoqPct": -0.067865156089859,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 29255
+        },
+        {
+          "county": "Orange",
+          "total": 12554
+        },
+        {
+          "county": "San Diego",
+          "total": 8884
+        },
+        {
+          "county": "Santa Clara",
+          "total": 8613
+        },
+        {
+          "county": "Alameda",
+          "total": 5542
+        },
+        {
+          "county": "Riverside",
+          "total": 4994
+        },
+        {
+          "county": "San Bernardino",
+          "total": 3830
+        },
+        {
+          "county": "Contra Costa",
+          "total": 3332
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Alameda",
+          "delta": 99,
+          "total": 5542,
+          "previous": 5443,
+          "pct": 0.018188498989527836
+        },
+        {
+          "county": "San Mateo",
+          "delta": 76,
+          "total": 3317,
+          "previous": 3241,
+          "pct": 0.023449552607219995
+        },
+        {
+          "county": "Marin",
+          "delta": 41,
+          "total": 1320,
+          "previous": 1279,
+          "pct": 0.03205629397967162
+        },
+        {
+          "county": "Kern",
+          "delta": 27,
+          "total": 806,
+          "previous": 779,
+          "pct": 0.03465982028241335
+        },
+        {
+          "county": "Monterey",
+          "delta": 22,
+          "total": 511,
+          "previous": 489,
+          "pct": 0.044989775051124746
+        },
+        {
+          "county": "San Benito",
+          "delta": 9,
+          "total": 116,
+          "previous": 107,
+          "pct": 0.08411214953271028
+        },
+        {
+          "county": "Tuolumne",
+          "delta": 6,
+          "total": 38,
+          "previous": 32,
+          "pct": 0.1875
+        },
+        {
+          "county": "Colusa",
+          "delta": 5,
+          "total": 13,
+          "previous": 8,
+          "pct": 0.625
+        }
+      ]
+    },
+    "2025-Q2": {
+      "total": 101623,
+      "Electric": 84693,
+      "Hydrogen": 62,
+      "PHEV": 16868,
+      "fuelShare": {
+        "Electric": 0.833403855426429,
+        "Hydrogen": 0.0006100981077118368,
+        "PHEV": 0.1659860464658591
+      },
+      "previousPeriod": "2025-Q1",
+      "qoqDelta": 670,
+      "qoqPct": 0.006636751755767535,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 29648
+        },
+        {
+          "county": "Orange",
+          "total": 12773
+        },
+        {
+          "county": "San Diego",
+          "total": 8850
+        },
+        {
+          "county": "Santa Clara",
+          "total": 8000
+        },
+        {
+          "county": "Riverside",
+          "total": 5306
+        },
+        {
+          "county": "Alameda",
+          "total": 5084
+        },
+        {
+          "county": "San Bernardino",
+          "total": 3870
+        },
+        {
+          "county": "San Mateo",
+          "total": 3624
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Out Of State",
+          "delta": 457,
+          "total": 1400,
+          "previous": 943,
+          "pct": 0.48462354188759277
+        },
+        {
+          "county": "Los Angeles",
+          "delta": 393,
+          "total": 29648,
+          "previous": 29255,
+          "pct": 0.013433601093830114
+        },
+        {
+          "county": "Riverside",
+          "delta": 312,
+          "total": 5306,
+          "previous": 4994,
+          "pct": 0.062474969963956746
+        },
+        {
+          "county": "San Mateo",
+          "delta": 307,
+          "total": 3624,
+          "previous": 3317,
+          "pct": 0.09255351220982816
+        },
+        {
+          "county": "Orange",
+          "delta": 219,
+          "total": 12773,
+          "previous": 12554,
+          "pct": 0.017444639158833836
+        },
+        {
+          "county": "Ventura",
+          "delta": 149,
+          "total": 2209,
+          "previous": 2060,
+          "pct": 0.07233009708737864
+        },
+        {
+          "county": "Sacramento",
+          "delta": 138,
+          "total": 3043,
+          "previous": 2905,
+          "pct": 0.04750430292598967
+        },
+        {
+          "county": "San Joaquin",
+          "delta": 124,
+          "total": 1287,
+          "previous": 1163,
+          "pct": 0.10662080825451418
+        }
+      ]
+    },
+    "2025-Q3": {
+      "total": 127089,
+      "Electric": 110380,
+      "Hydrogen": 114,
+      "PHEV": 16595,
+      "fuelShare": {
+        "Electric": 0.8685252067448795,
+        "Hydrogen": 0.0008970091825413687,
+        "PHEV": 0.13057778407257906
+      },
+      "previousPeriod": "2025-Q2",
+      "qoqDelta": 25466,
+      "qoqPct": 0.2505928775966071,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 36259
+        },
+        {
+          "county": "Orange",
+          "total": 16210
+        },
+        {
+          "county": "Santa Clara",
+          "total": 11167
+        },
+        {
+          "county": "San Diego",
+          "total": 11017
+        },
+        {
+          "county": "Alameda",
+          "total": 6954
+        },
+        {
+          "county": "Riverside",
+          "total": 6311
+        },
+        {
+          "county": "San Bernardino",
+          "total": 4770
+        },
+        {
+          "county": "Contra Costa",
+          "total": 4143
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Los Angeles",
+          "delta": 6611,
+          "total": 36259,
+          "previous": 29648,
+          "pct": 0.2229830005396654
+        },
+        {
+          "county": "Orange",
+          "delta": 3437,
+          "total": 16210,
+          "previous": 12773,
+          "pct": 0.26908322242229704
+        },
+        {
+          "county": "Santa Clara",
+          "delta": 3167,
+          "total": 11167,
+          "previous": 8000,
+          "pct": 0.395875
+        },
+        {
+          "county": "San Diego",
+          "delta": 2167,
+          "total": 11017,
+          "previous": 8850,
+          "pct": 0.24485875706214688
+        },
+        {
+          "county": "Alameda",
+          "delta": 1870,
+          "total": 6954,
+          "previous": 5084,
+          "pct": 0.36782061369000785
+        },
+        {
+          "county": "Riverside",
+          "delta": 1005,
+          "total": 6311,
+          "previous": 5306,
+          "pct": 0.1894082171127026
+        },
+        {
+          "county": "Contra Costa",
+          "delta": 956,
+          "total": 4143,
+          "previous": 3187,
+          "pct": 0.2999686225290242
+        },
+        {
+          "county": "San Bernardino",
+          "delta": 900,
+          "total": 4770,
+          "previous": 3870,
+          "pct": 0.23255813953488372
+        }
+      ]
+    },
+    "2025-Q4": {
+      "total": 79066,
+      "Electric": 70360,
+      "Hydrogen": 119,
+      "PHEV": 8587,
+      "fuelShare": {
+        "Electric": 0.8898894594389497,
+        "Hydrogen": 0.0015050717122404068,
+        "PHEV": 0.10860546884880985
+      },
+      "previousPeriod": "2025-Q3",
+      "qoqDelta": -48023,
+      "qoqPct": -0.37786905239635216,
+      "topCounties": [
+        {
+          "county": "Los Angeles",
+          "total": 21121
+        },
+        {
+          "county": "Santa Clara",
+          "total": 9293
+        },
+        {
+          "county": "Orange",
+          "total": 9285
+        },
+        {
+          "county": "San Diego",
+          "total": 6365
+        },
+        {
+          "county": "Alameda",
+          "total": 4917
+        },
+        {
+          "county": "Riverside",
+          "total": 3679
+        },
+        {
+          "county": "San Bernardino",
+          "total": 2779
+        },
+        {
+          "county": "Contra Costa",
+          "total": 2693
+        }
+      ],
+      "growthCounties": [
+        {
+          "county": "Del Norte",
+          "delta": 2,
+          "total": 8,
+          "previous": 6,
+          "pct": 0.3333333333333333
+        },
+        {
+          "county": "Sierra",
+          "delta": 2,
+          "total": 5,
+          "previous": 3,
+          "pct": 0.6666666666666666
+        }
+      ]
+    }
+  },
+  "latestPeriod": "2025-Q4",
+  "peakPeriod": {
+    "period": "2025-Q3",
+    "year": 2025,
+    "quarter": 3,
+    "Electric": 110380,
+    "Hydrogen": 114,
+    "PHEV": 16595,
+    "total": 127089
+  },
+  "chargerSummary": {
+    "latestPeriod": "2025-Q3",
+    "totalChargers": 197572,
+    "totalSales": 125442,
+    "salesPerCharger": 0.634917903346628,
+    "topChargerCounty": {
+      "county": "Los Angeles",
+      "chargers": 85144
+    }
+  }
+}

@@ -1,6 +1,7 @@
 import { CONFIG } from "./config.js";
 import { state } from "./state.js";
 import { renderGlyphs } from "./glyphs.js";
+import { updateStoryPeriod } from "./story.js";
 import { areaTooltip, hideTooltip, showTooltip } from "./tooltips.js";
 import { countySlug, getCountyName, getZip, loadCountyZcta, radiusScaleFor, salesForArea } from "./utils.js";
 
@@ -189,6 +190,7 @@ export function updateMapPeriod(animate = true) {
   const { ui } = state;
   const period = state.timeline[state.periodIndex] || "";
   ui.periodLabel.text(period);
+  updateStoryPeriod();
 
   if (state.currentView === "state") {
     renderGlyphs({
